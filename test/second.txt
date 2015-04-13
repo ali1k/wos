@@ -1,0 +1,1460 @@
+FN ISI Export Format
+VR 1.0
+PT J
+AU Jing, LH
+   Yang, CH
+   Qiao, RR
+   Niu, M
+   Du, MH
+   Wang, DY
+   Gao, MY
+AF Jing, Lihong
+   Yang, Chunhui
+   Qiao, Ruirui
+   Niu, Mu
+   Du, Meihong
+   Wang, Dayang
+   Gao, Mingyuan
+TI Highly Fluorescent CdTe@SiO2 Particles Prepared via Reverse
+   Microemulsion Method
+SO CHEMISTRY OF MATERIALS
+LA English
+DT Article
+ID SEMICONDUCTOR QUANTUM DOTS; CORE-SHELL NANOCRYSTALS; SILICA-COATED
+   CDTE; CORE/SHELL NANOCRYSTALS; CDSE NANOCRYSTALS; LIVE CELLS;
+   PHOTOLUMINESCENCE; SPHERES; NANOPARTICLES; SIZE
+AB Following on from our previous investigations, fluorescent core/shell
+   CdTe@SiO2 particles were prepared via the water-in-oil (W/O) reverse
+   microemulsion method. It was found out that incubating the as-prepared
+   aqueous CdTe quantum dots stabilized by thioglycolic acid in ammoniacal
+   solution not only increased the fluorescence quantum yield of CdTe
+   quantum dots but also gave rise to high retention of fluorescence
+   throughout the silica coating. Under optimized conditions, the
+   fluorescence quantum yield of CdTe quantum dots encapsulated in silica
+   particles reached 47%. Both absorption and fluorescence spectroscopy
+   were used in combination with X-ray photoelectron spectroscopy and
+   electrophoresis to investigate the fluorescence enhancement effect
+   occurring during incubation. the high retention of fluorescence quantum
+   yield, its well its the formation of multicore/shell CdTe@SiO2
+   particles as it result of the incubation process imposed on the
+   as-prepared CdTe quantum dots.
+C1 [Jing, Lihong; Yang, Chunhui; Qiao, Ruirui; Niu, Mu; Gao, Mingyuan] Chinese Acad Sci, Inst Chem, Beijing 100190, Peoples R China.
+   [Du, Meihong] Beijing Ctr Phys & Chem Anal, Beijing 100089, Peoples R China.
+   [Wang, Dayang] Max Planck Inst Colloids & Interfaces, D-14424 Potsdam, Germany.
+RP Gao, MY, Chinese Acad Sci, Inst Chem, Bei Yi Jie 2, Beijing 100190,
+   Peoples R China.
+EM gaomy@iccas.ac.cn
+FU NSFC [20673128, 20640430564, 210773140, 20820102035]
+FX The current investigations were financially supported by NSFC (Grants
+   20673128, 20640430564, 210773140, and 20820102035).
+CR AHARONI A, 2006, J AM CHEM SOC, V128, P257, DOI 10.1021/ja056326v
+   ALIVISATOS AP, 1996, SCIENCE, V271, P933
+   ALIVISATOS AP, 2005, ANNU REV BIOMED ENG, V7, P55, DOI
+   10.1146/annurev.bioeng.7.060804.100432
+   BAILEY RE, 2003, J AM CHEM SOC, V125, P7100, DOI 10.1021/ja035000o
+   BAKALOVA R, 2007, NAT PHOTONICS, V1, P487, DOI 10.1038/nphoton.2007.150
+   BAO HB, 2004, CHEM MATER, V16, P3853, DOI 10.1021/cm049172b
+   BOLDT K, 2006, J PHYS CHEM B, V110, P1959, DOI 10.1021/jp056371p
+   BRUCHEZ M, 1998, SCIENCE, V281, P2013
+   CHAN WCW, 1998, SCIENCE, V281, P2016
+   CHAN WCW, 2002, CURR OPIN BIOTECH, V13, P40
+   CHAN Y, 2004, ADV MATER, V16, P2092, DOI 10.1002/adma.200400237
+   CHANG SY, 1994, J AM CHEM SOC, V116, P6739
+   CHEN JP, 1993, J CATAL, V139, P277
+   CORREADUARTE MA, 1998, CHEM PHYS LETT, V286, P497
+   DABBOUSI BO, 1997, J PHYS CHEM B, V101, P9463
+   DARBANDI M, 2005, CHEM MATER, V17, P5720, DOI 10.1021/cm051467h
+   DARBANDI M, 2006, LANGMUIR, V22, P4371, DOI 10.1021/la0529658
+   DERFUS AM, 2004, NANO LETT, V4, P11, DOI 10.1021/nl0347334
+   DUBERTRET B, 2002, SCIENCE, V298, P1759
+   DUNCAN TV, 2009, J PHYS CHEM C, V113, P7561, DOI 10.1021/jp811245r
+   GAO ZF, 2007, COLLOID SURFACE A, V304, P77, DOI
+   10.1016/j.colsurfa.2007.04.045
+   GAPONIK N, 2002, J PHYS CHEM B, V106, P7177
+   GERION D, 2001, J PHYS CHEM B, V105, P8861
+   GILL R, 2008, ANGEW CHEM INT EDIT, V47, P7602, DOI
+   10.1002/anie.200800169
+   HAN MY, 2001, NAT BIOTECHNOL, V19, P631
+   HARRISON MT, 2000, ADV MATER, V12, P123
+   HE Y, 2006, J PHYS CHEM B, V110, P13370, DOI 10.1021/jp057498h
+   HENGLEIN A, 1989, CHEM REV, V89, P1861
+   HERRON N, 1990, J AM CHEM SOC, V112, P1322
+   HINES MA, 1996, J PHYS CHEM-US, V100, P468
+   HINES MA, 1998, J PHYS CHEM B, V102, P3655
+   HUH S, 2003, CHEM MATER, V15, P4247, DOI 10.1021/cm0210041
+   KIM S, 2004, NAT BIOTECHNOL, V22, P93, DOI 10.1038/nbt920
+   KLOEPFER JA, 2005, J PHYS CHEM B, V109, P9996, DOI 10.1021/jp044581g
+   KOOLE R, 2008, CHEM MATER, V20, P2503, DOI 10.1021/cm703348y
+   KUBIN RF, 1982, J LUMIN, V27, P455
+   LEE JA, 2007, ADV MATER, V19, P3113, DOI 10.1002/adma.200701955
+   LI HB, 2007, CHEM MATER, V19, P4148, DOI 10.1021/cm0700089
+   MEDINTZ IL, 2005, NAT MATER, V4, P435, DOI 10.1038/nmat1390
+   MEKIS I, 2003, J PHYS CHEM B, V107, P7454, DOI 10.1021/jp0278364
+   MICHALET X, 2005, SCIENCE, V307, P538, DOI 10.1126/science.1104274
+   MOKARI T, 2005, CHEM MATER, V17, P258, DOI 10.1021/cm048477n
+   MURRAY CB, 1993, J AM CHEM SOC, V115, P8706
+   NANN T, 2004, ANGEW CHEM INT EDIT, V43, P5393, DOI
+   10.1002/anie.200460752
+   NAZZAL AY, 2004, J PHYS CHEM B, V108, P5507, DOI 10.1021/jp035361q
+   PENG XG, 1997, J AM CHEM SOC, V119, P7019
+   QIAN L, 2009, APPL PHYS LETT, P94
+   QU LH, 2002, J AM CHEM SOC, V124, P2049
+   REISS P, 2002, NANO LETTERS, V2, P781
+   RESCHGENGER U, 2008, NAT METHODS, V5, P763, DOI 10.1038/NMETH.1248
+   ROGACH AL, 2000, CHEM MATER, V12, P2676
+   ROGACH AL, 2007, J PHYS CHEM C, V111, P14628, DOI 10.1021/jp072463y
+   ROGACH AL, 2007, SMALL, V3, P536, DOI 10.1002/smll.200600625
+   SARGENT EH, 2005, ADV MATER, V17, P515, DOI 10.1002/adma.200401552
+   SCHROEDTER A, 2002, NANO LETT, V2, P1363, DOI 10.1021/nl025779k
+   SELVAN ST, 2005, ADV MATER, V17, P1620, DOI 10.1002/adma.200401960
+   SELVAN ST, 2007, ANGEW CHEM INT EDIT, V46, P2448, DOI
+   10.1002/anie.200604245
+   SHAVEL A, 2006, J PHYS CHEM B, V110, P19280, DOI 10.1021/jp063351u
+   SMITH AM, 2006, EXPERT REV MOL DIAGN, V6, P231, DOI
+   10.1586/14737159.6.2.231
+   SOH YW, 2003, IND ENG CHEM RES, V42, P2975, DOI 10.1021/ie020861b
+   SPANHEL L, 1987, J AM CHEM SOC, V109, P5649
+   SWAYAMBUNATHAN V, 1990, J AM CHEM SOC, V112, P3831
+   WAGNER CD, 1979, HDB XRAY PHOTOELECTR
+   WOLCOTT A, 2006, J PHYS CHEM B, V110, P5779, DOI 10.1021/jp057435z
+   XIE R, 2007, J AM CHEM SOC, V129, P15432, DOI 10.1021/ja076363h
+   YANG J, 2007, J ENVIRON SCI-CHINA, V19, P123
+   YANG YH, 2007, J MATER CHEM, V17, P2930, DOI 10.1039/b703060f
+   YI DK, 2005, J AM CHEM SOC, V127, P4990, DOI 10.1021/ja0428863
+   YU WW, 2002, ANGEW CHEM INT EDIT, V41, P2368
+   ZHANG H, 2002, THIN SOLID FILMS, V418, P169
+   ZHANG H, 2003, J PHYS CHEM B, V107, P8, DOI 10.1021/jp025910c
+   ZHANG TT, 2006, NANO LETT, V6, P800, DOI 10.1021/nl0603350
+   ZHANG ZH, 2004, J PHYS CHEM B, V108, P18569, DOI 10.1021/jp0470849
+   ZHAO D, 2009, J PHYS CHEM C, V113, P1293, DOI 10.1021/jp808465s
+   ZHELEV Z, 2006, J AM CHEM SOC, V128, P6324, DOI 10.1021/ja061137d
+   ZIEGLER J, 2008, ADV MATER, V20, P4068, DOI 10.1002/adma.200800724
+NR 76
+TC 6
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 0897-4756
+J9 CHEM MATER
+JI Chem. Mat.
+PD JAN 26
+PY 2010
+VL 22
+IS 2
+BP 420
+EP 427
+DI 10.1021/cm9029962
+PG 8
+SC Chemistry, Physical; Materials Science, Multidisciplinary
+GA 543LZ
+UT ISI:000273580700020
+ER
+
+PT J
+AU Kailasam, K
+   Jun, YS
+   Katekomol, P
+   Epping, JD
+   Hong, WH
+   Thomas, A
+AF Kailasam, Kamalakannan
+   Jun, Young-Si
+   Katekomol, Phisan
+   Epping, Jan Dirk
+   Hong, Won Hi
+   Thomas, Arne
+TI Mesoporous Melamine Resins by Soft Templating of Block-co-Polymer
+   Mesophases
+SO CHEMISTRY OF MATERIALS
+LA English
+DT Article
+ID INTRINSIC MICROPOROSITY PIMS; GRAPHITIC CARBON NITRIDE; HIERARCHICAL
+   POROSITY; SORPTION PROPERTIES; FORMALDEHYDE RESIN; DIBLOCK COPOLYMER;
+   ORGANIC MATERIALS; DIOXIDE CAPTURE; PHENOLIC RESIN; METAL NITRIDE
+AB Mesoporous melamine resins have been prepared using hexamethoxymethyl
+   melamine (HMMM) as monomer and block-co-polymer Pluronic F127 as
+   template. At acidic conditions, HMMM condenses into melamine resins,
+   replicating the mesophases formed by the block-co-polymer template. The
+   template can be removed by solvent extraction, yielding mesoporous
+   melamine resins with surface areas of up to 258 m(2)/g and pore
+   diameters of 7.8 nm. At a HMMM/F127 weight ratio of 1:1 an ordered
+   mesoporous melamine resin is observed exhibiting a 2d hexagonal
+   arrangement of cylindrical pores. The simplicity of the synthesis of
+   these mesoporous films allows the large Scale production of the
+   materials, for example, in the form of free-standing films.
+C1 [Jun, Young-Si; Hong, Won Hi] Korea Adv Inst Sci & Technol, Dept Chem & Biomol Engn, Taejon 305701, South Korea.
+   [Kailasam, Kamalakannan; Katekomol, Phisan; Epping, Jan Dirk; Thomas, Arne] Tech Univ Berlin, D-10587 Berlin, Germany.
+RP Hong, WH, Korea Adv Inst Sci & Technol, Dept Chem & Biomol Engn, Taejon
+   305701, South Korea.
+EM whhong@kaist.ac.kr
+   arne.thomas@tu-berlin.de
+FU BMBF [01RC0901F]; Ministry of Science and Technology of Korea ; Brain
+   Korea 21 (BK21) 
+FX Financial support by the BMBF (Grant number 01RC0901F), the
+   Genome-based Integrated Bioprocess Project of the Ministry of Science
+   and Technology of Korea, and Brain Korea 21 (BK21) is gratefully
+   acknowledged. We are grateful to Dr. Amrid Eirgensen for help with XRD
+   measurements. We thank Prof. Markus Antonietti and the Max Planck
+   Institute of Colloids and Interfaces for the TGA and TEM measurements.
+CR BUDD PM, 2004, CHEM COMMUN     0121, P230, DOI 10.1039/b311764b
+   CHENG SF, 2008, P INT S CREAT CONTR, P681
+   COOPER AI, 2009, ADV MATER, V21, P1291, DOI 10.1002/adma.200801971
+   DENG Y, 2008, J MATER CHEM, V18, P91, DOI 10.1039/b713310c
+   DENG YH, 2008, CHEM MATER, V20, P7281, DOI 10.1021/cm802413q
+   DONG YR, 2009, CARBON, V47, P2138, DOI 10.1016/j.carbon.2009.04.011
+   EGGER CC, 2007, P 14 INT SOL GEL C M, P86
+   FARHA OK, 2009, CHEM MATER, V21, P3033, DOI 10.1021/cm901280w
+   FISCHER A, 2007, ADV MATER, V19, P264, DOI 10.1002/adma.200602151
+   FISCHER A, 2008, ACS NANO, V2, P2489, DOI 10.1021/nn800503a
+   FISCHER A, 2008, CHEM MATER, V20, P7383, DOI 10.1021/cm802127t
+   GOETTMANN F, 2007, ANGEW CHEM INT EDIT, V46, P2717, DOI
+   10.1002/anie.200603478
+   HAMLEY IW, 2003, NANOTECHNOLOGY, V14, R39
+   HENTZE HP, 2001, CURR OPIN SOLID ST M, V5, P343
+   JANG J, 2005, CHEM COMMUN, P1200, DOI 10.1039/b416518g
+   JIANG JX, 2007, ANGEW CHEM INT EDIT, V46, P8574, DOI
+   10.1002/anie.200701595
+   JONES FN, 1993, P 19 INT C ORG COAT, P189
+   JUN YS, 2009, ADV MATER, V21, P4270, DOI 10.1002/adma.200803500
+   KIM SN, 2008, MICROPOR MESOPOR MAT, V115, P497, DOI
+   10.1016/j.micromeso.2008.02.025
+   KOSONEN H, 2006, ADV MATER, V18, P201, DOI 10.1002/adma.200401110
+   KUHN P, 2008, ANGEW CHEM INT EDIT, V47, P3450, DOI
+   10.1002/anie.200705710
+   LIU HJ, 2009, J MATER CHEM, V19, P3661, DOI 10.1039/b819820a
+   LIU RL, 2006, J AM CHEM SOC, V128, P11652, DOI 10.1021/ja0633518
+   MALY KE, 2009, J MATER CHEM, V19, P1781, DOI 10.1039/b816089a
+   MCKEOWN NB, 2005, CHEM-EUR J, V11, P2610, DOI 10.1002/chem.200400860
+   MENG Y, 2005, ANGEW CHEM INT EDIT, V44, P7053, DOI
+   10.1002/anie.200501561
+   MEQUANINT K, 2003, POLYMER, V44, P2631, DOI
+   10.1016/S0032-3861(03)00154-X
+   ODIAN G, 1991, PRINCIPLES POLYMERIZ, P132
+   PEVIDA C, 2008, CARBON, V46, P1464, DOI 10.1016/j.carbon.2008.06.026
+   RAHMAN MM, 2009, FIBER POLYM, V10, P6, DOI 10.1007/s12221-009-0006-z
+   RATZSCH M, 2003, 6 AUSTR POL M VIENN, P431
+   ROBERT S, 1964, J APPL POLYM SCI, V8, P475
+   RYOO R, 2001, ADV MATER, V13, P677
+   SCHMIDT J, 2009, ADV MATER, V21, P702, DOI 10.1002/adma.200802692
+   SCHMIDT J, 2009, MACROMOLECULES, V42, P4426, DOI 10.1021/ma9005473
+   SCHWAB MG, 2009, J AM CHEM SOC, V131, P7216, DOI 10.1021/ja902116f
+   SNYDER DM, 1992, J APPL POLYM SCI, V46, P1301
+   SOLERILLIA GJDA, 2003, CURR OPIN COLLOID IN, V8, P109, DOI
+   10.1016/S1359-0294(03)00002-5
+   SRIVASTAVA R, 2006, MICROPOR MESOPOR MAT, V90, P314, DOI
+   10.1016/j.micromeso.2005.10.043
+   SU DS, 2009, CHEMSUSCHEM IN PRESS
+   SUBRAYAN RP, 1996, J APPL POLYM SCI, V62, P1237
+   SUBRAYAN RP, 1998, CHEM MATER, V10, P3506
+   SVEC F, 2009, SMALL, V5, P1098, DOI 10.1002/smll.200801762
+   THOMAS A, 2008, CHEM MATER, V20, P738, DOI 10.1021/cm702126j
+   THOMAS A, 2009, MACROMOL RAPID COMM, V30, P221, DOI
+   10.1002/marc.200800642
+   VALKAMA S, 2007, ADV FUNCT MATER, V17, P183, DOI 10.1002/adfm.200600604
+   VONHOHENESCHE CD, 2008, CHEM MATER, V20, P6124, DOI 10.1021/cm8015319
+   WAN Y, 2007, CHEM REV, V107, P2821, DOI 10.1021/cr068020s
+   WAN Y, 2008, CHEM MATER, V20, P932, DOI 10.1021/cm7024125
+   WEBER B, 2009, PROG ORG COAT, V64, P150, DOI
+   10.1016/j.porgcoat.2008.08.032
+   WEBER J, 2007, MACROMOL RAPID COMM, V28, P1871, DOI
+   10.1002/marc.200700346
+   WEBER J, 2007, MACROMOLECULES, V40, P1299, DOI 10.1021/ma062598m
+   WEBER J, 2008, ADV MATER, V20, P2595, DOI 10.1002/adma.200703159
+   WEBER J, 2008, J AM CHEM SOC, V130, P6334, DOI 10.1021/ja801691x
+   WEBER J, 2008, MACROMOLECULES, V41, P2880, DOI 10.1021/ma702495r
+   WEBER J, 2009, MACROMOLECULES, V42, P8234, DOI 10.1021/ma901322t
+   ZELENAK V, 2008, CHEM ENG J, V144, P336, DOI 10.1016/j.cej.2008.07.025
+   ZELENAK V, 2008, MICROPOR MESOPOR MAT, V116, P358, DOI
+   10.1016/j.micromeso.2008.04.023
+   ZHAI YP, 2009, J MATER CHEM, V19, P3292, DOI 10.1039/b821945a
+   ZHANG FQ, 2005, J AM CHEM SOC, V127, P13508, DOI 10.1021/ja0545721
+   ZHU XX, 1997, MACROMOLECULES, V30, P3031
+NR 61
+TC 3
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 0897-4756
+J9 CHEM MATER
+JI Chem. Mat.
+PD JAN 26
+PY 2010
+VL 22
+IS 2
+BP 428
+EP 434
+DI 10.1021/cm9029903
+PG 7
+SC Chemistry, Physical; Materials Science, Multidisciplinary
+GA 543LZ
+UT ISI:000273580700021
+ER
+
+PT J
+AU Zhao, BM
+   Liu, B
+   Png, RQ
+   Zhang, K
+   Lim, KA
+   Luo, J
+   Shao, JJ
+   Ho, PKH
+   Chi, CY
+   Wu, JS
+AF Zhao, Baomin
+   Liu, Bo
+   Png, Rui Qi
+   Zhang, Kai
+   Lim, Kheng Aik
+   Luo, Jing
+   Shao, Jinjun
+   Ho, Peter K. H.
+   Chi, Chunyan
+   Wu, Jishan
+TI New Discotic Mesogens Based on Triphenylene-Fused Triazatruxenes:
+   Synthesis, Physical Properties, and Self-Assembly
+SO CHEMISTRY OF MATERIALS
+LA English
+DT Review
+ID POLYCYCLIC AROMATIC-HYDROCARBONS; HEXA-PERI-HEXABENZOCORONENES;
+   LIGHT-EMITTING DEVICES; FIELD-EFFECT TRANSISTORS; PALLADIUM-CATALYZED
+   ARYLATION; LIQUID-CRYSTALS; HIGH-PERFORMANCE; ELECTRONIC-PROPERTIES;
+   OPTICAL-PROPERTIES; CHARGE-TRANSPORT
+AB A new type of discotic mesogen based on triphenylene-fused
+   triazatruxenes was prepared by microwave-assisted 6-old Suzuki coupling
+   reactions from hexabromotriazatruxene, followed by FeCl3-mediated
+   oxidative cyclodehydrogenation. These disk-like molecules showed
+   extended pi-conjugation, compared with the triphenylene and
+   triazatruxene themselves. More importantly, they possess desirable HOMO
+   energy levels, which allow efficient charge injection from electrodes
+   such as gold electrodes. Their thermal behavior and self-assembly were
+   studied by different techniques such as thermogravimetric analysis,
+   differential scanning calorimetry, polarizing optical microscopy, and
+   variable-temperature X-ray diffraction. These new discotic mesogens
+   have very good thermal stability thermal stability and show
+   thermotropic liquid crystalline behavior. Ordered columnar liquied
+   crystalline phase and crystalline phase were observed in both compounds
+   with tunable phase transition temperatures and mesophase widths. The
+   charge carrier mobilities of these extended triazatruxene samples were
+   determined using the space-charge limited-current (SCLC) technique and
+   high hole mobilities of 0.03 and 0.8 cm(2)V(-1)s(-1)) were obtained for
+   TP-TATC6 and TP-TATC12, respectively. Interestingly, the
+   long-aliphatic-chain-substituted TP-TATC12 can gelate several nonpolar
+   hydrocarbon solvents or polar aliphatic alcohol and ester solvents,
+   because of strong intermolecular interactions. All these properties
+   qualify this new type of discotic liquid crystals as potential hole
+   transporting materials for electronic devices such as field-effect
+   transistors, light-emitting diodes, and solar cells.
+C1 [Zhao, Baomin; Zhang, Kai; Lim, Kheng Aik; Luo, Jing; Shao, Jinjun; Chi, Chunyan; Wu, Jishan] Natl Univ Singapore, Dept Chem, Singapore 117543, Singapore.
+   [Liu, Bo; Png, Rui Qi; Ho, Peter K. H.] Natl Univ Singapore, Dept Phys, Singapore 117542, Singapore.
+RP Chi, CY, Natl Univ Singapore, Dept Chem, 3 Sci Dr 3, Singapore 117543,
+   Singapore.
+EM chmcc@nus.edu.sg
+   chmwuj@nus.edu.sg
+FU NRF Competitive Research Program [R-143-000-360-281]; MOE AcRF Tier I
+   FRC [R-143-000-370-112]
+FX This work was financially supported by NRF Competitive Research Program
+   ("Graphene-Related Materials and Devices", No. R-143-000-360-281) and
+   MOE AcRF Tier I FRC grant (No. R-143-000-370-112).
+CR ADAM D, 1993, BER BUNSEN PHYS CHEM, V97, P1366
+   ADAM D, 1993, PHYS REV LETT, V70, P457
+   ADAM D, 1994, NATURE, V371, P141
+   ADAM D, 1995, ADV MATER, V7, P276
+   AHRENS MJ, 2003, CHEM MATER, V15, P2684, DOI 10.1021/cm034140u
+   AN BK, 2004, J AM CHEM SOC, V126, P10232, DOI 10.1021/ja046215g
+   ANDERSEN TL, 2000, CHEM MATER, V12, P2428
+   ATILLA D, 2009, SYNTHETIC MET, V159, P13, DOI
+   10.1016/j.synthmet.2008.07.013
+   BAO QL, 2009, J PHYS CHEM C, V113, P12530, DOI 10.1021/jp902804f
+   BARBERA J, 2001, ADV MATER, V13, P175
+   BENGS H, 1993, LIQ CRYST, V15, P565
+   BLOUIN N, 2007, ADV MATER, V19, P2295, DOI 10.1002/adma.200602496
+   BLOUIN N, 2008, ACCOUNTS CHEM RES, V41, P1110, DOI 10.1021/ar800057k
+   BLOUIN N, 2008, J AM CHEM SOC, V130, P732, DOI 10.1021/ja0771989
+   BODEN N, 1988, J CHEM SOC CHEM 1001, P1342
+   BODEN N, 1993, LIQ CRYST, V15, P851
+   BODEN N, 2000, TETRAHEDRON LETT, V41, P10117
+   BREIBY DW, 2005, J AM CHEM SOC, V127, P11288, DOI 10.1021/ja042355e
+   BROTIN T, 1991, J CHEM SOC CHEM COMM, P416
+   BRUNNER K, 2004, J AM CHEM SOC, V126, P6035, DOI 10.1021/ja049883a
+   BRUNSVELD L, 2001, CHEM REV, V101, P4071
+   BUSHBY RJ, 2002, CURR OPIN COLLOID IN, V7, P343
+   BUSHBY RJ, 2002, CURR OPIN SOLID ST M, V6, P569, DOI
+   10.1016/S1359-0286(03)00007-X
+   CAMEREL F, 2006, J AM CHEM SOC, V128, P4548, DOI 10.1021/ja0606069
+   CAO XY, 2005, J ORG CHEM, V70, P3645, DOI 10.1021/jo0480139
+   CHANDRASEKHAR S, 1977, PRAMANA-J PHYS, V9, P471
+   CHEN ZJ, 2007, CHEM-EUR J, V13, P450, DOI 10.1002/chem.200600891
+   CHRIST T, 1997, ADV MATER, V9, P48
+   CHRIST T, 1997, MACROMOL RAPID COMM, V18, P93
+   CLAVIER G, 1999, TETRAHEDRON LETT, V40, P9021
+   CLOSS F, 1995, J CHEM SOC PERK T, V7, P829
+   CORNIL J, 2002, ADV MATER, V14, P726
+   COROPCEANU V, 2007, CHEM REV, V107, P926, DOI 10.1021/cr050140x
+   COUDRET C, 1996, SYNTHETIC COMMUN, V26, P3543
+   CUI L, 2006, MACROMOLECULES, V39, P2536, DOI 10.1021/ma06001x
+   DAHN U, 1995, LIQ CRYST, V19, P759
+   DEGREEF TFA, 2008, NATURE, V453, P171
+   DELAHOZ A, 2005, CHEM SOC REV, V34, P164, DOI 10.1039/b411438h
+   DEMUS D, 2008, HDB LIQUID CRYSTALS, P749
+   DRAPER SM, 2002, J AM CHEM SOC, V124, P3486
+   ELMAHDY MM, 2008, J AM CHEM SOC, V130, P5311, DOI 10.1021/ja7113618
+   FISCHBACH I, 2002, J PHYS CHEM B, V106, P6408
+   GARCIAFRUTOS EM, 2008, J AM CHEM SOC, V130, P9173, DOI 10.1021/ja8025399
+   GEARBA RI, 2003, ADV MATER, V15, P1614, DOI 10.1002/adma.200305137
+   GOMEZLOR B, 2004, CHEM-EUR J, V10, P2601, DOI 10.1002/chem.200306023
+   GOMEZLOR B, 2004, ORG LETT, V6, P2993, DOI 10.1021/ol048760s
+   GOMEZLOR B, 2006, ANGEW CHEM INT EDIT, V45, P4491, DOI
+   10.1002/anie.200600526
+   GOMEZLOR B, 2006, CHEM COMMUN, P5012, DOI 10.1039/b611965d
+   GRAZULEVICIUS JV, 2003, PROG POLYM SCI, V28, P1297, DOI
+   10.1016/S0079-6700(03)00036-4
+   GUO XF, 2006, P NATL ACAD SCI USA, V103, P11452, DOI
+   10.1073/pnas.0601675103
+   GUPTA SK, 2009, NEW J CHEM, V33, P112, DOI 10.1039/b808750d
+   HAARER D, 1994, MOL CRYST LIQ CRYS A, V252, P155
+   HAINO T, 2008, CHEM COMMUN, P468, DOI 10.1039/b715871h
+   HERWIG P, 1996, ADV MATER, V8, P510
+   HIRAI Y, 2008, ADV FUNCT MATER, V18, P1668, DOI 10.1002/adfm.200701313
+   HIRST AR, 2008, ANGEW CHEM INT EDIT, V47, P8002, DOI
+   10.1002/anie.200800022
+   HOEBEN FJM, 2005, J CHEM REV, V105, P1491
+   JAMES DK, 2005, NANOSCALE ASSEMBLY T
+   KAPPE CO, 2004, ANGEW CHEM INT EDIT, V43, P6250, DOI
+   10.1002/anie.200400655
+   KHAVRYUCHENKO VD, 2008, CHEM PHYS, V352, P231, DOI
+   10.1016/j.chemphys.2008.06.019
+   KIPPELEN B, 1998, SCIENCE, V279, P54
+   KOENE BE, 1998, CHEM MATER, V10, P2235
+   KRAMER CS, 2002, SYNTHESIS-STUTTGART, P1163
+   KUMAR S, 1997, CHEM COMMUN     0907, P1615
+   KUMAR S, 2004, LIQ CRYST, V31, P1037, DOI 10.1080/02678290410001724746
+   KUMAR S, 2005, LIQ CRYST, V32, P1089, DOI 10.1080/02678290500117415
+   KUMAR S, 2006, CHEM SOC REV, V35, P83, DOI 10.1039/b506619k
+   KUWABARA Y, 1994, ADV MATER, V6, P667
+   LAI WY, 2006, CHEM COMMUN, P1959, DOI 10.1039/b517841j
+   LAI WY, 2008, ADV FUNCT MATER, V18, P265, DOI 10.1002/adfm.200700224
+   LAI WY, 2009, ADV MATER, V21, P355, DOI 10.1002/adma.200800748
+   LASCHAT S, 2007, ANGEW CHEM INT EDIT, V46, P4832, DOI
+   10.1002/anie.200604203
+   LEADBEATER NE, 2005, CHEM COMMUN, P2881, DOI 10.1039/b500952a
+   LEE DC, 2008, CHEM COMMUN, P3636, DOI 10.1039/b806084c
+   LEE JH, 2006, J MATER CHEM, V16, P2785, DOI 10.1039/b603902b
+   LEHN JM, 1995, SUPRAMOLECULAR CHEM
+   LI JY, 2005, CHEM MATER, V17, P1208, DOI 10.1021/cm034731k
+   LI Y, 2008, ORG LETT, V10, P529, DOI 10.1021/ol703046w
+   LOUIE J, 1995, TETRAHEDRON LETT, V36, P3609
+   MAMIYA Y, 2002, CHEM COMMUN, P1870
+   MINCH BA, 2005, CHEM MATER, V17, P1618, DOI 10.1021/cm0483745
+   MIYAURA N, 2007, CHEM REV, V107, P133
+   MIZOSHITA N, 2002, CHEM COMMUN, P428
+   MORIN JF, 2005, MACROMOL RAPID COMM, V26, P761, DOI
+   10.1002/marc.200500096
+   MULLER M, 1998, CHEM-EUR J, V4, P2099
+   NAARMANN H, 1994, SYNTHESIS-STUTTGART, P477
+   NATSUME Y, 2009, THIN SOLID FILMS, V517, P3005, DOI
+   10.1016/j.tsf.2008.11.137
+   OBRIEN DF, 1998, ADV MATER, V10, P1108
+   PALMA M, 2006, ADV MATER, V18, P3313, DOI 10.1002/adma.200601437
+   PEI J, 2006, TETRAHEDRON LETT, V47, P1551, DOI
+   10.1016/j.tetlet.2006.01.006
+   PENG Q, 2009, MACROMOLECULES, V42, P5478, DOI 10.1021/ma9008737
+   PEREZ D, 2004, CHEM SOC REV, V33, P274, DOI 10.1039/b305549n
+   PEROVA TS, 1995, ADV MATER, V7, P919
+   PISULA W, 2004, J AM CHEM SOC, V126, P8074, DOI 10.1021/ja048351r
+   PISULA W, 2005, ADV MATER, V17, P684, DOI 10.1002/adam.200401171
+   PISULA W, 2005, CHEM MATER, V17, P4296, DOI 10.1021/cm050251c
+   POMMEREHNE J, 1995, ADV MATER, V7, P551
+   QIAN HL, 2008, J AM CHEM SOC, V130, P17970, DOI 10.1021/ja807803j
+   REP DBA, 2003, ORG ELECTRON, V4, P201, DOI 10.1016/S1566-1199(03)00016-8
+   ROBERTS BA, 2005, ACCOUNTS CHEM RES, V38, P653, DOI 10.1021/ar040278m
+   ROBERTSON N, 2000, J MATER CHEM, V10, P2043
+   ROMERO DB, 1996, SYNTHETIC MET, V80, P271
+   SAGARA Y, 2008, ANGEW CHEM INT EDIT, V47, P5175, DOI
+   10.1002/anie.200800164
+   SAKAMOTO Y, 2004, J AM CHEM SOC, V126, P8138, DOI 10.1021/ja0476258
+   SANDEEP K, 2002, ORG LETT, V4, P157
+   SARHAN AAO, 2009, CHEM SOC REV, V28, P2730
+   SCHMIDTMENDE L, 2001, SCIENCE, V293, P1119
+   SCHMITT C, 2006, ACTA ARITH, V124, P17
+   SCHULTE JL, 1998, EUR J ORG CHEM   NOV, P2499
+   SENTHILKUMAR K, 2003, J CHEM PHYS, V119, P9809, DOI 10.1063/1.1615476
+   SERGEYEV S, 2007, CHEM SOC REV, V36, P1902, DOI 10.1039/b417320c
+   SHEN Z, 2007, J AM CHEM SOC, V129, P14271, DOI 10.1021/ja073518c
+   SHIROTA Y, 2000, J MATER CHEM, V10, P1
+   SHIROTA Y, 2007, CHEM REV, V107, P953, DOI 10.1021/cr050143+
+   SIMMERER J, 1996, ADV MATER, V8, P815
+   SIMPSON CD, 2002, CHEM-EUR J, V8, P1424
+   SIMPSON CD, 2004, J MATER CHEM, V14, P494, DOI 10.1039/b312789c
+   SINGH BK, 2008, ORG PROCESS RES DEV, V12, P468, DOI 10.1021/op80047f
+   STAPFF IH, 1997, LIQ CRYST, V23, P613
+   STRUIJK CW, 2000, J AM CHEM SOC, V122, P11057
+   SUN QJ, 2003, J MATER CHEM, V13, P800, DOI 10.1039/b209469j
+   SUN YM, 2005, ADV FUNCT MATER, V15, P818, DOI 10.1002/adfm.200400380
+   TALARICO M, 2008, CHEM MATER, V20, P6589, DOI 10.1021/cm8020512
+   TALROZE RV, 2000, MACROMOL CHEM PHYSIC, V201, P877
+   TANT J, 2006, J PHYS CHEM B, V110, P3449, DOI 10.1021/jp060109E
+   TAO K, 2009, MACROMOL CHEM PHYSIC, V210, P478, DOI
+   10.1002/macp.200800498
+   TERASAWA N, 2003, CHEM LETT, V32, P214
+   TERECH P, 1997, CHEM REV, V97, P3133
+   THOMAS KRJ, 2001, J AM CHEM SOC, V123, P9404
+   TOVAR JD, 2002, J AM CHEM SOC, V124, P7762
+   VANDECRAATS AM, 1999, ADV MATER, V11, P1469
+   VANDECRAATS AM, 2003, ADV MATER, V15, P495
+   VARGHESE S, 2009, ADV FUNCT MATER, V19, P1
+   WANG DG, 2009, TETRAHEDRON LETT, V50, P2147, DOI
+   10.1016/j.tetlet.2009.02.177
+   WANG JY, 2009, CHEM MATER, V21, P2595, DOI 10.1021/cm900568k
+   WANG YZ, 1999, ACCOUNTS CHEM RES, V32, P217
+   WANG ZH, 2004, CHEM COMMUN     0207, P336, DOI 10.1039/b311651d
+   WANG ZH, 2004, J AM CHEM SOC, V126, P7794, DOI 10.1021/ja048580d
+   WANG ZS, 2008, CHEM MATER, V20, P3993, DOI 10.1021/cm8003276
+   WASSERFALLEN D, 2005, ADV FUNCT MATER, V15, P1585, DOI
+   10.1002/adfm.200500124
+   WATSON MD, 2001, CHEM REV, V101, P1267
+   WEIDKAMP KP, 2004, J AM CHEM SOC, V126, P12740, DOI 10.1021/ja045228r
+   WRIGHT D, 2001, APPL PHYS LETT, V79, P4274
+   WU JS, 2003, MACROMOLECULES, V36, P7082, DOI 10.1021/ma0257752
+   WU JS, 2004, J AM CHEM SOC, V126, P11311, DOI 10.1021/ja047577r
+   WU JS, 2004, J AM CHEM SOC, V126, P177, DOI 10.1021/ja037519q
+   WU JS, 2004, J ORG CHEM, V69, P5179, DOI 10.1021/jo049452a
+   WU JS, 2004, J ORG CHEM, V69, P8194, DOI 10.1021/jo0490301
+   WU JS, 2007, CHEM REV, V107, P718, DOI 10.1021/cr068010r
+   WUTHNER F, 2003, ANGEW CHEM INT EDIT, V42, P3247
+   YASUDA T, 2009, ADV FUNCT MATER, V19, P411, DOI 10.1002/adfm.200801268
+   ZELCER A, 2007, CHEM MATER, V19, P1992, DOI 10.1021/cm062949b
+   ZHANG CX, 2007, J LUMIN, V122, P931
+   ZHI LJ, 2005, ORG LETT, V7, P5761, DOI 10.1021/ol052201j
+   ZHOU Y, 2006, J ORG CHEM, V71, P6822, DOI 10.1021/jo0609172
+   ZUCCHI G, 2005, CHEM MATER, V17, P4273, DOI 10.1021/cm0506981
+NR 156
+TC 6
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 0897-4756
+J9 CHEM MATER
+JI Chem. Mat.
+PD JAN 26
+PY 2010
+VL 22
+IS 2
+BP 435
+EP 449
+DI 10.1021/cm903555s
+PG 15
+SC Chemistry, Physical; Materials Science, Multidisciplinary
+GA 543LZ
+UT ISI:000273580700022
+ER
+
+PT J
+AU Jung, HM
+   Kang, JH
+   Yang, SY
+   Won, JC
+   Kim, YS
+AF Jung, Hyun Min
+   Kang, Ji-Hye
+   Yang, Sung Yun
+   Won, Jong Chan
+   Kim, Yong Seok
+TI Barium Titanate Nanoparticles with Diblock Copolymer Shielding Layers
+   for High-Energy Density Nanocomposites
+SO CHEMISTRY OF MATERIALS
+LA English
+DT Article
+ID HIGH-DIELECTRIC-CONSTANT; POLYMER NANOCOMPOSITES; EMBEDDED CAPACITOR;
+   COMPOSITE; BATIO3; SHELL; FILMS
+AB To develop high-energy density dielectric materials. hybrid BaTiO3
+   particles with diblock copolymer shielding layers were fabricated and
+   the dielectric properties of barium titanate-copolymer/polystyrene
+   composites were examined. A significantly larg breakdown strength of up
+   to 222 V/mu m at high permittivity was obtained. In our approach to
+   formation of a robust polymer shell,
+   polystyrene-block-poly(styren-co-vinylbenzylchloride) (PS-b-PSVBC) was
+   introduced for the complete wrapping of the BT nanoparticles. The
+   two-step processes to form polymer shielding and the resulting
+   self-assembled layers result in excellent dielectric properties, where
+   a charged layer is buried to minimize the development of the breakdown
+   path and leakage current. Consequently, the maintained high breakdown
+   strength, in spite of the large incorporation of BT particles to give
+   high permittivity, afforded a noticeable energy density value of 9.7
+   J/cm(3).
+C1 [Jung, Hyun Min; Kang, Ji-Hye; Won, Jong Chan; Kim, Yong Seok] Korea Res Inst Chem Technol, Adv Mat Div, Taejon 305600, South Korea.
+   [Yang, Sung Yun] Chungnam Natl Univ, Dept Polymer & Biomat Engn, Taejon, South Korea.
+RP Jung, HM, Korea Res Inst Chem Technol, Adv Mat Div, 19 Sinseongno,
+   Taejon 305600, South Korea.
+EM hmjung@krict.re.kr
+FU KRICT Basic Research Program ; Fundamental R&D Program for Core
+   Technology of Materials (Ministry of Knowledge Economy) 
+FX Financial support from the KRICT Basic Research Program and Fundamental
+   R&D Program for Core Technology of Materials (Ministry of Knowledge
+   Economy) is gratefully acknowledged,
+CR ARBATTI M, 2007, ADV MATER, V19, P1369, DOI 10.1002/adma.200601996
+   BAI Y, 2000, APPL PHYS LETT, V76, P3804
+   CHO SD, 2004, MAT SCI ENG B-SOLID, V110, P233, DOI
+   10.1016/j.mseb.2004.01.022
+   DANG ZM, 2005, MACROMOL RAPID COMM, V26, P1185, DOI
+   10.1002/marc.200500137
+   DANG ZM, 2006, APPL PHYS LETT, V89, ARTN 112902
+   DANG ZM, 2007, APPL PHYS LETT, V90, ARTN 012901
+   GILBERT LJ, 2006, CERAM T, V179, P17
+   GUO N, 2007, J AM CHEM SOC, V129, P766, DOI 10.1021/ja0669651
+   HUANG C, 2004, ADV FUNCT MATER, V14, P501, DOI 10.1002/adfm.200305021
+   KIM P, 2007, ADV MATER, V19, P1001, DOI 10.1002/adma.200602422
+   KIM P, 2008, APPL PHYS LETT, V93, ARTN 013302
+   LI JJ, 2008, CHEM MATER, V20, P6304, DOI 10.1021/cm8021648
+   LI JJ, 2009, ADV MATER, V21, P217, DOI 10.1002/adma.200801106
+   LI RX, 2007, APPL PHYS LETT, V90, ARTN 131502
+   MALIAKAL A, 2005, J AM CHEM SOC, V127, P14655, DOI 10.1021/ja052035a
+   RAO Y, 2004, J APPL POLYM SCI, V92, P2228, DOI 10.1002/app.13690
+   RUSA M, 2004, MACROMOLECULES, V37, P2766, DOI 10.1021/ma035008i
+   SCHROEDER R, 2005, ADV MATER, V17, P1535, DOI 10.1002/adma.200401398
+   SLENES KM, 2001, IEEE T MAGN 1, V37, P324
+   WANG SF, 2009, CERAM INT, V35, P265, DOI 10.1016/j.ceramint.2007.10.004
+   ZHANG QM, 2002, NATURE, V419, P284
+NR 21
+TC 3
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 0897-4756
+J9 CHEM MATER
+JI Chem. Mat.
+PD JAN 26
+PY 2010
+VL 22
+IS 2
+BP 450
+EP 456
+DI 10.1021/cm9030254
+PG 7
+SC Chemistry, Physical; Materials Science, Multidisciplinary
+GA 543LZ
+UT ISI:000273580700023
+ER
+
+PT J
+AU Wong, WWH
+   Ma, CQ
+   Pisula, W
+   Yan, C
+   Feng, XL
+   Jones, DJ
+   Mullen, K
+   Janssen, RAJ
+   Bauerle, P
+   Holmes, AB
+AF Wong, Wallace W. H.
+   Ma, Chang-Qi
+   Pisula, Wojciech
+   Yan, Chao
+   Feng, Xinliang
+   Jones, David J.
+   Muellen, Klaus
+   Janssen, Rene A. J.
+   Baeuerle, Peter
+   Holmes, Andrew B.
+TI Self-Assembling Thiophene Dendrimers with a Hexa-peri-hexabenzocoronene
+   Core-Synthesis, Characterization and Performance in Bulk Heterojunction
+   Solar Cells
+SO CHEMISTRY OF MATERIALS
+LA English
+DT Article
+ID DISCOTIC LIQUID-CRYSTALS; ORGANIC SEMICONDUCTORS; ELECTRONICS;
+   TRANSISTORS; DESIGN; OLIGOTHIOPHENES; MESOPHASES; EFFICIENCY; STACKING;
+   EMISSION
+AB The solidstate organization of molecules is an important factor in
+   determining the performance of organic electronic devices. In bulk
+   heterojunction (BHJ) solar cells, the arrangement of electron donor and
+   acceptor materials into distinct crystalline phases of ideal size and
+   distribution can lead to better power conversion efficiencies. The use
+   of fluorenyl hexa-peri-hexabenzocoronene (FHBC) 2 in this study has
+   highlighted the importance of molecular organization to device
+   performance. FHBC compounds 6, 8, and 10, functionalized with a series
+   of thiophene dendrons, were synthesized using Suzuki-Miyaura coupling
+   in high yields. In UV-vis and H-1 NMR spectroscopic studies, all FHBC
+   derivatives showed self-association in solution. Hexagonal packing of
+   columnar structures was observed for solid state samples of FHBC 2 and
+   8 in two-dimensional wide-angle X-ray scattering experiments. In thin
+   film X-ray experiments, ordered structures were observed in blends of
+   FHBC2 and fullerene acceptor materials indicating that there is phase
+   separation between the donor and acceptor materials and that the
+   self-organization of the FHBC material is unaffected. While the large
+   thiophene dendritic substituent attached to compound 10 broadened its
+   UV-vis absorption profile, the solid state morphology is altered by the
+   bulky thiophene dendrons. These molecular structure variations arc
+   reflected in the performance characteristics of BHJ solar cell devices
+   fabricated using these FHBC compounds as electron donor materials.
+   Power conversion deficiency of 2.5% was achieved for a device
+   containing cornpound 10 with [6,6]-phenyl-C71-butyric acid methyl ester
+   (PC71BM) as the acceptor material. This compares favorably with devices
+   fabricated with pure dendritic thiophene materials and illustrates the
+   positive effect of molecular self-organization on device performance.
+C1 [Wong, Wallace W. H.; Yan, Chao; Jones, David J.; Holmes, Andrew B.] Univ Melbourne, Sch Chem, Inst Bio21, Parkville, Vic 3010, Australia.
+   [Ma, Chang-Qi; Baeuerle, Peter] Univ Ulm, Inst Organ Chem & Neue Mat 2, D-89081 Ulm, Germany.
+   [Pisula, Wojciech; Feng, Xinliang; Muellen, Klaus] Max Planck Inst Polymer Res, D-55128 Mainz, Germany.
+   [Janssen, Rene A. J.] Eindhoven Univ Technol, NL-5600 MB Eindhoven, Netherlands.
+RP Wong, WWH, Univ Melbourne, Sch Chem, Inst Bio21, 30 Flemington Rd,
+   Parkville, Vic 3010, Australia.
+EM wwhwong@unimelb.edu.au
+FU Australian Research Council [FF0348471, DP0451189, DP0877325];
+   Commonwealth Scientific and Industrial Research Organization (CSIRO) ;
+   Victorian Government Department of Primary Industries (VICOSC) ;
+   Victorian Endowment for Science, Knowledge and Innovation (VESKI),
+   University of Melbourne ; Fonds der Chemischen Industrie, Deutsche
+   Forschungsgemeinschaft [SFB 569]; NAIMO EU [NMP4-CT-2004-500355]
+FX We thank the Australian Research Council (FF0348471, DP0451189,
+   DP0877325) and the Commonwealth Scientific and Industrial Research
+   Organization (CSIRO), the Victorian Government Department of Primary
+   Industries (VICOSC), the Victorian Endowment for Science, Knowledge and
+   Innovation (VESKI), University of Melbourne, DAAD/Go8 exchange scheme,
+   the Fonds der Chemischen Industrie, Deutsche Forschungsgemeinschaft
+   (SFB 569) and the NAIMO EU integrated project (NMP4-CT-2004-500355) for
+   generous financial support. We also thank Dr, Scott Watkins (CSIRO) for
+   the use of the AC2 spectroscope for acquiring the photoelectron
+   spectrum of the FHBC compounds in air.
+CR ALLARD S, 2008, ANGEW CHEM INT EDIT, V47, P4070, DOI
+   10.1002/anie.200701920
+   BARBERA J, 2003, J AM CHEM SOC, V125, P4527, DOI 10.1021/ja0294313
+   BAUERLE P, 1998, ELECT MAT OLIGOMER A, P105
+   DENNLER G, 2009, ADV MATER, V21, P1323, DOI 10.1002/adma.200801283
+   DESTRADE C, 1981, MOL CRYST LIQUID CRY, V71, P111
+   FENG X, 2007, J AM CHEM SOC, V129, P14116
+   FENG XL, 2007, ANGEW CHEM INT EDIT, V46, P3033, DOI
+   10.1002/anie.200605224
+   FENG XL, 2009, NAT MATER, V8, P421, DOI 10.1038/NMAT2427
+   FICHOU D, 1999, HDB OLIGO POLYTHIOPH
+   FONTES E, 1988, PHYS REV LETT, V61, P1202
+   GRIMSDALE AC, 2009, CHEM REV, V109, P897, DOI 10.1021/cr000013v
+   HALLS JJM, 1996, APPL PHYS LETT, V68, P3120
+   HERWIG P, 1996, ADV MATER, V8, P510
+   HILL JP, 2004, SCIENCE, V304, P1481
+   HOLST HC, 2004, TETRAHEDRON, V60, P6765, DOI 10.1016/j.tet.2004.06.031
+   ITO S, 2000, CHEM-EUR J, V6, P4327
+   KANE EO, 1962, PHYS REV, V127, P131
+   KASTLER M, 2005, J AM CHEM SOC, V127, P4286, DOI 10.1021/ja0430696
+   KIRIHATA H, 1981, REV SCI INSTRUM, V52, P68
+   KOPIDAKIS N, 2006, APPL PHYS LETT, V89, ARTN 103524
+   LASCHAT S, 2007, ANGEW CHEM INT EDIT, V46, P4832, DOI
+   10.1002/anie.200604203
+   LEHMANN M, 2008, CHEM-EUR J, V14, P3562, DOI 10.1002/chem.200700922
+   LI YF, 2008, ADV MATER, V20, P2952, DOI 10.1002/adma.200800606
+   LIVOLANT F, 1989, NATURE, V339, P724
+   MA CQ, 2007, ANGEW CHEM INT EDIT, V46, P1679, DOI 10.1002/anie.200602653
+   MA CQ, 2008, ADV FUNCT MATER, V18, P3323, DOI 10.1002/adfm.200800584
+   MA WL, 2005, ADV FUNCT MATER, V15, P1617, DOI 10.1002/adfm.200500211
+   MARTIN RB, 1996, CHEM REV, V96, P3043
+   MISHRA A, 2009, CHEM REV, V109, P1141, DOI 10.1021/cr8004229
+   MITSCHKE U, 2000, J MATER CHEM, V10, P1471
+   MOZER AJ, 2005, APPL PHYS LETT, V86, ARTN 112104
+   ONG BS, 2008, CHEM-EUR J, V14, P4766, DOI 10.1002/chem.200701717
+   OSTERBACKA R, 2004, CURR APPL PHYS, V4, P534, DOI
+   10.1016/j.cap.2004.01.013
+   PERCEC V, 2009, J AM CHEM SOC, V131, P1294, DOI 10.1021/ja8087778
+   PERCEC V, 2009, J AM CHEM SOC, V131, P7662, DOI 10.1021/ja8094944
+   PEREPICHKA IF, 2005, ADV MATER, V17, P2281, DOI 10.1002/adma.200500461
+   PETERCA M, 2008, J AM CHEM SOC, V130, P14840, DOI 10.1021/ja806524m
+   PISULA W, 2005, ADV MATER, V17, P684, DOI 10.1002/adam.200401171
+   PISULA W, 2006, ANGEW CHEM INT EDIT, V45, P819, DOI
+   10.1002/anie.200500669
+   PISULA W, 2007, J PHYS CHEM B, V111, P7481, DOI 10.1021/jp071167i
+   RONCALI J, 1997, CHEM REV, V97, P173
+   SCHARBER MC, 2006, ADV MATER, V18, P789, DOI 10.1002/adma.200501717
+   SCHMIDTKE JP, 2006, J CHEM PHYS, V124, UNSP 174704/1 174704/6
+   SCHMIDTMENDE L, 2001, SCIENCE, V293, P1119
+   SCHMIDTMENDE L, 2003, MOL CRYST LIQ CRYS 1, V396, P73, DOI
+   10.1080/15421400390213203
+   SERGEYEV S, 2007, CHEM SOC REV, V36, P1902, DOI 10.1039/b417320c
+   VERA F, 2009, CHEM SOC REV, V38, P781, DOI 10.1039/b800408k
+   WIENK MM, 2003, ANGEW CHEM INT EDIT, V42, P3371, DOI
+   10.1002/anie.2003516547
+   WONG WWH, 2009, ORG LETT, V11, P975, DOI 10.1021/ol8029164
+   WU JS, 2004, J AM CHEM SOC, V126, P11311, DOI 10.1021/ja047577r
+   WU JS, 2005, J MATER CHEM, V15, P41, DOI 10.1039/b413115k
+   WU JS, 2007, CHEM REV, V107, P718, DOI 10.1021/cr068010r
+   YAMAMOTO Y, 2006, SCIENCE, V314, P1761, DOI 10.1126/science.1134441
+NR 53
+TC 13
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 0897-4756
+J9 CHEM MATER
+JI Chem. Mat.
+PD JAN 26
+PY 2010
+VL 22
+IS 2
+BP 457
+EP 466
+DI 10.1021/cm903272y
+PG 10
+SC Chemistry, Physical; Materials Science, Multidisciplinary
+GA 543LZ
+UT ISI:000273580700024
+ER
+
+PT J
+AU Reddy, BM
+   Katta, L
+   Thrimurthulu, G
+AF Reddy, Benjaram M.
+   Katta, Lakshmi
+   Thrimurthulu, Gode
+TI Novel Nanocrystalline Ce1-xLaxO2-delta (x=0.2) Solid Solutions:
+   Structural Characteristics and Catalytic Performance
+SO CHEMISTRY OF MATERIALS
+LA English
+DT Article
+ID MIXED OXIDES; CERIA-ZIRCONIA; CHEMICAL-PROPERTIES; OXYGEN MIGRATION;
+   STORAGE CAPACITY; REDOX PROPERTIES; CARBON-MONOXIDE; BULK REDUCTION; CO
+   OXIDATION; CEO2
+AB The catalytic CO oxidation results revealed that nanosized
+   ceria-lanthana (CL) solid Solution exhibits superior catalytic
+   performance and thermal stability in comparison to ceria-zirconia (CZ)
+   solid solution. The rationale for excellent catalytic behavior of the
+   CL sample Was elucidated from the viewpoint of structure. redox
+   behavior, and bulk oxygen mobility. Accordingly, in this investigation
+   CL solid solution has been synthesized by a modified coprecipitation
+   method, and the structural and redox properties have been deeply
+   investigated employing various characterization techniques, namely,
+   X-ray diffraction (XRD), BET surface arca, transmission electron
+   microscopy (TEM), Raman spectroscopy (UV-RS and Vis-RS), UV-visible
+   diffuse reflectance spectroscopy (UV-Vis DRS), and temperature
+   programmed reduction (TPR). The catalytic efficiency has been evaluated
+   For oxygen storage/release capacity (OSC) and CO oxidation activity.
+   The analyses of the characterization results provided a deep insight
+   oil the physical properties like nanocrystalline nature and surface
+   area, and the chemical properties like oxygen deficiency and
+   reducibility. The lattice parameter of the cubic phase has been
+   observed to increase because of the formation of a solid solution of
+   the type Ce1-xLaxO2-delta (x = 0.2) due to partial substitution of La3+
+   into CeO2 lattice. A correlation is Found between the concentration of
+   Ce3+, lattice defects, and oxygen migration rate with the OSC and
+   reducibility. The detailed investigation infers that the CL solid
+   solution exhibits better catalytic properties due to smaller
+   crystallite size, facile reduction, profound bulk oxygen mobility, and
+   enhanced OSC.
+C1 [Reddy, Benjaram M.; Katta, Lakshmi; Thrimurthulu, Gode] Indian Inst Chem Technol, Inorgan & Phys Chem Div, Hyderabad 500607, Andhra Pradesh, India.
+RP Reddy, BM, Indian Inst Chem Technol, Inorgan & Phys Chem Div, Uppal Rd,
+   Hyderabad 500607, Andhra Pradesh, India.
+EM bmreddy@iict.res.in
+FU Council of Scientific and Industrial Research (CSIR), New Delhi 
+FX We greatly acknowledge Prof. Dr. W. Grunert, RUB, Germany and Prof.
+   S.-E. Park. Inha University, South Korea for providing CO oxidation and
+   UV-Raman results, respectively. We also thank Dr. Tetsuo Umegaki,
+   AIST-Kansai, Japan for help in XPS measurerments. L.K. and G.T. wish to
+   thank the Council of Scientific and Industrial Research (CSIR), New
+   Delhi, for senior research fellowships.
+CR ALBERO JS, 2002, J CATAL, V210, P127
+   ALIFANTI M, 2003, CHEM MATER, V15, P395, DOI 10.1021/cm021274j
+   BALDUCCI G, 1997, J PHYS CHEM B, V101, P1750
+   BALDUCCI G, 2000, CHEM MATER, V12, P677
+   BELLIERE V, 2006, J PHYS CHEM B, V110, P9984, DOI 10.1021/jp060882+
+   BENSALEM A, 1995, APPL CATAL A-GEN, V121, P81
+   BERNAL S, 1997, J ALLOY COMPD, V250, P449
+   BOARO M, 2000, J CATAL, V193, P338
+   BORCA CN, 2007, APPL SURF SCI, V254, P1352, DOI
+   10.1016/j.apsusc.2007.09.049
+   BORCHERT H, 2005, J PHYS CHEM B, V109, P5728, DOI 10.1021/jp045828c
+   BUENOLOPEZ A, 2005, J CATAL, V230, P237
+   BUENOLOPEZ A, 2006, J CATAL, V244, P102, DOI 10.1016/j.jcat.2006.08.021
+   DATURI M, 1999, J PHYS CHEM B, V103, P4884
+   DONG L, 2001, CHEM MATER, V13, P4227
+   DUTTA G, 2006, CHEM MATER, V18, P3249, DOI 10.1021/cm060267i
+   GARCIA MF, 2004, CHEM REV, V104, P4063
+   GU H, 2007, CHEM MATER, V19, P1103, DOI 10.1021/cm061332r
+   HUANG W, 1997, CHEM MATER, V9, P2240
+   JI PF, 2008, J PHYS CHEM C, V112, P17809, DOI 10.1021/jp8054087
+   KHARTON VV, 2000, J SOLID STATE ELECTR, V4, P243
+   LI GS, 2001, J AM CHEM SOC, V123, P11091
+   LI HN, 2009, INORG CHEM, V48, P4421, DOI 10.1021/ic900132k
+   LIU G, 2004, J PHYS CHEM B, V108, P2931, DOI 10.1021/jp030808g
+   LIU XW, 2009, J AM CHEM SOC, V131, P3140, DOI 10.1021/ja808433d
+   LOPEZHARO M, 2009, CHEM MATER, V21, P1035, DOI 10.1021/cm8029054
+   LUO MF, 2001, CHEM MATER, V13, P197
+   LUO MF, 2006, J PHYS CHEM B, V110, P13068, DOI 10.1021/jp057274z
+   MAMONTOV E, 2000, J PHYS CHEM B, V104, P11110
+   MASUI T, 1998, CHEM MATER, V10, P4005
+   MOUZON J, 2005, THESIS C BERNARD U L
+   NATILE MM, 2005, CHEM MATER, V17, P3403, DOI 10.1021/cm048748u
+   ONEILL WM, 1999, CHEM PHYS LETT, V305, P389
+   OZAWA M, 2000, J ALLOY COMPD, V303, P56
+   PEREZALONSO FJ, 2005, CHEM MATER, V17, P2329, DOI 10.1021/cm0477669
+   RAMASWAMY V, 2005, NANO LETT, V5, P373, DOI 10.1021/nl048077z
+   REDDY BM, 2008, J PHYS CHEM C, V112, P11729, DOI 10.1021/jp802674m
+   REDDY BM, 2009, J PHYS CHEM C, V113, P15882, DOI 10.1021/jp903644y
+   SAYLE TXT, 1994, SURF SCI, V316, P329
+   SHAN WJ, 2003, CHEM MATER, V15, P4761, DOI 10.1021/cm0345974
+   SHAPOVALOV V, 2007, J CATAL, V245, P205, DOI 10.1016/j.jcat.2006.10.009
+   SINHA AK, 2005, J PHYS CHEM B, V109, P1708, DOI 10.1021/jp046391b
+   SUNSTROM JE, 1996, CHEM MATER, V8, P2061
+   TANIGUCHI T, 2008, CRYST GROWTH DES, V8, P3725, DOI 10.1021/cg800363w
+   TROVARELLI A, 1999, COMMENT INORG CHEM A, V20, P263
+   WAGNER CD, 1978, HDB XRAY PHOTOELECTR
+   WANG RG, 2006, J PHYS CHEM B, V110, P18278, DOI 10.1021/jp063113z
+   WANG XQ, 2004, J CHEM PHYS, V121, P5434, DOI 10.1063/1.1781116
+   WILKES MF, 2003, J CATAL, V219, P286, DOI 10.1016/S0021-9517(03)00044-7
+   WILKES MF, 2003, J CATAL, V219, P295, DOI 10.1016/S0021-9517(03)00045-9
+   WILKES MF, 2003, J CATAL, V219, P305, DOI 10.1016/S0021-9517(03)00046-0
+   XIAO WD, 2005, J PHYS CHEM B, V109, P4953, DOI 10.1021/jp0447441
+   XU Q, 2000, J AM CHEM SOC, V122, P6862
+   YUAN Q, 2007, J AM CHEM SOC, V129, P6698, DOI 10.1021/ja070908q
+   YUZHAKOVA T, 2007, CHEM MATER, V19, P2970
+   ZOU H, 2004, IND ENG CHEM RES, V43, P3019, DOI 10.1021/ie030676d
+NR 55
+TC 8
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 0897-4756
+J9 CHEM MATER
+JI Chem. Mat.
+PD JAN 26
+PY 2010
+VL 22
+IS 2
+BP 467
+EP 475
+DI 10.1021/cm903282w
+PG 9
+SC Chemistry, Physical; Materials Science, Multidisciplinary
+GA 543LZ
+UT ISI:000273580700025
+ER
+
+PT J
+AU Li, C
+   Hong, GS
+   Qi, LM
+AF Li, Cheng
+   Hong, Guosong
+   Qi, Limin
+TI Nanosphere Lithography at the Gas/Liquid Interface: A General Approach
+   toward Free-Standing High-Quality Nanonets
+SO CHEMISTRY OF MATERIALS
+LA English
+DT Article
+ID EXTRAORDINARY OPTICAL-TRANSMISSION; MONOLAYER COLLOIDAL CRYSTALS;
+   POROUS MEMBRANES; CURVED SURFACES; METAL-FILMS; ARRAYS; FABRICATION;
+   TEMPLATE; GROWTH; NANOFABRICATION
+AB A general nanosphere lithography (NSL) approach toward Facile
+   fabrication of Free-standing large-area, high-quality nanonets was
+   developed, which was based oil a floating colloidal crystal monolayer
+   (CCM) mask at the gas/liquid interface for materials deposition via
+   interfacial reactions. The hole size. spacing, and thickness of the
+   highly ordered nanonets. which showed interesting photonic properties,
+   can he readily adjusted. This NSL approach at the gas/liquid interface
+   can be easily extended to fabricate large-area ordered nanonets of
+   various metal sulfides, metals as well as inorganic minerals.
+   Furthermore, a variety of ordered gold nanoarrays with Unusual patterns
+   were produced by using nanonet bilayers as unique deposition masks,
+   suggesting that the obtained transferable, high-quality nanonets can
+   function as versatile lithographic masks to generate novel nanopatterns.
+C1 [Li, Cheng; Hong, Guosong; Qi, Limin] Peking Univ, BNLMS, State Key Lab Struct Chem Unstable & Stable Speci, Coll Chem, Beijing 100871, Peoples R China.
+RP Qi, LM, Peking Univ, BNLMS, State Key Lab Struct Chem Unstable & Stable
+   Speci, Coll Chem, Beijing 100871, Peoples R China.
+EM liminqi@pku.edu.cn
+FU NSFC [20873002, 20673007, 20633010, 50821061]; MOST [2007CB936201];
+   SRFDP [20070001018]
+FX Financial support from NSFC (Grants 20873002. 20673007, 20633010, and
+   50821061), MOST (Grant 2007CB936201), and SRFDP (Grant 20070001018) is
+   gratefully acknowledged.
+CR ABDELSALAM ME, 2004, ADV MATER, V16, P90, DOI 10.1002/adma.200306052
+   ACIKGOZ C, 2009, J ADV MAT, V21, P2064
+   BARTLETT PN, 2004, FARADAY DISCUSS, V125, P117, DOI 10.1039/b304116f
+   CHO YH, 2004, ADV MATER, V16, P1814, DOI 10.1002/adma.200400249
+   CONG HL, 2005, ADV FUNCT MATER, V15, P1821, DOI 10.1002/adfm.200400603
+   DUAN G, 2007, ADV FUNCT MATER, V17, P644, DOI 10.1002/adfm.200600568
+   EBBESEN TW, 1998, NATURE, V391, P667
+   FU M, 2008, J MATER CHEM, V18, P5986, DOI 10.1039/b810904d
+   GAO Y, 2007, APPL PHYS LETT, V91, ARTN 031910
+   GATES BD, 2005, CHEM REV, V105, P1171, DOI 10.1021/cr030076o
+   GORDON R, 2008, ACCOUNTS CHEM RES, V41, P1049, DOI 10.1021/ar800074d
+   GWINNER MC, 2009, SMALL, V5, P400, DOI 10.1002/smll.200800923
+   HAYNES CL, 2001, J PHYS CHEM B, V105, P5599
+   HENZIE J, 2006, ACCOUNTS CHEM RES, V39, P249, DOI 10.1021/ar050013n
+   HENZIE J, 2007, NAT NANOTECHNOL, V2, P549, DOI 10.1038/nnano.2007.252
+   HSU TY, 1980, SPIE MILLIMETER OPT, V259, P38
+   HULTEEN J, 1995, J VAC SCI TECHNOL A, V13, P1
+   JANG SG, 2008, ADV MATER, V20, P4862, DOI 10.1002/adma.200702851
+   JIANG P, 2004, ANGEW CHEM INT EDIT, V43, P5625, DOI
+   10.1002/anie.200460539
+   JIANG P, 2005, J AM CHEM SOC, V127, P3710, DOI 10.1021/ja042789+
+   KOSIOREK A, 2004, NANO LETT, V4, P1359, DOI 10.1021/nl049361t
+   KOSIOREK A, 2005, SMALL, V1, P439
+   KUIPER S, 1998, J MEMBRANE SCI, V150, P1
+   LANDSTROM L, 2005, APPL PHYS A-MATER, V81, P911, DOI
+   10.1007/s00339-005-3309-y
+   LI C, 2009, CHEM MATER, V21, P891, DOI 10.1021/cm802839u
+   LI Y, 2007, J PHYS CHEM C, V111, P14813, DOI 10.1021/jp0736721
+   LI Y, 2008, CHEM MATER, V20, P615, DOI 10.1021/cm701977g
+   LIAO Q, 2007, APPL PHYS LETT, V91, ARTN 041103
+   LIAO YC, 2005, J AM CHEM SOC, V127, P9986, DOI 10.1021/ja0512879
+   LIU XF, 2009, J PHYS CHEM C, V113, P14804, DOI 10.1021/jp905065z
+   PALMER EW, 1975, REP PROG PHYS, V38, P975
+   PRENEN AM, 2009, ADV MATER, V21, P1751, DOI 10.1002/adma.200803177
+   SUN FQ, 2004, ADV FUNCT MATER, V14, P283, DOI 10.1002/adfm.200305055
+   SUN FQ, 2005, ADV MATER, V17, P2872, DOI 10.1002/adma.200500936
+   SUN FQ, 2007, ANGEW CHEM INT EDIT, V46, P773, DOI 10.1002/anie.200603697
+   XU H, 2002, LANGMUIR, V18, P2363
+   XU H, 2003, ANGEW CHEM INT EDIT, V42, P4694, DOI 10.1002/anie.200351427
+   XU H, 2005, SMALL, V1, P808, DOI 10.1002/smll.200500047
+   YAN F, 2004, CHEM MATER, V16, P1622, DOI 10.1021/cm035044w
+   YANG SM, 2006, SMALL, V2, P458, DOI 10.1002/smll.200500390
+   ZHANG G, 2005, ANGEW CHEM INT EDIT, V44, P7767, DOI
+   10.1002/anie.200502117
+   ZHANG G, 2008, J AM CHEM SOC, V130, P5616, DOI 10.1021/ja710771j
+   ZHANG G, 2009, CHEM-ASIAN J, V4, P236, DOI 10.1002/asia.200800298
+   ZHANG X, 2006, J NANOSCI NANOTECHNO, V6, P1
+   ZHANG Y, 2009, ACS NANO, V3, P2412, DOI 10.1021/nn900650n
+NR 45
+TC 8
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 0897-4756
+J9 CHEM MATER
+JI Chem. Mat.
+PD JAN 26
+PY 2010
+VL 22
+IS 2
+BP 476
+EP 481
+DI 10.1021/cm9031946
+PG 6
+SC Chemistry, Physical; Materials Science, Multidisciplinary
+GA 543LZ
+UT ISI:000273580700026
+ER
+
+PT J
+AU Prabakar, S
+   Shiohara, A
+   Hanada, S
+   Fujioka, K
+   Yamamoto, K
+   Tilley, RD
+AF Prabakar, Sujay
+   Shiohara, Amane
+   Hanada, Sanshiro
+   Fujioka, Kouki
+   Yamamoto, Kenji
+   Tilley, Richard D.
+TI Size Controlled Synthesis of Germanium Nanocrystals by Hydride Reducing
+   Agents and Their Biological Applications
+SO CHEMISTRY OF MATERIALS
+LA English
+DT Article
+ID FLUORESCENCE QUANTUM YIELDS; SILICON NANOCRYSTALS; OPTICAL-PROPERTIES;
+   GE NANOPARTICLES; DOTS; CYTOTOXICITY; SOLVENTS; REDUCTION; CDSE; CELL
+AB Germanium nanocrystals were synthesized by the hydride reduction of
+   germanium tetrachloride (GeCl4) ill inverse micelles using hydride
+   reducing agents including lithium aluminum hydride (LiAlH4), lithium
+   triethyl borohydride (Li(C2H5)(3)BH), lithium borohydride (LiBH4), and
+   sodium borohydride(NaBH4). Monodisperse Ge nanocrystals with average
+   sizes ranging Front 4.0 to 5.5 nm were produced using it simple room
+   temperature technique. The nanocrystals were capped using allylamine.
+   The nanocrystals displayed strong blue luminescence, and their
+   application Lis optical probes is demonstrated by the imaging of HepG2
+   cells. Transmission electron microscopy (TEM), selected area electron
+   diffraction (SAED), energy dispersive X-ray spectroscopy (EDX), and
+   fluorescence spectroscopy were used to characterize the nanocrystals.
+   The cytotoxicity of the nanocrystals is also reported, kind the
+   germanium quantum dots were found to be relatively nontoxic.
+C1 [Prabakar, Sujay; Shiohara, Amane; Tilley, Richard D.] Victoria Univ Wellington, Sch Chem & Phys Sci, Wellington, New Zealand.
+   [Prabakar, Sujay; Shiohara, Amane; Tilley, Richard D.] Victoria Univ Wellington, MacDiarmid Inst Adv Mat & Nanotechnol, Wellington, New Zealand.
+   [Hanada, Sanshiro; Fujioka, Kouki; Yamamoto, Kenji] Int Med Ctr Japan, Inst Res, Int Clin Res Ctr, Tokyo, Japan.
+RP Tilley, RD, Victoria Univ Wellington, Sch Chem & Phys Sci, Wellington,
+   New Zealand.
+EM richard.tilley@vuw.ac.nz
+FU FRST [II0F VICX060]
+FX R.D.T. thanks the Macdiarmid Institute for funding. S.P., A.S., and
+   R.D.T. thank FRST for funding through Grant II0F VICX060
+CR ALIVISATOS AP, 1996, J PHYS CHEM-US, V100, P13226
+   ALIVISATOS AP, 2004, NAT BIOTECHNOL, V22, P47
+   ALSALIM N, 2007, CHEM MATER, V19, P5185, DOI 10.1021/cm070818k
+   BRUCHEZ M, 1998, SCIENCE, V281, P2016
+   CHAN WH, 2008, ACTA PHARMACOL SIN, V29, P259, DOI
+   10.1111/j.1745-7254.2008.00743.x
+   CHANG E, 2006, SMALL, V2, P1412, DOI 10.1002/smll.200600218
+   CHIU HW, 2006, CHEM MATER, V18, P1023, DOI 10.1021/cm0521222
+   DAHAN M, 2003, SCIENCE, V302, P442
+   DERFUS AM, 2004, NANO LETT, V4, P11, DOI 10.1021/nl0347334
+   FOK E, 2004, CHEM COMMUN     0221, P386, DOI 10.1039/b314887d
+   FUJIOKA K, 2008, NANOTECHNOLOGY, V19, ARTN 415102
+   GERION D, 2004, NANO LETT, V4, P597, DOI 10.1021/nl035231t
+   GERUNG H, 2005, CHEM COMMUN, P1914, DOI 10.1039/b416066e
+   HAMAI S, 1983, J PHYS CHEM-US, V87, P83
+   HEATH JR, 1994, J CHEM PHYS, V101, P1607
+   HENDERSON EJ, 2008, J AM CHEM SOC, V130, P3624, DOI 10.1021/ja710286a
+   KIRCHNER C, 2005, NANO LETT, V5, P331, DOI 10.1021/nl047996m
+   LAMBERT TN, 2007, SMALL, V3, P691, DOI 10.1002/smll.200600529
+   LU XM, 2004, NANO LETT, V4, P969, DOI 10.1021/nl049831j
+   LU XM, 2005, CHEM MATER, V17, P6479, DOI 10.1021/cm0515956
+   LU XM, 2005, NANOTECHNOLOGY, V16, S389, DOI 10.1088/0957-4484/16/7/012
+   MA XC, 2008, J SOLID STATE CHEM, V181, P1628, DOI
+   10.1016/j.jssc.2008.06.018
+   MICHALET X, 2005, SCIENCE, V307, P538, DOI 10.1126/science.1104274
+   MYUNG N, 2004, NANO LETT, V4, P181
+   TAYLOR BR, 1999, CHEM MATER, V11, P2493
+   TILLEY RD, 2005, CHEM COMMUN, V14, P1836
+   TILLEY RD, 2006, ADV MATER, V18, P2053, DOI 10.1002/adma.200600118
+   WALLING MA, 2009, INT J MOL SCI, V10, P441, DOI 10.3390/ijms10020441
+   WARNER JH, 2005, ANGEW CHEM INT EDIT, V44, P4550, DOI
+   10.1002/anie.200501256
+   WARNER JH, 2005, J PHYS CHEM B, V109, P19064, DOI 10.1021/jp054565z
+   WARNER JH, 2006, NANOTECHNOLOGY, V17, P3745, DOI
+   10.1088/0957-4484/17/15/022
+   WILCOXON JP, 1999, PHYS REV B, V60, P2704
+   WILCOXON JP, 2001, PHYS REV B, V64, ARTN 035417
+   WILLIAMS ATR, 1983, ANALYST, V108, P1067
+   WU HP, 2006, MATER LETT, V60, P986, DOI 10.1016/j.matlet.2005.10.063
+   WU XY, 2003, NAT BIOTECHNOL, V21, P41, DOI 10.1038/nbt764
+   ZAITSEVA N, 2007, CHEM MATER, V19, P5174, DOI 10.1021/cm070062p
+NR 37
+TC 5
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 0897-4756
+J9 CHEM MATER
+JI Chem. Mat.
+PD JAN 26
+PY 2010
+VL 22
+IS 2
+BP 482
+EP 486
+DI 10.1021/cm9030599
+PG 5
+SC Chemistry, Physical; Materials Science, Multidisciplinary
+GA 543LZ
+UT ISI:000273580700027
+ER
+
+PT J
+AU Neiner, D
+   Kauzlarich, SM
+AF Neiner, Doinita
+   Kauzlarich, Susan M.
+TI Hydrogen-Capped Silicon Nanoparticles as a Potential Hydrogen Storage
+   Material: Synthesis, Characterization, and Hydrogen Release
+SO CHEMISTRY OF MATERIALS
+LA English
+DT Article
+ID POROUS SILICON; SOLUTION ROUTE; NANOCLUSTERS; DERIVATIZATION;
+   THERMOLYSIS; SURFACE; SI
+AB Chemical hydrides are compounds that Call Potentially uptake and
+   release hydrogen without the use of hydrogen gas. Nanostructure silicon
+   may have great potential as it chemical hydride. The Surface can be
+   capped by hydride and dihydride. and hydrogen can be thermally desorbed
+   from the surface. We have prepared large-scale (1-2g) samples of
+   hydrogen-capped silicon nanoparticles with average diameters of 60, 10,
+   5, and 4 nm via a low-temperature chemical method to explore the
+   release of hydrogen From the surface as a function of size. The 60- and
+   10-nm-diameter particles have only hydrogen on the surface. The
+   60-nm-diameter particles are crystalline, and the 10-nm-diameter
+   particles are amorphous according to powder X-ray diffraction (XRD).
+   The 5- and 4-nm-diameter particles have both hydrogen and solvent
+   capped on the surface. The 4-nm-diameter particles are amorphous and
+   the 5-nm-diameter particles are crystalline by powder XRD. Weight
+   percentages of similar to 3.5% at 350 degrees C are observed for the
+   10-nm-diameter particles. The largest weight loss is observed for the
+   amorphous 4-nm-diameter particles, which show a weight loss of similar
+   to 4.5%. which is attributed primarily to hydrogen. The products have
+   been investigated by powder XRD, scanning electron microscopy (SEM),
+   transmission electron microscopy (TEM), solid-state magic-angle
+   spinning nuclear magnetic resonance (MAS NMR), Fourier transform
+   infrared (FTIR) analysis, thermogravimetry/differential scanning
+   calorimetry (TG/DSC), and thermogravimetry/mass spectroscopy (TG/MS).
+C1 [Neiner, Doinita; Kauzlarich, Susan M.] Univ Calif Davis, Dept Chem, Davis, CA 95616 USA.
+RP Kauzlarich, SM, Univ Calif Davis, Dept Chem, 1 Shields Ave, Davis, CA
+   95616 USA.
+EM smkauzlarich@ucdavis.edu
+FU DOE Center of Excellence on Chemical Hydrogen Storage 
+FX This research was funded by the DOE Center of Excellence on Chemical
+   Hydrogen Storage.The authors gratefully acknowledge Dr. Alexandra
+   Navrolsky for use of the Scintag powder diffractometer. Dr. Torn Autrey
+   for assistance Willi TG/MS, and Hsiang Wei Chiu Nit and Ginstopher
+   Chervin for the TEM/SEM data. and Ping Yu for the NMR data.
+CR BALDWIN RK, 2002, CHEM COMMUN, P1822, DOI 10.1039/b205301b
+   BALDWIN RK, 2002, J AM CHEM SOC, V124, P1150
+   BLEY RA, 1996, J AM CHEM SOC, V118, P12461
+   BRENDLER E, 2004, CHEM MATER, V16, P1368, DOI 10.1021/cm030619a
+   BURIAK JM, 1998, J AM CHEM SOC, V120, P1339
+   CANARIA CA, 2002, ADV FUNCT MATER, V12, P495
+   CEROFOLINI GF, 2005, PHYS REV B, P72
+   CHO MS, 2003, J ORGANOMET CHEM, V685, P99, DOI
+   10.1016/S0022-328X(03)00471-6
+   FARJAS J, 2002, PHYS REV B, P65
+   FICHTNER M, 2005, ADV ENG MATER, V7, P443, DOI 10.1002/adem.200500022
+   HARPER TF, 1997, J AM CHEM SOC, V119, P6943
+   HE JL, 1998, J AM CHEM SOC, V120, P10697
+   HOLM J, 2007, J AM CHEM SOC, V129, P2946
+   KIM NY, 1997, J AM CHEM SOC, V119, P2297
+   KURJATA J, 1999, ORGANOMETALLICS, V18, P1259
+   MAO WL, 2004, P NATL ACAD SCI USA, V101, P708
+   MAYERI D, 2001, CHEM MATER, V13, P765
+   MCMILLAN PF, 2005, J SOLID STATE CHEM, V178, P937, DOI
+   10.1016/j.jssc.2004.12.040
+   MILLS R, 2004, EUR PHYS J-APPL PHYS, V28, P83, DOI 10.1051/epjap:2004168
+   NEINER D, 2006, J AM CHEM SOC, V128, P11016, DOI 10.1021/ja064177q
+   ODDEN JO, 2005, J NON-CRYST SOLIDS, V351, P1317, DOI
+   10.1016/j.jnoncrysol.2004.11.024
+   ONISCHUK AA, 1997, J AEROSOL SCI, V28, P1425
+   PETIT D, 1997, APPL PHYS LETT, V70, P191
+   PETTIGREW KA, 2003, MATER RES SOC SYMP P, V737, P289
+   PUZDER A, 2003, PHYS REV LETT, V91, ARTN 157405
+   SANDROCK G, 2001, APPL PHYS A-MATER, V72, P153
+   SCHLAPBACH L, 2001, NATURE, V414, P353
+   VEINOT JGC, 2006, CHEM COMMUN, V4160, P4168
+   VONKEUDELL A, 1999, JPN J APPL PHYS 1, V38, P4002
+   WILLIAMSON AJ, 2004, APPL PHYS LETT, V85, P2917, DOI 10.1063/1.1800274
+   YANG CS, 1999, J AM CHEM SOC, V121, P5191
+   ZOU J, 2004, NANO LETT, V4, P1181, DOI 10.1021/nl0497373
+NR 32
+TC 4
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 0897-4756
+J9 CHEM MATER
+JI Chem. Mat.
+PD JAN 26
+PY 2010
+VL 22
+IS 2
+BP 487
+EP 493
+DI 10.1021/cm903054s
+PG 7
+SC Chemistry, Physical; Materials Science, Multidisciplinary
+GA 543LZ
+UT ISI:000273580700028
+ER
+
+PT J
+AU Xue, CF
+   Wang, JX
+   Tu, B
+   Zhao, DY
+AF Xue, Chunfeng
+   Wang, Jinxiu
+   Tu, Bo
+   Zhao, Dongyuan
+TI Hierarchically Porous Silica with Ordered Mesostructure from
+   Confinement Self-Assembly in Skeleton Scaffolds
+SO CHEMISTRY OF MATERIALS
+LA English
+DT Article
+ID MICROCYSTIN-LR ADSORPTION; MESOPOROUS SILICA; ACTIVATED CARBON;
+   CYANOBACTERIAL TOXINS; MONOLITHS; TEMPLATES; ZEOLITE; POWDERS; ARRAYS;
+   OXIDES
+AB Hierarchically porous Silica materials have been synthesized through a
+   confinement self-assembly approach in the skeletal scaffolds of
+   commercial polyurethane (PU) foams. Macroporous mesoporous silica
+   materials with it well-ordered two-dimensional (2-D) hexagonal (p6mm)
+   mesostructure have been synthesized in in acidic solution using
+   tetraethoxysilane as a precursor, triblock copolymer Pluronic P123 as a
+   mesostructural template, and PU foams with three-dimensional (3-D)
+   interconnecting strut networks as a macrostructure scaffold. By
+   controlling the volume ratio of the cast silica Sol to the PU foam
+   scaffolds, hierarchically porous silica monoliths with various
+   macroscope structures can be obtained. The porous silica monoliths can
+   be disassembled into uniform polyhedron-like particles. The porous
+   silica polyhedrons exhibit macropores 100-500 mu m in diameter,
+   adjustable uniform mesopores (6.5-9.3 nm in diameter), high surface
+   areas (340-780 m(2)/g), and large volumes (0.48-1.16 cm(3)/g). The
+   resulting macroporous/mesoporous silica polyhedrons show an excellent
+   adsorption and remove capability of Microcystin-LR in wastewater.
+C1 [Xue, Chunfeng; Wang, Jinxiu; Tu, Bo; Zhao, Dongyuan] Fudan Univ, Dept Chem, Shanghai Key Lab Mol Catalysis & Innovat Mat, Adv Mat Lab, Shanghai 200433, Peoples R China.
+RP Tu, B, Fudan Univ, Dept Chem, Shanghai Key Lab Mol Catalysis & Innovat
+   Mat, Adv Mat Lab, Shanghai 200433, Peoples R China.
+EM botu@fudan.edu.cn
+   dyzhao@fudan.edu.cn
+FU NSF of China [20890123, 20721063, 20821140537]; State Key Basic
+   Research Program of the PRC [2006CI3932302, 2006CB202502,
+   2009CI3930400]; Science & Technology Commission of' Shanghai
+   Municipality [08DZ2270500]; Shanghai Leading Academic Discipline [B
+   108]; Graduate Student Innovation Foundation of Fudan University
+   [EYH1615047]
+FX This work was supported by the NSF of China (20890123, 2072.1063, and
+   20821140537). the State Key Basic Research Program of the PRC
+   (2006CI3932302, 2006CB202502. and 2009CI3930400), Science & Technology
+   Commission of' Shanghai Municipality (08DZ2270500). Shanghai Leading
+   Academic Discipline Project (B 108), and the Graduate Student
+   Innovation Foundation of Fudan University(EYH1615047). We also thank
+   Mr. R. Messinger from University of CaliCornia for helpful discussions.
+CR AMATANI T, 2005, CHEM MATER, V17, P2114, DOI 10.1021/cm048091c
+   ANTONIETTI M, 1998, ADV MATER, V10, P154
+   CHIU JJ, 2004, J CATAL, V221, P400, DOI 10.1016/j.jcat.2003.09.005
+   CODD GA, 2005, TOXICOL APPL PHARM, V203, P264, DOI
+   10.1016/j.taap.2004.02.016
+   DAVIS SA, 1997, NATURE, V385, P420
+   DONATI C, 1994, WATER RES, V28, P1735
+   FAN LZ, 2007, ADV FUNCT MATER, V17, P3083, DOI 10.1002/adfm.200700518
+   FEITZ AJ, 1999, ENVIRON SCI TECHNOL, V33, P243
+   GIBSON LJ, 1997, CELLULAR SOLIDS STRU
+   HOLLAND BT, 1998, SCIENCE, V281, P538
+   HOLLAND BT, 1999, CHEM MATER, V11, P795
+   IMHOF A, 1997, NATURE, V389, P948
+   KUANG DB, 2004, J AM CHEM SOC, V126, P10534, DOI 10.1021/ja0470618
+   LAWTON LA, 1999, ENVIRON SCI TECHNOL, V33, P771
+   LEE JS, 2003, SCIENCE, V301, P818
+   LEE YJ, 2001, ADV MATER, V13, P1259
+   LEE YJ, 2006, MICROPOR MESOPOR MAT, V88, P176, DOI
+   10.1016/j.micromeso.2005.08.039
+   MOHAMED ZA, 1999, ENVIRON TOXICOL, V14, P197
+   NISHIHARA H, 2005, CHEM MATER, V17, P683, DOI 10.1021/cm048725f
+   OH CG, 2005, ADV MATER, V17, P270, DOI 10.1002/adma.200400192
+   PENDLETON P, 2001, J COLLOID INTERF SCI, V240, P1
+   ROSITANO J, 1995, P 16 AWWA FED CONV A, V1, P937
+   ROSITANO J, 1998, OZONE-SCI ENG, V20, P223
+   SHEN PP, 2003, ENVIRON INT, V29, P641, DOI 10.1016/S0160-4120(03)00047-3
+   SMATT JH, 2003, CHEM MATER, V15, P2354, DOI 10.1021/cm0213422
+   VELEV OD, 1997, NATURE, V389, P447
+   WAN Y, 2007, CHEM REV, V107, P2821, DOI 10.1021/cr068020s
+   WAN Y, 2008, CHEM MATER, V20, P932, DOI 10.1021/cm7024125
+   XUE CF, 2008, ADV FUNCT MATER, V18, P3914, DOI 10.1002/adfm.200800708
+   XUE CF, 2009, NANO RES, V2, P242
+   YANG H, 1997, ADV MATER, V9, P811
+   YANG HF, 2003, CHEM MATER, V15, P536, DOI 10.1021/cm020135z
+   YANG PD, 1998, SCIENCE, V282, P2244
+   YU JS, 2002, J AM CHEM SOC, V124, P9382, DOI 10.1021/ja0203972
+   ZHAO D, 1998, ADV MATER, V10, P1380
+   ZHAO DY, 1998, SCIENCE, V279, P548
+   ZHAO Y, 2008, MATER LETT, V62, P548, DOI 10.1016/j.matlet.2007.06.002
+NR 37
+TC 6
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 0897-4756
+J9 CHEM MATER
+JI Chem. Mat.
+PD JAN 26
+PY 2010
+VL 22
+IS 2
+BP 494
+EP 503
+DI 10.1021/cm903097v
+PG 10
+SC Chemistry, Physical; Materials Science, Multidisciplinary
+GA 543LZ
+UT ISI:000273580700029
+ER
+
+PT J
+AU Gupta, S
+   Agrawal, M
+   Uhlmann, P
+   Simon, F
+   Stamm, M
+AF Gupta, Smrati
+   Agrawal, Mukesh
+   Uhlmann, Petra
+   Simon, Frank
+   Stamm, Manfred
+TI Poly(N-isopropyl acrylamide)-Gold Nanoassemblies on Macroscopic
+   Surfaces: Fabrication, Characterization, and Application
+SO CHEMISTRY OF MATERIALS
+LA English
+DT Article
+ID SPHERICAL POLYELECTROLYTE BRUSHES; RESPONSIVE POLYMER BRUSHES; GOLD
+   NANOPARTICLES; OPTICAL-PROPERTIES; PLASMON RESONANCE; AU NANOPARTICLES;
+   PARTICLES; IMMOBILIZATION; NANOCRYSTALS; COMPOSITE
+AB In this study, we report on the fabrication of the nanoassemblies
+   consisting of the poly(N-isopropyl acrylamide) (PNIPAAm) brushes
+   immobilized with gold nanoparticles (Au NPs), The employed process
+   involves grafting of the carboxyl terminated PNIPAAm chains Oil all
+   underlying substrate ill a brush conformation followed by the
+   immobilization of surface functionalized Au NPs by means of physical
+   interaction (hydrogen bonding). Atomic force microscopy (AFM), X-ray
+   photoelectron spectroscopy (XPS), and UV-vis spectroscopy have been
+   employed to characterize the prepared PNIPAAm-Au nanoassemblies.
+   Polymer brushes have been round to Suppress the nanoparticles'
+   aggregation and, hence, facilitate the complete SUI-face coverage.
+   Furthermore, we demonstrated the application Of resulting PNIPAAm-Au
+   nanoassemblies ill the fabrication of the temperature nanosensors. The
+   employed approach is simple and highly versatile for the modification
+   of macroscopic surfaces With a wide range of NPs.
+C1 [Gupta, Smrati] Tech Univ Dresden, D-01069 Dresden, Germany.
+   [Gupta, Smrati; Agrawal, Mukesh; Uhlmann, Petra; Simon, Frank; Stamm, Manfred] Leibniz Inst Polymerforsch Dresden eV, D-01069 Dresden, Germany.
+RP Gupta, S, Tech Univ Dresden, Zellescher Weg 19, D-01069 Dresden,
+   Germany.
+EM smrati.gupta@chemie.tu-dresden.de
+   stamm@ipfdd.de
+CR AGRAWAL M, 2007, CHEM MATER, V19, P1845, DOI 10.1021/cm062757g
+   AGRAWAL M, 2008, J MATER CHEM, V18, P2581, DOI 10.1039/b802102c
+   AGRAWAL M, 2008, LANGMUIR, V24, P1013, DOI 10.1021/la702509j
+   ALIVISATOS AP, 1996, J PHYS CHEM-US, V100, P13226
+   BEAMSON G, 1992, HIGH RESOLUTION XPS, P278
+   BHARATHI S, 1997, CHEM COMMUN     1207, P2303
+   BRUST M, 1994, J CHEM SOC CHEM 0407, P801
+   BURDA C, 2005, CHEM REV, V105, P1025, DOI 10.1021/cr030063a
+   DANIEL MC, 2004, CHEM REV, V104, P293, DOI 10.1021/cr030698+
+   ELGHANIAN R, 1997, SCIENCE, V277, P1078
+   FENDLER JH, 1995, ADV MATER, V7, P607
+   GUPTA S, 2008, J MATER CHEM, V18, P214, DOI 10.1039/b711082k
+   GUPTA S, 2008, MACROMOLECULES, V41, P2874, DOI 10.1021/ma800204h
+   GUPTA S, 2008, MACROMOLECULES, V41, P8152, DOI 10.1021/ma801557u
+   IONOV L, 2004, MACROMOLECULES, V37, P7421, DOI 10.1021/ma049147r
+   IONOV L, 2006, ADV MATER, V18, P1453, DOI 10.1002/adma.200502686
+   IONOV L, 2006, NANO LETT, V6, P1982, DOI 10.1021/nl0611539
+   KOTOV NA, 2003, MULTILAYER THIN FILM, P207
+   KREIBIG U, 1985, SURF SCI, V156, P678
+   KREIBIG U, 1995, OPTICAL PROPERTIES M
+   LIU Z, 2002, NANO LETTERS, V2, P219
+   LUZINOV I, 2003, POLYM PREPRINTS, V44, P437
+   MATSUI J, 2004, ANAL CHEM, V76, P1310, DOI 10.1021/ac034788q
+   MATSUOKA J, 1993, J CERAM SOC JPN, V101, P53
+   MEI Y, 2005, LANGMUIR, V21, P12229, DOI 10.1021/la052120w
+   MINKO S, 2002, LANGMUIR, V18, P289
+   MITSUISHI M, 2007, LANGMUIR, V23, P7472, DOI 10.1021/1a701215t
+   MOULDER JF, HDB XRAY PHOTOELECTR, P182
+   MUSICK MD, 1999, LANGMUIR, V15, P844
+   NATH N, 2001, J AM CHEM SOC, V123, P8197
+   NIEMEYER CM, 2001, ANGEW CHEM INT EDIT, V40, P4128
+   RESCH R, 2001, LANGMUIR, V17, P5666
+   SCHILD HG, 1992, PROG POLYM SCI, V17, P163
+   SCHMID G, 1994, CLUSTERS COLLOIDS TH
+   SCOTT RWJ, 2005, J PHYS CHEM B, V109, P692, DOI 10.1021/jp0469665
+   SHARMA G, 2004, MACROMOL RAPID COMM, V25, P547, DOI
+   10.1002/marc.200300107
+   STORHOFF JJ, 2000, J AM CHEM SOC, V122, P4640
+   SUZUKI D, 2005, LANGMUIR, V21, P8175, DOI 10.1021/la0504356
+   TAKEUCHI Y, 1996, SURF REV LETT, V3, P1205
+   ULMAN A, 1996, CHEM REV, V96, P1533
+   WEISBECKER CS, 1996, LANGMUIR, V12, P3763
+   YAMANOI Y, 2004, LANGMUIR, V20, P1054, DOI 10.1021/la036437c
+   YONEZAWA T, 2001, ADV FUNCTIONAL MOL P, V2, P65
+   YU AM, 2003, NANO LETT, V3, P1203, DOI 10.1021/nl034363j
+   ZDYRKO B, 2003, LANGMUIR, V19, P10179, DOI 10.1021/la034974r
+NR 45
+TC 9
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 0897-4756
+J9 CHEM MATER
+JI Chem. Mat.
+PD JAN 26
+PY 2010
+VL 22
+IS 2
+BP 504
+EP 509
+DI 10.1021/cm9031336
+PG 6
+SC Chemistry, Physical; Materials Science, Multidisciplinary
+GA 543LZ
+UT ISI:000273580700030
+ER
+
+EF
