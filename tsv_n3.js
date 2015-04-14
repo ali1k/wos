@@ -1,6 +1,7 @@
 var _ = require('lodash');
 var FieldTag=require('./config').FieldTag;
 var sharedParser=require('./shared_parsing_functions');
+var RDFConvertor=require('./rdf_convertor');
 
 var fs = require('fs'),
     path = require('path'),
@@ -108,6 +109,7 @@ function fix_records(records){
     record = separate_connected_values(record);
     record = sharedParser.parse_citations(record);
     record = sharedParser.build_id(record);
+    console.log(RDFConvertor.convert(record));
     new_records.push(record)
     });
   return new_records;

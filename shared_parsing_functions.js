@@ -12,7 +12,7 @@ module.exports = {
         var citation_list = citation.split(', ');
         _.forEach(citation_list, function(c) {
             if(!(_(c).startsWith('DOI ') || _(c).startsWith('ARTN '))){
-              id_list.push(c.replace(' ', '_'));
+              id_list.push(c.replace(/\s/g,'_'));
             }else{
               if(_(c).startsWith('DOI ')){
                 citation_dict['doi']=c.substr(4);

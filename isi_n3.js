@@ -1,6 +1,7 @@
 var _ = require('lodash');
 var FieldTag=require('./config').FieldTag;
 var sharedParser=require('./shared_parsing_functions');
+var RDFConvertor=require('./rdf_convertor');
 
 var fs = require('fs'),
     path = require('path'),
@@ -20,7 +21,7 @@ input = byline(fs.createReadStream(source)).on('data', function (line) {
   console.log('Finished conversion');
   console.log(_.size(records)+ ' records were converted!');
   var fixed_records=fix_records(records);
-  console.log(fixed_records[1]);
+  // console.log(fixed_records[1]);
 });
 
 
@@ -109,6 +110,7 @@ function fix_records(records){
     record = concatenate_record(record);
     record = sharedParser.parse_citations(record);
     record = sharedParser.build_id(record);
+    console.log(RDFConvertor.convert(record));
     new_records.push(record)
     });
     return new_records;
