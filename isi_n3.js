@@ -21,7 +21,7 @@ input = byline(fs.createReadStream(source)).on('data', function (line) {
   console.log('Finished conversion');
   console.log(_.size(records)+ ' records were converted!');
   var fixed_records=fix_records(records);
-  // console.log(fixed_records[1]);
+   console.log(fixed_records[1]);
 });
 
 
@@ -74,8 +74,10 @@ function concatenate_record(record){
       new_v = v.join(' ');
       if(k=='ID'){
         new_v=new_v.split('; ');
+        new_record[k]=new_v;
+      }else{
+        new_record[k]=[new_v];
       }
-      new_record[k]=new_v;
     }else{
       if(k=='CR'){
         //handle citations when the DOI goes to the next line

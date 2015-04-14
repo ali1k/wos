@@ -31,8 +31,7 @@ input = byline(fs.createReadStream(source)).on('data', function (line) {
   console.log(_.size(records)+ ' records were converted!');
   //preparing records
   var fixed_records=fix_records(records);
-  console.log(fixed_records[1]);
-
+  // console.log(fixed_records[0]);
 });
 
 /* Process the header line of a TSV file. */
