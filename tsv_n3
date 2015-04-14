@@ -1,3 +1,10 @@
+#!/usr/bin/env node
+if (process.argv.length < 3 || process.argv.length > 4) {
+  die('WoS TSV to RDF\n' +
+      'converts a list of WoS tab-separated records with header row ' +
+      'to RDF N3 Format.\n\n' +
+      'usage: tsv_n3 file_or_uri_to_convert');
+}
 var _ = require('lodash');
 var FieldTag=require('./config').FieldTag;
 var sharedParser=require('./shared_parsing_functions');
@@ -9,9 +16,9 @@ var fs = require('fs'),
     http = require('http'),
     byline = require('byline');
 
-console.log('Starting...');
+// console.log('Starting...');
 
-var source = "./test/first.txt",
+var source = process.argv[2],
         input,
         processor = processHeader,
         separator = '\t',
@@ -27,8 +34,8 @@ input = byline(fs.createReadStream(source)).on('data', function (line) {
   //addign the last record
   records.push(current_record);
   current_record={};
-  console.log('Finished conversion');
-  console.log(_.size(records)+ ' records were converted!');
+  // console.log('Finished conversion');
+  // console.log(_.size(records)+ ' records were converted!');
   //preparing records
   var fixed_records=fix_records(records);
   // console.log(fixed_records[0]);
