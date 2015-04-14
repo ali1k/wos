@@ -1,6 +1,6 @@
 var _ = require('lodash');
 var isiCode=require('./config').isiCode;
-
+// console.log(isiCode);
 var fs = require('fs'),
     path = require('path'),
     mkdirp = require('mkdirp'),
@@ -14,8 +14,7 @@ var source = "./test/first.txt",
         processor = processHeader,
         separator = '\t',
         fieldNames,
-        lineCount = 0,
-        recordCount = 0;
+        lineCount = 0;
 
 
 input = byline(fs.createReadStream(source)).on('data', function (line) {
@@ -34,7 +33,14 @@ function processHeader(line) {
   if (fieldNames.length < 2) {
     die('Expected at least two fields, but got:\n' + line);
   }
-
+  //fix encoding issue
+  fieldNames[0]='PT';
+  //cleanup the filed null character
+  _.forEach(fieldNames, function(field, k) {
+      fieldNames[k]=_.trim(field).replace(/\0/g, '');
+    });
+    //fix encoding issue
+  fieldNames[(fieldNames.length-1)]='UT';
   // Report about found field names
   console.log('Found ' + fieldNames.length + ' fields:');
   console.log(fieldNames.join(','));
@@ -46,18 +52,28 @@ function processHeader(line) {
 
 /* Process a record line of a TSV file. */
 function processRecord(line) {
+  var cleanedFieldValue;
   // Split line into fields
   var fields = line.split(separator);
   if(fields.length==1){
     //end of file
     return 0;
   }
-  //console.log(fields.join('|'));
-  console.log(fields[0]);//Publication type
-  console.log(fields[1]);//Authors
-  console.log(fields[7]);//title
-  console.log(fields[19]);//abstract
-  console.log('---------------------------------------');
+    // store all fields
+  _.forEach(fields, function(field, k) {
+    //remove redundant null chars
+      cleanedFieldValue=_.trim(field).replace(/\0/g, '');
+      if(cleanedFieldValue){
+        if(cleanedFieldValue=='\r'){
+          console.log('------------------------------------------------------------------------');
+        }else{
+          console.log(fieldNames[k], '--> '+isiCode[fieldNames[k]]);
+          console.log(cleanedFieldValue);
+          console.log('*******************************************');
+        }
+      }
+
+  });
 }
 
 /* Halt execution with an error message. */
