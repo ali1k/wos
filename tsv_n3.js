@@ -1,6 +1,7 @@
 var _ = require('lodash');
 var FieldTag=require('./config').FieldTag;
-// console.log(FieldTag);
+var sharedParser=require('./shared_parsing_functions');
+
 var fs = require('fs'),
     path = require('path'),
     mkdirp = require('mkdirp'),
@@ -25,11 +26,12 @@ input = byline(fs.createReadStream(source)).on('data', function (line) {
   //addign the last record
   records.push(current_record);
   current_record={};
-  //preparing records
-  records=fix_records(records);
-  console.log(records[1]);
   console.log('Finished conversion');
   console.log(_.size(records)+ ' records were converted!');
+  //preparing records
+  var fixed_records=fix_records(records);
+  console.log(fixed_records[1]);
+
 });
 
 /* Process the header line of a TSV file. */
@@ -104,8 +106,8 @@ function fix_records(records){
   var new_records = [];
   _.forEach(records, function(record) {
     record = separate_connected_values(record);
-    // record = parse_citations(record);
-    // record = build_id(record);
+    record = sharedParser.parse_citations(record);
+    record = sharedParser.build_id(record);
     new_records.push(record)
     });
   return new_records;

@@ -1,6 +1,6 @@
 var _ = require('lodash');
 var FieldTag=require('./config').FieldTag;
-
+var sharedParser=require('./shared_parsing_functions');
 
 var fs = require('fs'),
     path = require('path'),
@@ -20,7 +20,7 @@ input = byline(fs.createReadStream(source)).on('data', function (line) {
   console.log('Finished conversion');
   console.log(_.size(records)+ ' records were converted!');
   var fixed_records=fix_records(records);
-  console.log(fixed_records);
+  console.log(fixed_records[1]);
 });
 
 
@@ -102,69 +102,13 @@ function concatenate_record(record){
   return new_record;
 }
 
-/* Parse each citation record */
-function parse_citations(record){
-  var citation_dict={}, new_citations = [], id_list=[];
-  if(record['CR']){
-    _.forEach(record['CR'], function(citation) {
-      id_list=[];
-      var citation_list = citation.split(', ');
-      _.forEach(citation_list, function(c) {
-          if(!(_(c).startsWith('DOI ') || _(c).startsWith('ARTN '))){
-            id_list.push(c.replace(' ', '_'));
-          }else{
-            if(_(c).startsWith('DOI ')){
-              citation_dict['doi']=c.substr(4);
-            }
-          }
-        });
-        citation_dict['qname'] = id_list.join('');
-        citation_dict['citation'] = citation;
-        new_citations.push(citation_dict);
-    });
-    record['CR']=new_citations;
-  }
-  return record;
-}
-
-/* generate ID for each record */
-function  build_id(record){
-  var author='', year='', journal='', volume='', doi, page='';
-    try {
-      if(record['AU']){
-        author=record['AU'][0].replace(', ',' ').replace(' ','_').toUpperCase();
-      }
-      if(record['PY']){
-        year=record['PY'][0];
-      }
-      if(record['J9']){
-        journal=record['J9'][0].replace(' ','_');
-      }
-      if(record['VL']){
-        volume='V'+record['VL'][0].replace(' ','_');
-      }
-      if(record['DI']){
-        doi=record['DI'][0];
-      }
-      if(record['BP']){
-        //todo: check if we have the same page structure in citations
-        page='P'+record['BP'][0];
-      }
-      record['qname']=author+year+journal+volume+page;
-      return record;
-    }
-    catch(err) {
-      console.log(err.message);
-      return record;
-    }
-}
 /* batch clean records */
 function fix_records(records){
   var new_records = [];
   _.forEach(records, function(record) {
     record = concatenate_record(record);
-    record = parse_citations(record);
-    record = build_id(record);
+    record = sharedParser.parse_citations(record);
+    record = sharedParser.build_id(record);
     new_records.push(record)
     });
     return new_records;
