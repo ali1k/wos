@@ -14,16 +14,22 @@ var source = "./test/first.txt",
         processor = processHeader,
         separator = '\t',
         fieldNames,
-        lineCount = 0;
-
+        lineCount = 0,
+        current_record={}, records = [];
 
 input = byline(fs.createReadStream(source)).on('data', function (line) {
   lineCount++;
   processor(line);
 
 }).on('end', function () {
-
+  //addign the last record
+  records.push(current_record);
+  current_record={};
+  //preparing records
+  records=fix_records(records);
+  console.log(records[1]);
   console.log('Finished conversion');
+  console.log(_.size(records)+ ' records were converted!');
 });
 
 /* Process the header line of a TSV file. */
@@ -42,9 +48,9 @@ function processHeader(line) {
     //fix encoding issue
   fieldNames[(fieldNames.length-1)]='UT';
   // Report about found field names
-  console.log('Found ' + fieldNames.length + ' fields:');
-  console.log(fieldNames.join(','));
-  console.log('*******************************************');
+  // console.log('Found ' + fieldNames.length + ' fields:');
+  // console.log(fieldNames.join(','));
+  // console.log('*******************************************');
 
   // Process the next line as a record
   processor = processRecord;
@@ -65,17 +71,45 @@ function processRecord(line) {
       cleanedFieldValue=_.trim(field).replace(/\0/g, '');
       if(cleanedFieldValue){
         if(cleanedFieldValue=='\r'){
-          console.log('------------------------------------------------------------------------');
+          records.push(current_record);
+          current_record={};
+          // console.log('------------------------------------------------------------------------');
         }else{
-          console.log(fieldNames[k], '--> '+FieldTag[fieldNames[k]]);
-          console.log(cleanedFieldValue);
-          console.log('*******************************************');
+          current_record[fieldNames[k]]=cleanedFieldValue;
+          // console.log(fieldNames[k], '--> '+FieldTag[fieldNames[k]]);
+          // console.log(cleanedFieldValue);
+          // console.log('*******************************************');
         }
       }
 
   });
 }
+//make arrays of items form some values
+function separate_connected_values(record){
+  var new_v, new_record={};
+  _.forEach(record, function(v, k) {
+      new_v=v;
+      if(_.indexOf(['AU','AF','DE','ID','CR','WC','SC'], k)!=-1){
+        new_v=v.split('; ');
+        new_record[k]=new_v;
+      }else{
+        new_record[k]=[new_v];
+      }
+    });
+  return new_record;
+}
 
+/* batch clean records */
+function fix_records(records){
+  var new_records = [];
+  _.forEach(records, function(record) {
+    record = separate_connected_values(record);
+    // record = parse_citations(record);
+    // record = build_id(record);
+    new_records.push(record)
+    });
+  return new_records;
+}
 /* Halt execution with an error message. */
 function die(message) {
   console.log(message);
