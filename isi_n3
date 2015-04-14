@@ -77,9 +77,9 @@ function processor(line) {
 function concatenate_record(record){
   var new_v, new_record={};
   _.forEach(record, function(v, k) {
-    if(_.indexOf(['AB','FX','PA','TI','RP','ID'], k)!=-1){
+    if(_.indexOf(['AB','FX','PA','TI','RP','ID', 'SC'], k)!=-1){
       new_v = v.join(' ');
-      if(k=='ID'){
+      if(k=='ID' || k=='SC'){
         new_v=new_v.split('; ');
         new_record[k]=new_v;
       }else{

@@ -1,4 +1,51 @@
 <http://risis.eu/wos/resource/JING_LH2010CHEM_MATERV22P420> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://risis.eu/wos/vocab/Article> .
+<http://risis.eu/wos/resource/JING_LH2010CHEM_MATERV22P420> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm9029962> .
+<http://risis.eu/wos/resource/AHARONI_A2006J_AM_CHEM_SOCV128P257> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja056326v> .
+<http://risis.eu/wos/resource/ALIVISATOS_AP2005ANNU_REV_BIOMED_ENGV7P55> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1146/annurev.bioeng.7.060804.100432> .
+<http://risis.eu/wos/resource/BAILEY_RE2003J_AM_CHEM_SOCV125P7100> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja035000o> .
+<http://risis.eu/wos/resource/BAKALOVA_R2007NAT_PHOTONICSV1P487> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1038/nphoton.2007.150> .
+<http://risis.eu/wos/resource/BAO_HB2004CHEM_MATERV16P3853> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm049172b> .
+<http://risis.eu/wos/resource/BOLDT_K2006J_PHYS_CHEM_BV110P1959> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jp056371p> .
+<http://risis.eu/wos/resource/CHAN_Y2004ADV_MATERV16P2092> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200400237> .
+<http://risis.eu/wos/resource/DARBANDI_M2005CHEM_MATERV17P5720> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm051467h> .
+<http://risis.eu/wos/resource/DARBANDI_M2006LANGMUIRV22P4371> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/la0529658> .
+<http://risis.eu/wos/resource/DERFUS_AM2004NANO_LETTV4P11> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/nl0347334> .
+<http://risis.eu/wos/resource/DUNCAN_TV2009J_PHYS_CHEM_CV113P7561> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jp811245r> .
+<http://risis.eu/wos/resource/GAO_ZF2007COLLOID_SURFACE_AV304P77> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.colsurfa.2007.04.045> .
+<http://risis.eu/wos/resource/GILL_R2008ANGEW_CHEM_INT_EDITV47P7602> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/anie.200800169> .
+<http://risis.eu/wos/resource/HE_Y2006J_PHYS_CHEM_BV110P13370> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jp057498h> .
+<http://risis.eu/wos/resource/HUH_S2003CHEM_MATERV15P4247> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm0210041> .
+<http://risis.eu/wos/resource/KIM_S2004NAT_BIOTECHNOLV22P93> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1038/nbt920> .
+<http://risis.eu/wos/resource/KLOEPFER_JA2005J_PHYS_CHEM_BV109P9996> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jp044581g> .
+<http://risis.eu/wos/resource/KOOLE_R2008CHEM_MATERV20P2503> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm703348y> .
+<http://risis.eu/wos/resource/LEE_JA2007ADV_MATERV19P3113> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200701955> .
+<http://risis.eu/wos/resource/LI_HB2007CHEM_MATERV19P4148> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm0700089> .
+<http://risis.eu/wos/resource/MEDINTZ_IL2005NAT_MATERV4P435> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1038/nmat1390> .
+<http://risis.eu/wos/resource/MEKIS_I2003J_PHYS_CHEM_BV107P7454> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jp0278364> .
+<http://risis.eu/wos/resource/MICHALET_X2005SCIENCEV307P538> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1126/science.1104274> .
+<http://risis.eu/wos/resource/MOKARI_T2005CHEM_MATERV17P258> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm048477n> .
+<http://risis.eu/wos/resource/NANN_T2004ANGEW_CHEM_INT_EDITV43P5393> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/anie.200460752> .
+<http://risis.eu/wos/resource/NAZZAL_AY2004J_PHYS_CHEM_BV108P5507> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jp035361q> .
+<http://risis.eu/wos/resource/RESCHGENGER_U2008NAT_METHODSV5P763> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1038/NMETH.1248> .
+<http://risis.eu/wos/resource/ROGACH_AL2007J_PHYS_CHEM_CV111P14628> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jp072463y> .
+<http://risis.eu/wos/resource/ROGACH_AL2007SMALLV3P536> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/smll.200600625> .
+<http://risis.eu/wos/resource/SARGENT_EH2005ADV_MATERV17P515> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200401552> .
+<http://risis.eu/wos/resource/SCHROEDTER_A2002NANO_LETTV2P1363> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/nl025779k> .
+<http://risis.eu/wos/resource/SELVAN_ST2005ADV_MATERV17P1620> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200401960> .
+<http://risis.eu/wos/resource/SELVAN_ST2007ANGEW_CHEM_INT_EDITV46P2448> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/anie.200604245> .
+<http://risis.eu/wos/resource/SHAVEL_A2006J_PHYS_CHEM_BV110P19280> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jp063351u> .
+<http://risis.eu/wos/resource/SMITH_AM2006EXPERT_REV_MOL_DIAGNV6P231> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1586/14737159.6.2.231> .
+<http://risis.eu/wos/resource/SOH_YW2003IND_ENG_CHEM_RESV42P2975> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ie020861b> .
+<http://risis.eu/wos/resource/WOLCOTT_A2006J_PHYS_CHEM_BV110P5779> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jp057435z> .
+<http://risis.eu/wos/resource/XIE_R2007J_AM_CHEM_SOCV129P15432> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja076363h> .
+<http://risis.eu/wos/resource/YANG_YH2007J_MATER_CHEMV17P2930> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b703060f> .
+<http://risis.eu/wos/resource/YI_DK2005J_AM_CHEM_SOCV127P4990> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja0428863> .
+<http://risis.eu/wos/resource/ZHANG_H2003J_PHYS_CHEM_BV107P8> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jp025910c> .
+<http://risis.eu/wos/resource/ZHANG_TT2006NANO_LETTV6P800> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/nl0603350> .
+<http://risis.eu/wos/resource/ZHANG_ZH2004J_PHYS_CHEM_BV108P18569> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jp0470849> .
+<http://risis.eu/wos/resource/ZHAO_D2009J_PHYS_CHEM_CV113P1293> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jp808465s> .
+<http://risis.eu/wos/resource/ZHELEV_Z2006J_AM_CHEM_SOCV128P6324> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja061137d> .
+<http://risis.eu/wos/resource/ZIEGLER_J2008ADV_MATERV20P4068> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200800724> .
 <http://risis.eu/wos/resource/JING_LH2010CHEM_MATERV22P420> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/AHARONI_A2006J_AM_CHEM_SOCV128P257> .
 <http://risis.eu/wos/resource/JING_LH2010CHEM_MATERV22P420> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/ALIVISATOS_AP1996SCIENCEV271P933> .
 <http://risis.eu/wos/resource/JING_LH2010CHEM_MATERV22P420> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/ALIVISATOS_AP2005ANNU_REV_BIOMED_ENGV7P55> .
@@ -158,52 +205,6 @@
 <http://risis.eu/wos/resource/Du_Meihong> <http://www.w3.org/2000/01/rdf-schema#label> "Du, Meihong" .
 <http://risis.eu/wos/resource/Wang_Dayang> <http://www.w3.org/2000/01/rdf-schema#label> "Wang, Dayang" .
 <http://risis.eu/wos/resource/Gao_Mingyuan> <http://www.w3.org/2000/01/rdf-schema#label> "Gao, Mingyuan" .
-<http://risis.eu/wos/resource/AHARONI_A2006J_AM_CHEM_SOCV128P257> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja056326v> .
-<http://risis.eu/wos/resource/ALIVISATOS_AP2005ANNU_REV_BIOMED_ENGV7P55> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1146/annurev.bioeng.7.060804.100432> .
-<http://risis.eu/wos/resource/BAILEY_RE2003J_AM_CHEM_SOCV125P7100> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja035000o> .
-<http://risis.eu/wos/resource/BAKALOVA_R2007NAT_PHOTONICSV1P487> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1038/nphoton.2007.150> .
-<http://risis.eu/wos/resource/BAO_HB2004CHEM_MATERV16P3853> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm049172b> .
-<http://risis.eu/wos/resource/BOLDT_K2006J_PHYS_CHEM_BV110P1959> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jp056371p> .
-<http://risis.eu/wos/resource/CHAN_Y2004ADV_MATERV16P2092> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200400237> .
-<http://risis.eu/wos/resource/DARBANDI_M2005CHEM_MATERV17P5720> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm051467h> .
-<http://risis.eu/wos/resource/DARBANDI_M2006LANGMUIRV22P4371> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/la0529658> .
-<http://risis.eu/wos/resource/DERFUS_AM2004NANO_LETTV4P11> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/nl0347334> .
-<http://risis.eu/wos/resource/DUNCAN_TV2009J_PHYS_CHEM_CV113P7561> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jp811245r> .
-<http://risis.eu/wos/resource/GAO_ZF2007COLLOID_SURFACE_AV304P77> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.colsurfa.2007.04.045> .
-<http://risis.eu/wos/resource/GILL_R2008ANGEW_CHEM_INT_EDITV47P7602> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/anie.200800169> .
-<http://risis.eu/wos/resource/HE_Y2006J_PHYS_CHEM_BV110P13370> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jp057498h> .
-<http://risis.eu/wos/resource/HUH_S2003CHEM_MATERV15P4247> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm0210041> .
-<http://risis.eu/wos/resource/KIM_S2004NAT_BIOTECHNOLV22P93> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1038/nbt920> .
-<http://risis.eu/wos/resource/KLOEPFER_JA2005J_PHYS_CHEM_BV109P9996> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jp044581g> .
-<http://risis.eu/wos/resource/KOOLE_R2008CHEM_MATERV20P2503> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm703348y> .
-<http://risis.eu/wos/resource/LEE_JA2007ADV_MATERV19P3113> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200701955> .
-<http://risis.eu/wos/resource/LI_HB2007CHEM_MATERV19P4148> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm0700089> .
-<http://risis.eu/wos/resource/MEDINTZ_IL2005NAT_MATERV4P435> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1038/nmat1390> .
-<http://risis.eu/wos/resource/MEKIS_I2003J_PHYS_CHEM_BV107P7454> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jp0278364> .
-<http://risis.eu/wos/resource/MICHALET_X2005SCIENCEV307P538> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1126/science.1104274> .
-<http://risis.eu/wos/resource/MOKARI_T2005CHEM_MATERV17P258> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm048477n> .
-<http://risis.eu/wos/resource/NANN_T2004ANGEW_CHEM_INT_EDITV43P5393> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/anie.200460752> .
-<http://risis.eu/wos/resource/NAZZAL_AY2004J_PHYS_CHEM_BV108P5507> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jp035361q> .
-<http://risis.eu/wos/resource/RESCHGENGER_U2008NAT_METHODSV5P763> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1038/NMETH.1248> .
-<http://risis.eu/wos/resource/ROGACH_AL2007J_PHYS_CHEM_CV111P14628> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jp072463y> .
-<http://risis.eu/wos/resource/ROGACH_AL2007SMALLV3P536> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/smll.200600625> .
-<http://risis.eu/wos/resource/SARGENT_EH2005ADV_MATERV17P515> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200401552> .
-<http://risis.eu/wos/resource/SCHROEDTER_A2002NANO_LETTV2P1363> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/nl025779k> .
-<http://risis.eu/wos/resource/SELVAN_ST2005ADV_MATERV17P1620> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200401960> .
-<http://risis.eu/wos/resource/SELVAN_ST2007ANGEW_CHEM_INT_EDITV46P2448> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/anie.200604245> .
-<http://risis.eu/wos/resource/SHAVEL_A2006J_PHYS_CHEM_BV110P19280> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jp063351u> .
-<http://risis.eu/wos/resource/SMITH_AM2006EXPERT_REV_MOL_DIAGNV6P231> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1586/14737159.6.2.231> .
-<http://risis.eu/wos/resource/SOH_YW2003IND_ENG_CHEM_RESV42P2975> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ie020861b> .
-<http://risis.eu/wos/resource/WOLCOTT_A2006J_PHYS_CHEM_BV110P5779> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jp057435z> .
-<http://risis.eu/wos/resource/XIE_R2007J_AM_CHEM_SOCV129P15432> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja076363h> .
-<http://risis.eu/wos/resource/YANG_YH2007J_MATER_CHEMV17P2930> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b703060f> .
-<http://risis.eu/wos/resource/YI_DK2005J_AM_CHEM_SOCV127P4990> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja0428863> .
-<http://risis.eu/wos/resource/ZHANG_H2003J_PHYS_CHEM_BV107P8> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jp025910c> .
-<http://risis.eu/wos/resource/ZHANG_TT2006NANO_LETTV6P800> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/nl0603350> .
-<http://risis.eu/wos/resource/ZHANG_ZH2004J_PHYS_CHEM_BV108P18569> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jp0470849> .
-<http://risis.eu/wos/resource/ZHAO_D2009J_PHYS_CHEM_CV113P1293> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jp808465s> .
-<http://risis.eu/wos/resource/ZHELEV_Z2006J_AM_CHEM_SOCV128P6324> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja061137d> .
-<http://risis.eu/wos/resource/ZIEGLER_J2008ADV_MATERV20P4068> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200800724> .
 <http://risis.eu/wos/resource/JING_LH2010CHEM_MATERV22P420> <http://risis.eu/wos/vocab/AF> <http://risis.eu/wos/resource/Jing_Lihong> .
 <http://risis.eu/wos/resource/JING_LH2010CHEM_MATERV22P420> <http://risis.eu/wos/vocab/AF> <http://risis.eu/wos/resource/Yang_Chunhui> .
 <http://risis.eu/wos/resource/JING_LH2010CHEM_MATERV22P420> <http://risis.eu/wos/vocab/AF> <http://risis.eu/wos/resource/Qiao_Ruirui> .
@@ -218,7 +219,8 @@
 <http://risis.eu/wos/resource/Du_Meihong> <http://www.w3.org/2004/02/skos/core#altLabel> "Du, MH" .
 <http://risis.eu/wos/resource/Wang_Dayang> <http://www.w3.org/2004/02/skos/core#altLabel> "Wang, DY" .
 <http://risis.eu/wos/resource/Gao_Mingyuan> <http://www.w3.org/2004/02/skos/core#altLabel> "Gao, MY" .
-<http://risis.eu/wos/resource/JING_LH2010CHEM_MATERV22P420> <http://risis.eu/wos/vocab/SC> "Chemistry, Physical; Materials Science, Multidisciplinary" .
+<http://risis.eu/wos/resource/JING_LH2010CHEM_MATERV22P420> <http://risis.eu/wos/vocab/SC> "Chemistry, Physical" .
+<http://risis.eu/wos/resource/JING_LH2010CHEM_MATERV22P420> <http://risis.eu/wos/vocab/SC> "Materials Science, Multidisciplinary" .
 <http://risis.eu/wos/resource/JING_LH2010CHEM_MATERV22P420> <http://risis.eu/wos/vocab/ID> "SEMICONDUCTOR QUANTUM DOTS" .
 <http://risis.eu/wos/resource/JING_LH2010CHEM_MATERV22P420> <http://risis.eu/wos/vocab/ID> "CORE-SHELL NANOCRYSTALS" .
 <http://risis.eu/wos/resource/JING_LH2010CHEM_MATERV22P420> <http://risis.eu/wos/vocab/ID> "SILICA-COATED CDTE" .
@@ -253,12 +255,59 @@
 <http://risis.eu/wos/resource/JING_LH2010CHEM_MATERV22P420> <http://risis.eu/wos/vocab/IS> "2" .
 <http://risis.eu/wos/resource/JING_LH2010CHEM_MATERV22P420> <http://risis.eu/wos/vocab/BP> "420" .
 <http://risis.eu/wos/resource/JING_LH2010CHEM_MATERV22P420> <http://risis.eu/wos/vocab/EP> "427" .
-<http://risis.eu/wos/resource/JING_LH2010CHEM_MATERV22P420> <http://risis.eu/wos/vocab/DI> "10.1021/cm9029962" .
 <http://risis.eu/wos/resource/JING_LH2010CHEM_MATERV22P420> <http://risis.eu/wos/vocab/PG> "8" .
 <http://risis.eu/wos/resource/JING_LH2010CHEM_MATERV22P420> <http://risis.eu/wos/vocab/GA> "543LZ" .
 <http://risis.eu/wos/resource/JING_LH2010CHEM_MATERV22P420> <http://risis.eu/wos/vocab/UT> "ISI:000273580700020" .
 
 <http://risis.eu/wos/resource/KAILASAM_K2010CHEM_MATERV22P428> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://risis.eu/wos/vocab/Article> .
+<http://risis.eu/wos/resource/KAILASAM_K2010CHEM_MATERV22P428> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm9029903> .
+<http://risis.eu/wos/resource/BUDD_PM2004CHEM_COMMUN_____0121P230> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b311764b> .
+<http://risis.eu/wos/resource/COOPER_AI2009ADV_MATERV21P1291> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200801971> .
+<http://risis.eu/wos/resource/DENG_Y2008J_MATER_CHEMV18P91> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b713310c> .
+<http://risis.eu/wos/resource/DENG_YH2008CHEM_MATERV20P7281> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm802413q> .
+<http://risis.eu/wos/resource/DONG_YR2009CARBONV47P2138> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.carbon.2009.04.011> .
+<http://risis.eu/wos/resource/FARHA_OK2009CHEM_MATERV21P3033> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm901280w> .
+<http://risis.eu/wos/resource/FISCHER_A2007ADV_MATERV19P264> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200602151> .
+<http://risis.eu/wos/resource/FISCHER_A2008ACS_NANOV2P2489> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/nn800503a> .
+<http://risis.eu/wos/resource/FISCHER_A2008CHEM_MATERV20P7383> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm802127t> .
+<http://risis.eu/wos/resource/GOETTMANN_F2007ANGEW_CHEM_INT_EDITV46P2717> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/anie.200603478> .
+<http://risis.eu/wos/resource/JANG_J2005CHEM_COMMUNP1200> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b416518g> .
+<http://risis.eu/wos/resource/JIANG_JX2007ANGEW_CHEM_INT_EDITV46P8574> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/anie.200701595> .
+<http://risis.eu/wos/resource/JUN_YS2009ADV_MATERV21P4270> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200803500> .
+<http://risis.eu/wos/resource/KIM_SN2008MICROPOR_MESOPOR_MATV115P497> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.micromeso.2008.02.025> .
+<http://risis.eu/wos/resource/KOSONEN_H2006ADV_MATERV18P201> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200401110> .
+<http://risis.eu/wos/resource/KUHN_P2008ANGEW_CHEM_INT_EDITV47P3450> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/anie.200705710> .
+<http://risis.eu/wos/resource/LIU_HJ2009J_MATER_CHEMV19P3661> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b819820a> .
+<http://risis.eu/wos/resource/LIU_RL2006J_AM_CHEM_SOCV128P11652> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja0633518> .
+<http://risis.eu/wos/resource/MALY_KE2009J_MATER_CHEMV19P1781> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b816089a> .
+<http://risis.eu/wos/resource/MCKEOWN_NB2005CHEM-EUR_JV11P2610> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/chem.200400860> .
+<http://risis.eu/wos/resource/MENG_Y2005ANGEW_CHEM_INT_EDITV44P7053> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/anie.200501561> .
+<http://risis.eu/wos/resource/MEQUANINT_K2003POLYMERV44P2631> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/S0032-3861(03)00154-X> .
+<http://risis.eu/wos/resource/PEVIDA_C2008CARBONV46P1464> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.carbon.2008.06.026> .
+<http://risis.eu/wos/resource/RAHMAN_MM2009FIBER_POLYMV10P6> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1007/s12221-009-0006-z> .
+<http://risis.eu/wos/resource/SCHMIDT_J2009ADV_MATERV21P702> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200802692> .
+<http://risis.eu/wos/resource/SCHMIDT_J2009MACROMOLECULESV42P4426> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ma9005473> .
+<http://risis.eu/wos/resource/SCHWAB_MG2009J_AM_CHEM_SOCV131P7216> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja902116f> .
+<http://risis.eu/wos/resource/SOLERILLIA_GJDA2003CURR_OPIN_COLLOID_INV8P109> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/S1359-0294(03)00002-5> .
+<http://risis.eu/wos/resource/SRIVASTAVA_R2006MICROPOR_MESOPOR_MATV90P314> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.micromeso.2005.10.043> .
+<http://risis.eu/wos/resource/SVEC_F2009SMALLV5P1098> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/smll.200801762> .
+<http://risis.eu/wos/resource/THOMAS_A2008CHEM_MATERV20P738> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm702126j> .
+<http://risis.eu/wos/resource/THOMAS_A2009MACROMOL_RAPID_COMMV30P221> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/marc.200800642> .
+<http://risis.eu/wos/resource/VALKAMA_S2007ADV_FUNCT_MATERV17P183> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adfm.200600604> .
+<http://risis.eu/wos/resource/VONHOHENESCHE_CD2008CHEM_MATERV20P6124> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm8015319> .
+<http://risis.eu/wos/resource/WAN_Y2007CHEM_REVV107P2821> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cr068020s> .
+<http://risis.eu/wos/resource/WAN_Y2008CHEM_MATERV20P932> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm7024125> .
+<http://risis.eu/wos/resource/WEBER_B2009PROG_ORG_COATV64P150> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.porgcoat.2008.08.032> .
+<http://risis.eu/wos/resource/WEBER_J2007MACROMOL_RAPID_COMMV28P1871> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/marc.200700346> .
+<http://risis.eu/wos/resource/WEBER_J2007MACROMOLECULESV40P1299> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ma062598m> .
+<http://risis.eu/wos/resource/WEBER_J2008ADV_MATERV20P2595> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200703159> .
+<http://risis.eu/wos/resource/WEBER_J2008J_AM_CHEM_SOCV130P6334> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja801691x> .
+<http://risis.eu/wos/resource/WEBER_J2008MACROMOLECULESV41P2880> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ma702495r> .
+<http://risis.eu/wos/resource/WEBER_J2009MACROMOLECULESV42P8234> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ma901322t> .
+<http://risis.eu/wos/resource/ZELENAK_V2008CHEM_ENG_JV144P336> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.cej.2008.07.025> .
+<http://risis.eu/wos/resource/ZELENAK_V2008MICROPOR_MESOPOR_MATV116P358> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.micromeso.2008.04.023> .
+<http://risis.eu/wos/resource/ZHAI_YP2009J_MATER_CHEMV19P3292> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b821945a> .
+<http://risis.eu/wos/resource/ZHANG_FQ2005J_AM_CHEM_SOCV127P13508> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja0545721> .
 <http://risis.eu/wos/resource/KAILASAM_K2010CHEM_MATERV22P428> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/BUDD_PM2004CHEM_COMMUN_____0121P230> .
 <http://risis.eu/wos/resource/KAILASAM_K2010CHEM_MATERV22P428> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/CHENG_SF2008P_INT_S_CREAT_CONTRP681> .
 <http://risis.eu/wos/resource/KAILASAM_K2010CHEM_MATERV22P428> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/COOPER_AI2009ADV_MATERV21P1291> .
@@ -387,53 +436,6 @@
 <http://risis.eu/wos/resource/Epping_Jan_Dirk> <http://www.w3.org/2000/01/rdf-schema#label> "Epping, Jan Dirk" .
 <http://risis.eu/wos/resource/Hong_Won_Hi> <http://www.w3.org/2000/01/rdf-schema#label> "Hong, Won Hi" .
 <http://risis.eu/wos/resource/Thomas_Arne> <http://www.w3.org/2000/01/rdf-schema#label> "Thomas, Arne" .
-<http://risis.eu/wos/resource/BUDD_PM2004CHEM_COMMUN_____0121P230> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b311764b> .
-<http://risis.eu/wos/resource/COOPER_AI2009ADV_MATERV21P1291> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200801971> .
-<http://risis.eu/wos/resource/DENG_Y2008J_MATER_CHEMV18P91> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b713310c> .
-<http://risis.eu/wos/resource/DENG_YH2008CHEM_MATERV20P7281> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm802413q> .
-<http://risis.eu/wos/resource/DONG_YR2009CARBONV47P2138> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.carbon.2009.04.011> .
-<http://risis.eu/wos/resource/FARHA_OK2009CHEM_MATERV21P3033> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm901280w> .
-<http://risis.eu/wos/resource/FISCHER_A2007ADV_MATERV19P264> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200602151> .
-<http://risis.eu/wos/resource/FISCHER_A2008ACS_NANOV2P2489> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/nn800503a> .
-<http://risis.eu/wos/resource/FISCHER_A2008CHEM_MATERV20P7383> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm802127t> .
-<http://risis.eu/wos/resource/GOETTMANN_F2007ANGEW_CHEM_INT_EDITV46P2717> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/anie.200603478> .
-<http://risis.eu/wos/resource/JANG_J2005CHEM_COMMUNP1200> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b416518g> .
-<http://risis.eu/wos/resource/JIANG_JX2007ANGEW_CHEM_INT_EDITV46P8574> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/anie.200701595> .
-<http://risis.eu/wos/resource/JUN_YS2009ADV_MATERV21P4270> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200803500> .
-<http://risis.eu/wos/resource/KIM_SN2008MICROPOR_MESOPOR_MATV115P497> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.micromeso.2008.02.025> .
-<http://risis.eu/wos/resource/KOSONEN_H2006ADV_MATERV18P201> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200401110> .
-<http://risis.eu/wos/resource/KUHN_P2008ANGEW_CHEM_INT_EDITV47P3450> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/anie.200705710> .
-<http://risis.eu/wos/resource/LIU_HJ2009J_MATER_CHEMV19P3661> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b819820a> .
-<http://risis.eu/wos/resource/LIU_RL2006J_AM_CHEM_SOCV128P11652> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja0633518> .
-<http://risis.eu/wos/resource/MALY_KE2009J_MATER_CHEMV19P1781> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b816089a> .
-<http://risis.eu/wos/resource/MCKEOWN_NB2005CHEM-EUR_JV11P2610> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/chem.200400860> .
-<http://risis.eu/wos/resource/MENG_Y2005ANGEW_CHEM_INT_EDITV44P7053> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/anie.200501561> .
-<http://risis.eu/wos/resource/MEQUANINT_K2003POLYMERV44P2631> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/S0032-3861(03)00154-X> .
-<http://risis.eu/wos/resource/PEVIDA_C2008CARBONV46P1464> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.carbon.2008.06.026> .
-<http://risis.eu/wos/resource/RAHMAN_MM2009FIBER_POLYMV10P6> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1007/s12221-009-0006-z> .
-<http://risis.eu/wos/resource/SCHMIDT_J2009ADV_MATERV21P702> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200802692> .
-<http://risis.eu/wos/resource/SCHMIDT_J2009MACROMOLECULESV42P4426> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ma9005473> .
-<http://risis.eu/wos/resource/SCHWAB_MG2009J_AM_CHEM_SOCV131P7216> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja902116f> .
-<http://risis.eu/wos/resource/SOLERILLIA_GJDA2003CURR_OPIN_COLLOID_INV8P109> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/S1359-0294(03)00002-5> .
-<http://risis.eu/wos/resource/SRIVASTAVA_R2006MICROPOR_MESOPOR_MATV90P314> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.micromeso.2005.10.043> .
-<http://risis.eu/wos/resource/SVEC_F2009SMALLV5P1098> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/smll.200801762> .
-<http://risis.eu/wos/resource/THOMAS_A2008CHEM_MATERV20P738> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm702126j> .
-<http://risis.eu/wos/resource/THOMAS_A2009MACROMOL_RAPID_COMMV30P221> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/marc.200800642> .
-<http://risis.eu/wos/resource/VALKAMA_S2007ADV_FUNCT_MATERV17P183> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adfm.200600604> .
-<http://risis.eu/wos/resource/VONHOHENESCHE_CD2008CHEM_MATERV20P6124> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm8015319> .
-<http://risis.eu/wos/resource/WAN_Y2007CHEM_REVV107P2821> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cr068020s> .
-<http://risis.eu/wos/resource/WAN_Y2008CHEM_MATERV20P932> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm7024125> .
-<http://risis.eu/wos/resource/WEBER_B2009PROG_ORG_COATV64P150> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.porgcoat.2008.08.032> .
-<http://risis.eu/wos/resource/WEBER_J2007MACROMOL_RAPID_COMMV28P1871> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/marc.200700346> .
-<http://risis.eu/wos/resource/WEBER_J2007MACROMOLECULESV40P1299> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ma062598m> .
-<http://risis.eu/wos/resource/WEBER_J2008ADV_MATERV20P2595> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200703159> .
-<http://risis.eu/wos/resource/WEBER_J2008J_AM_CHEM_SOCV130P6334> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja801691x> .
-<http://risis.eu/wos/resource/WEBER_J2008MACROMOLECULESV41P2880> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ma702495r> .
-<http://risis.eu/wos/resource/WEBER_J2009MACROMOLECULESV42P8234> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ma901322t> .
-<http://risis.eu/wos/resource/ZELENAK_V2008CHEM_ENG_JV144P336> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.cej.2008.07.025> .
-<http://risis.eu/wos/resource/ZELENAK_V2008MICROPOR_MESOPOR_MATV116P358> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.micromeso.2008.04.023> .
-<http://risis.eu/wos/resource/ZHAI_YP2009J_MATER_CHEMV19P3292> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b821945a> .
-<http://risis.eu/wos/resource/ZHANG_FQ2005J_AM_CHEM_SOCV127P13508> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja0545721> .
 <http://risis.eu/wos/resource/KAILASAM_K2010CHEM_MATERV22P428> <http://risis.eu/wos/vocab/AF> <http://risis.eu/wos/resource/Kailasam_Kamalakannan> .
 <http://risis.eu/wos/resource/KAILASAM_K2010CHEM_MATERV22P428> <http://risis.eu/wos/vocab/AF> <http://risis.eu/wos/resource/Jun_Young-Si> .
 <http://risis.eu/wos/resource/KAILASAM_K2010CHEM_MATERV22P428> <http://risis.eu/wos/vocab/AF> <http://risis.eu/wos/resource/Katekomol_Phisan> .
@@ -446,7 +448,8 @@
 <http://risis.eu/wos/resource/Epping_Jan_Dirk> <http://www.w3.org/2004/02/skos/core#altLabel> "Epping, JD" .
 <http://risis.eu/wos/resource/Hong_Won_Hi> <http://www.w3.org/2004/02/skos/core#altLabel> "Hong, WH" .
 <http://risis.eu/wos/resource/Thomas_Arne> <http://www.w3.org/2004/02/skos/core#altLabel> "Thomas, A" .
-<http://risis.eu/wos/resource/KAILASAM_K2010CHEM_MATERV22P428> <http://risis.eu/wos/vocab/SC> "Chemistry, Physical; Materials Science, Multidisciplinary" .
+<http://risis.eu/wos/resource/KAILASAM_K2010CHEM_MATERV22P428> <http://risis.eu/wos/vocab/SC> "Chemistry, Physical" .
+<http://risis.eu/wos/resource/KAILASAM_K2010CHEM_MATERV22P428> <http://risis.eu/wos/vocab/SC> "Materials Science, Multidisciplinary" .
 <http://risis.eu/wos/resource/KAILASAM_K2010CHEM_MATERV22P428> <http://risis.eu/wos/vocab/ID> "INTRINSIC MICROPOROSITY PIMS" .
 <http://risis.eu/wos/resource/KAILASAM_K2010CHEM_MATERV22P428> <http://risis.eu/wos/vocab/ID> "GRAPHITIC CARBON NITRIDE" .
 <http://risis.eu/wos/resource/KAILASAM_K2010CHEM_MATERV22P428> <http://risis.eu/wos/vocab/ID> "HIERARCHICAL POROSITY" .
@@ -481,12 +484,99 @@
 <http://risis.eu/wos/resource/KAILASAM_K2010CHEM_MATERV22P428> <http://risis.eu/wos/vocab/IS> "2" .
 <http://risis.eu/wos/resource/KAILASAM_K2010CHEM_MATERV22P428> <http://risis.eu/wos/vocab/BP> "428" .
 <http://risis.eu/wos/resource/KAILASAM_K2010CHEM_MATERV22P428> <http://risis.eu/wos/vocab/EP> "434" .
-<http://risis.eu/wos/resource/KAILASAM_K2010CHEM_MATERV22P428> <http://risis.eu/wos/vocab/DI> "10.1021/cm9029903" .
 <http://risis.eu/wos/resource/KAILASAM_K2010CHEM_MATERV22P428> <http://risis.eu/wos/vocab/PG> "7" .
 <http://risis.eu/wos/resource/KAILASAM_K2010CHEM_MATERV22P428> <http://risis.eu/wos/vocab/GA> "543LZ" .
 <http://risis.eu/wos/resource/KAILASAM_K2010CHEM_MATERV22P428> <http://risis.eu/wos/vocab/UT> "ISI:000273580700021" .
 
 <http://risis.eu/wos/resource/ZHAO_BM2010CHEM_MATERV22P435> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://risis.eu/wos/vocab/Review> .
+<http://risis.eu/wos/resource/ZHAO_BM2010CHEM_MATERV22P435> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm903555s> .
+<http://risis.eu/wos/resource/AHRENS_MJ2003CHEM_MATERV15P2684> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm034140u> .
+<http://risis.eu/wos/resource/AN_BK2004J_AM_CHEM_SOCV126P10232> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja046215g> .
+<http://risis.eu/wos/resource/ATILLA_D2009SYNTHETIC_METV159P13> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.synthmet.2008.07.013> .
+<http://risis.eu/wos/resource/BAO_QL2009J_PHYS_CHEM_CV113P12530> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jp902804f> .
+<http://risis.eu/wos/resource/BLOUIN_N2007ADV_MATERV19P2295> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200602496> .
+<http://risis.eu/wos/resource/BLOUIN_N2008ACCOUNTS_CHEM_RESV41P1110> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ar800057k> .
+<http://risis.eu/wos/resource/BLOUIN_N2008J_AM_CHEM_SOCV130P732> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja0771989> .
+<http://risis.eu/wos/resource/BREIBY_DW2005J_AM_CHEM_SOCV127P11288> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja042355e> .
+<http://risis.eu/wos/resource/BRUNNER_K2004J_AM_CHEM_SOCV126P6035> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja049883a> .
+<http://risis.eu/wos/resource/BUSHBY_RJ2002CURR_OPIN_SOLID_ST_MV6P569> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/S1359-0286(03)00007-X> .
+<http://risis.eu/wos/resource/CAMEREL_F2006J_AM_CHEM_SOCV128P4548> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja0606069> .
+<http://risis.eu/wos/resource/CAO_XY2005J_ORG_CHEMV70P3645> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jo0480139> .
+<http://risis.eu/wos/resource/CHEN_ZJ2007CHEM-EUR_JV13P450> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/chem.200600891> .
+<http://risis.eu/wos/resource/COROPCEANU_V2007CHEM_REVV107P926> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cr050140x> .
+<http://risis.eu/wos/resource/CUI_L2006MACROMOLECULESV39P2536> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ma06001x> .
+<http://risis.eu/wos/resource/DELAHOZ_A2005CHEM_SOC_REVV34P164> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b411438h> .
+<http://risis.eu/wos/resource/ELMAHDY_MM2008J_AM_CHEM_SOCV130P5311> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja7113618> .
+<http://risis.eu/wos/resource/GARCIAFRUTOS_EM2008J_AM_CHEM_SOCV130P9173> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja8025399> .
+<http://risis.eu/wos/resource/GEARBA_RI2003ADV_MATERV15P1614> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200305137> .
+<http://risis.eu/wos/resource/GOMEZLOR_B2004CHEM-EUR_JV10P2601> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/chem.200306023> .
+<http://risis.eu/wos/resource/GOMEZLOR_B2004ORG_LETTV6P2993> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ol048760s> .
+<http://risis.eu/wos/resource/GOMEZLOR_B2006ANGEW_CHEM_INT_EDITV45P4491> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/anie.200600526> .
+<http://risis.eu/wos/resource/GOMEZLOR_B2006CHEM_COMMUNP5012> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b611965d> .
+<http://risis.eu/wos/resource/GRAZULEVICIUS_JV2003PROG_POLYM_SCIV28P1297> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/S0079-6700(03)00036-4> .
+<http://risis.eu/wos/resource/GUO_XF2006P_NATL_ACAD_SCI_USAV103P11452> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1073/pnas.0601675103> .
+<http://risis.eu/wos/resource/GUPTA_SK2009NEW_J_CHEMV33P112> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b808750d> .
+<http://risis.eu/wos/resource/HAINO_T2008CHEM_COMMUNP468> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b715871h> .
+<http://risis.eu/wos/resource/HIRAI_Y2008ADV_FUNCT_MATERV18P1668> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adfm.200701313> .
+<http://risis.eu/wos/resource/HIRST_AR2008ANGEW_CHEM_INT_EDITV47P8002> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/anie.200800022> .
+<http://risis.eu/wos/resource/KAPPE_CO2004ANGEW_CHEM_INT_EDITV43P6250> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/anie.200400655> .
+<http://risis.eu/wos/resource/KHAVRYUCHENKO_VD2008CHEM_PHYSV352P231> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.chemphys.2008.06.019> .
+<http://risis.eu/wos/resource/KUMAR_S2004LIQ_CRYSTV31P1037> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1080/02678290410001724746> .
+<http://risis.eu/wos/resource/KUMAR_S2005LIQ_CRYSTV32P1089> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1080/02678290500117415> .
+<http://risis.eu/wos/resource/KUMAR_S2006CHEM_SOC_REVV35P83> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b506619k> .
+<http://risis.eu/wos/resource/LAI_WY2006CHEM_COMMUNP1959> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b517841j> .
+<http://risis.eu/wos/resource/LAI_WY2008ADV_FUNCT_MATERV18P265> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adfm.200700224> .
+<http://risis.eu/wos/resource/LAI_WY2009ADV_MATERV21P355> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200800748> .
+<http://risis.eu/wos/resource/LASCHAT_S2007ANGEW_CHEM_INT_EDITV46P4832> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/anie.200604203> .
+<http://risis.eu/wos/resource/LEADBEATER_NE2005CHEM_COMMUNP2881> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b500952a> .
+<http://risis.eu/wos/resource/LEE_DC2008CHEM_COMMUNP3636> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b806084c> .
+<http://risis.eu/wos/resource/LEE_JH2006J_MATER_CHEMV16P2785> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b603902b> .
+<http://risis.eu/wos/resource/LI_JY2005CHEM_MATERV17P1208> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm034731k> .
+<http://risis.eu/wos/resource/LI_Y2008ORG_LETTV10P529> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ol703046w> .
+<http://risis.eu/wos/resource/MINCH_BA2005CHEM_MATERV17P1618> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm0483745> .
+<http://risis.eu/wos/resource/MORIN_JF2005MACROMOL_RAPID_COMMV26P761> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/marc.200500096> .
+<http://risis.eu/wos/resource/NATSUME_Y2009THIN_SOLID_FILMSV517P3005> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.tsf.2008.11.137> .
+<http://risis.eu/wos/resource/PALMA_M2006ADV_MATERV18P3313> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200601437> .
+<http://risis.eu/wos/resource/PEI_J2006TETRAHEDRON_LETTV47P1551> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.tetlet.2006.01.006> .
+<http://risis.eu/wos/resource/PENG_Q2009MACROMOLECULESV42P5478> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ma9008737> .
+<http://risis.eu/wos/resource/PEREZ_D2004CHEM_SOC_REVV33P274> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b305549n> .
+<http://risis.eu/wos/resource/PISULA_W2004J_AM_CHEM_SOCV126P8074> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja048351r> .
+<http://risis.eu/wos/resource/PISULA_W2005ADV_MATERV17P684> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adam.200401171> .
+<http://risis.eu/wos/resource/PISULA_W2005CHEM_MATERV17P4296> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm050251c> .
+<http://risis.eu/wos/resource/QIAN_HL2008J_AM_CHEM_SOCV130P17970> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja807803j> .
+<http://risis.eu/wos/resource/REP_DBA2003ORG_ELECTRONV4P201> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/S1566-1199(03)00016-8> .
+<http://risis.eu/wos/resource/ROBERTS_BA2005ACCOUNTS_CHEM_RESV38P653> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ar040278m> .
+<http://risis.eu/wos/resource/SAGARA_Y2008ANGEW_CHEM_INT_EDITV47P5175> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/anie.200800164> .
+<http://risis.eu/wos/resource/SAKAMOTO_Y2004J_AM_CHEM_SOCV126P8138> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja0476258> .
+<http://risis.eu/wos/resource/SENTHILKUMAR_K2003J_CHEM_PHYSV119P9809> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1063/1.1615476> .
+<http://risis.eu/wos/resource/SERGEYEV_S2007CHEM_SOC_REVV36P1902> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b417320c> .
+<http://risis.eu/wos/resource/SHEN_Z2007J_AM_CHEM_SOCV129P14271> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja073518c> .
+<http://risis.eu/wos/resource/SHIROTA_Y2007CHEM_REVV107P953> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cr050143+> .
+<http://risis.eu/wos/resource/SIMPSON_CD2004J_MATER_CHEMV14P494> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b312789c> .
+<http://risis.eu/wos/resource/SINGH_BK2008ORG_PROCESS_RES_DEVV12P468> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/op80047f> .
+<http://risis.eu/wos/resource/SUN_QJ2003J_MATER_CHEMV13P800> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b209469j> .
+<http://risis.eu/wos/resource/SUN_YM2005ADV_FUNCT_MATERV15P818> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adfm.200400380> .
+<http://risis.eu/wos/resource/TALARICO_M2008CHEM_MATERV20P6589> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm8020512> .
+<http://risis.eu/wos/resource/TANT_J2006J_PHYS_CHEM_BV110P3449> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jp060109E> .
+<http://risis.eu/wos/resource/TAO_K2009MACROMOL_CHEM_PHYSICV210P478> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/macp.200800498> .
+<http://risis.eu/wos/resource/WANG_DG2009TETRAHEDRON_LETTV50P2147> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.tetlet.2009.02.177> .
+<http://risis.eu/wos/resource/WANG_JY2009CHEM_MATERV21P2595> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm900568k> .
+<http://risis.eu/wos/resource/WANG_ZH2004CHEM_COMMUN_____0207P336> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b311651d> .
+<http://risis.eu/wos/resource/WANG_ZH2004J_AM_CHEM_SOCV126P7794> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja048580d> .
+<http://risis.eu/wos/resource/WANG_ZS2008CHEM_MATERV20P3993> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm8003276> .
+<http://risis.eu/wos/resource/WASSERFALLEN_D2005ADV_FUNCT_MATERV15P1585> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adfm.200500124> .
+<http://risis.eu/wos/resource/WEIDKAMP_KP2004J_AM_CHEM_SOCV126P12740> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja045228r> .
+<http://risis.eu/wos/resource/WU_JS2003MACROMOLECULESV36P7082> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ma0257752> .
+<http://risis.eu/wos/resource/WU_JS2004J_AM_CHEM_SOCV126P11311> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja047577r> .
+<http://risis.eu/wos/resource/WU_JS2004J_AM_CHEM_SOCV126P177> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja037519q> .
+<http://risis.eu/wos/resource/WU_JS2004J_ORG_CHEMV69P5179> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jo049452a> .
+<http://risis.eu/wos/resource/WU_JS2004J_ORG_CHEMV69P8194> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jo0490301> .
+<http://risis.eu/wos/resource/WU_JS2007CHEM_REVV107P718> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cr068010r> .
+<http://risis.eu/wos/resource/YASUDA_T2009ADV_FUNCT_MATERV19P411> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adfm.200801268> .
+<http://risis.eu/wos/resource/ZELCER_A2007CHEM_MATERV19P1992> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm062949b> .
+<http://risis.eu/wos/resource/ZHI_LJ2005ORG_LETTV7P5761> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ol052201j> .
+<http://risis.eu/wos/resource/ZHOU_Y2006J_ORG_CHEMV71P6822> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jo0609172> .
+<http://risis.eu/wos/resource/ZUCCHI_G2005CHEM_MATERV17P4273> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm0506981> .
 <http://risis.eu/wos/resource/ZHAO_BM2010CHEM_MATERV22P435> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/ADAM_D1993BER_BUNSEN_PHYS_CHEMV97P1366> .
 <http://risis.eu/wos/resource/ZHAO_BM2010CHEM_MATERV22P435> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/ADAM_D1993PHYS_REV_LETTV70P457> .
 <http://risis.eu/wos/resource/ZHAO_BM2010CHEM_MATERV22P435> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/ADAM_D1994NATUREV371P141> .
@@ -809,93 +899,6 @@
 <http://risis.eu/wos/resource/Ho_Peter_K_H> <http://www.w3.org/2000/01/rdf-schema#label> "Ho, Peter K. H." .
 <http://risis.eu/wos/resource/Chi_Chunyan> <http://www.w3.org/2000/01/rdf-schema#label> "Chi, Chunyan" .
 <http://risis.eu/wos/resource/Wu_Jishan> <http://www.w3.org/2000/01/rdf-schema#label> "Wu, Jishan" .
-<http://risis.eu/wos/resource/AHRENS_MJ2003CHEM_MATERV15P2684> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm034140u> .
-<http://risis.eu/wos/resource/AN_BK2004J_AM_CHEM_SOCV126P10232> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja046215g> .
-<http://risis.eu/wos/resource/ATILLA_D2009SYNTHETIC_METV159P13> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.synthmet.2008.07.013> .
-<http://risis.eu/wos/resource/BAO_QL2009J_PHYS_CHEM_CV113P12530> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jp902804f> .
-<http://risis.eu/wos/resource/BLOUIN_N2007ADV_MATERV19P2295> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200602496> .
-<http://risis.eu/wos/resource/BLOUIN_N2008ACCOUNTS_CHEM_RESV41P1110> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ar800057k> .
-<http://risis.eu/wos/resource/BLOUIN_N2008J_AM_CHEM_SOCV130P732> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja0771989> .
-<http://risis.eu/wos/resource/BREIBY_DW2005J_AM_CHEM_SOCV127P11288> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja042355e> .
-<http://risis.eu/wos/resource/BRUNNER_K2004J_AM_CHEM_SOCV126P6035> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja049883a> .
-<http://risis.eu/wos/resource/BUSHBY_RJ2002CURR_OPIN_SOLID_ST_MV6P569> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/S1359-0286(03)00007-X> .
-<http://risis.eu/wos/resource/CAMEREL_F2006J_AM_CHEM_SOCV128P4548> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja0606069> .
-<http://risis.eu/wos/resource/CAO_XY2005J_ORG_CHEMV70P3645> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jo0480139> .
-<http://risis.eu/wos/resource/CHEN_ZJ2007CHEM-EUR_JV13P450> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/chem.200600891> .
-<http://risis.eu/wos/resource/COROPCEANU_V2007CHEM_REVV107P926> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cr050140x> .
-<http://risis.eu/wos/resource/CUI_L2006MACROMOLECULESV39P2536> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ma06001x> .
-<http://risis.eu/wos/resource/DELAHOZ_A2005CHEM_SOC_REVV34P164> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b411438h> .
-<http://risis.eu/wos/resource/ELMAHDY_MM2008J_AM_CHEM_SOCV130P5311> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja7113618> .
-<http://risis.eu/wos/resource/GARCIAFRUTOS_EM2008J_AM_CHEM_SOCV130P9173> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja8025399> .
-<http://risis.eu/wos/resource/GEARBA_RI2003ADV_MATERV15P1614> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200305137> .
-<http://risis.eu/wos/resource/GOMEZLOR_B2004CHEM-EUR_JV10P2601> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/chem.200306023> .
-<http://risis.eu/wos/resource/GOMEZLOR_B2004ORG_LETTV6P2993> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ol048760s> .
-<http://risis.eu/wos/resource/GOMEZLOR_B2006ANGEW_CHEM_INT_EDITV45P4491> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/anie.200600526> .
-<http://risis.eu/wos/resource/GOMEZLOR_B2006CHEM_COMMUNP5012> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b611965d> .
-<http://risis.eu/wos/resource/GRAZULEVICIUS_JV2003PROG_POLYM_SCIV28P1297> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/S0079-6700(03)00036-4> .
-<http://risis.eu/wos/resource/GUO_XF2006P_NATL_ACAD_SCI_USAV103P11452> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1073/pnas.0601675103> .
-<http://risis.eu/wos/resource/GUPTA_SK2009NEW_J_CHEMV33P112> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b808750d> .
-<http://risis.eu/wos/resource/HAINO_T2008CHEM_COMMUNP468> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b715871h> .
-<http://risis.eu/wos/resource/HIRAI_Y2008ADV_FUNCT_MATERV18P1668> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adfm.200701313> .
-<http://risis.eu/wos/resource/HIRST_AR2008ANGEW_CHEM_INT_EDITV47P8002> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/anie.200800022> .
-<http://risis.eu/wos/resource/KAPPE_CO2004ANGEW_CHEM_INT_EDITV43P6250> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/anie.200400655> .
-<http://risis.eu/wos/resource/KHAVRYUCHENKO_VD2008CHEM_PHYSV352P231> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.chemphys.2008.06.019> .
-<http://risis.eu/wos/resource/KUMAR_S2004LIQ_CRYSTV31P1037> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1080/02678290410001724746> .
-<http://risis.eu/wos/resource/KUMAR_S2005LIQ_CRYSTV32P1089> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1080/02678290500117415> .
-<http://risis.eu/wos/resource/KUMAR_S2006CHEM_SOC_REVV35P83> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b506619k> .
-<http://risis.eu/wos/resource/LAI_WY2006CHEM_COMMUNP1959> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b517841j> .
-<http://risis.eu/wos/resource/LAI_WY2008ADV_FUNCT_MATERV18P265> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adfm.200700224> .
-<http://risis.eu/wos/resource/LAI_WY2009ADV_MATERV21P355> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200800748> .
-<http://risis.eu/wos/resource/LASCHAT_S2007ANGEW_CHEM_INT_EDITV46P4832> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/anie.200604203> .
-<http://risis.eu/wos/resource/LEADBEATER_NE2005CHEM_COMMUNP2881> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b500952a> .
-<http://risis.eu/wos/resource/LEE_DC2008CHEM_COMMUNP3636> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b806084c> .
-<http://risis.eu/wos/resource/LEE_JH2006J_MATER_CHEMV16P2785> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b603902b> .
-<http://risis.eu/wos/resource/LI_JY2005CHEM_MATERV17P1208> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm034731k> .
-<http://risis.eu/wos/resource/LI_Y2008ORG_LETTV10P529> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ol703046w> .
-<http://risis.eu/wos/resource/MINCH_BA2005CHEM_MATERV17P1618> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm0483745> .
-<http://risis.eu/wos/resource/MORIN_JF2005MACROMOL_RAPID_COMMV26P761> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/marc.200500096> .
-<http://risis.eu/wos/resource/NATSUME_Y2009THIN_SOLID_FILMSV517P3005> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.tsf.2008.11.137> .
-<http://risis.eu/wos/resource/PALMA_M2006ADV_MATERV18P3313> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200601437> .
-<http://risis.eu/wos/resource/PEI_J2006TETRAHEDRON_LETTV47P1551> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.tetlet.2006.01.006> .
-<http://risis.eu/wos/resource/PENG_Q2009MACROMOLECULESV42P5478> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ma9008737> .
-<http://risis.eu/wos/resource/PEREZ_D2004CHEM_SOC_REVV33P274> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b305549n> .
-<http://risis.eu/wos/resource/PISULA_W2004J_AM_CHEM_SOCV126P8074> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja048351r> .
-<http://risis.eu/wos/resource/PISULA_W2005ADV_MATERV17P684> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adam.200401171> .
-<http://risis.eu/wos/resource/PISULA_W2005CHEM_MATERV17P4296> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm050251c> .
-<http://risis.eu/wos/resource/QIAN_HL2008J_AM_CHEM_SOCV130P17970> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja807803j> .
-<http://risis.eu/wos/resource/REP_DBA2003ORG_ELECTRONV4P201> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/S1566-1199(03)00016-8> .
-<http://risis.eu/wos/resource/ROBERTS_BA2005ACCOUNTS_CHEM_RESV38P653> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ar040278m> .
-<http://risis.eu/wos/resource/SAGARA_Y2008ANGEW_CHEM_INT_EDITV47P5175> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/anie.200800164> .
-<http://risis.eu/wos/resource/SAKAMOTO_Y2004J_AM_CHEM_SOCV126P8138> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja0476258> .
-<http://risis.eu/wos/resource/SENTHILKUMAR_K2003J_CHEM_PHYSV119P9809> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1063/1.1615476> .
-<http://risis.eu/wos/resource/SERGEYEV_S2007CHEM_SOC_REVV36P1902> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b417320c> .
-<http://risis.eu/wos/resource/SHEN_Z2007J_AM_CHEM_SOCV129P14271> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja073518c> .
-<http://risis.eu/wos/resource/SHIROTA_Y2007CHEM_REVV107P953> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cr050143+> .
-<http://risis.eu/wos/resource/SIMPSON_CD2004J_MATER_CHEMV14P494> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b312789c> .
-<http://risis.eu/wos/resource/SINGH_BK2008ORG_PROCESS_RES_DEVV12P468> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/op80047f> .
-<http://risis.eu/wos/resource/SUN_QJ2003J_MATER_CHEMV13P800> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b209469j> .
-<http://risis.eu/wos/resource/SUN_YM2005ADV_FUNCT_MATERV15P818> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adfm.200400380> .
-<http://risis.eu/wos/resource/TALARICO_M2008CHEM_MATERV20P6589> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm8020512> .
-<http://risis.eu/wos/resource/TANT_J2006J_PHYS_CHEM_BV110P3449> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jp060109E> .
-<http://risis.eu/wos/resource/TAO_K2009MACROMOL_CHEM_PHYSICV210P478> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/macp.200800498> .
-<http://risis.eu/wos/resource/WANG_DG2009TETRAHEDRON_LETTV50P2147> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.tetlet.2009.02.177> .
-<http://risis.eu/wos/resource/WANG_JY2009CHEM_MATERV21P2595> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm900568k> .
-<http://risis.eu/wos/resource/WANG_ZH2004CHEM_COMMUN_____0207P336> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b311651d> .
-<http://risis.eu/wos/resource/WANG_ZH2004J_AM_CHEM_SOCV126P7794> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja048580d> .
-<http://risis.eu/wos/resource/WANG_ZS2008CHEM_MATERV20P3993> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm8003276> .
-<http://risis.eu/wos/resource/WASSERFALLEN_D2005ADV_FUNCT_MATERV15P1585> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adfm.200500124> .
-<http://risis.eu/wos/resource/WEIDKAMP_KP2004J_AM_CHEM_SOCV126P12740> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja045228r> .
-<http://risis.eu/wos/resource/WU_JS2003MACROMOLECULESV36P7082> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ma0257752> .
-<http://risis.eu/wos/resource/WU_JS2004J_AM_CHEM_SOCV126P11311> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja047577r> .
-<http://risis.eu/wos/resource/WU_JS2004J_AM_CHEM_SOCV126P177> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja037519q> .
-<http://risis.eu/wos/resource/WU_JS2004J_ORG_CHEMV69P5179> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jo049452a> .
-<http://risis.eu/wos/resource/WU_JS2004J_ORG_CHEMV69P8194> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jo0490301> .
-<http://risis.eu/wos/resource/WU_JS2007CHEM_REVV107P718> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cr068010r> .
-<http://risis.eu/wos/resource/YASUDA_T2009ADV_FUNCT_MATERV19P411> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adfm.200801268> .
-<http://risis.eu/wos/resource/ZELCER_A2007CHEM_MATERV19P1992> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm062949b> .
-<http://risis.eu/wos/resource/ZHI_LJ2005ORG_LETTV7P5761> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ol052201j> .
-<http://risis.eu/wos/resource/ZHOU_Y2006J_ORG_CHEMV71P6822> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jo0609172> .
-<http://risis.eu/wos/resource/ZUCCHI_G2005CHEM_MATERV17P4273> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm0506981> .
 <http://risis.eu/wos/resource/ZHAO_BM2010CHEM_MATERV22P435> <http://risis.eu/wos/vocab/AF> <http://risis.eu/wos/resource/Zhao_Baomin> .
 <http://risis.eu/wos/resource/ZHAO_BM2010CHEM_MATERV22P435> <http://risis.eu/wos/vocab/AF> <http://risis.eu/wos/resource/Liu_Bo> .
 <http://risis.eu/wos/resource/ZHAO_BM2010CHEM_MATERV22P435> <http://risis.eu/wos/vocab/AF> <http://risis.eu/wos/resource/Png_Rui_Qi> .
@@ -916,7 +919,8 @@
 <http://risis.eu/wos/resource/Ho_Peter_K_H> <http://www.w3.org/2004/02/skos/core#altLabel> "Ho, PKH" .
 <http://risis.eu/wos/resource/Chi_Chunyan> <http://www.w3.org/2004/02/skos/core#altLabel> "Chi, CY" .
 <http://risis.eu/wos/resource/Wu_Jishan> <http://www.w3.org/2004/02/skos/core#altLabel> "Wu, JS" .
-<http://risis.eu/wos/resource/ZHAO_BM2010CHEM_MATERV22P435> <http://risis.eu/wos/vocab/SC> "Chemistry, Physical; Materials Science, Multidisciplinary" .
+<http://risis.eu/wos/resource/ZHAO_BM2010CHEM_MATERV22P435> <http://risis.eu/wos/vocab/SC> "Chemistry, Physical" .
+<http://risis.eu/wos/resource/ZHAO_BM2010CHEM_MATERV22P435> <http://risis.eu/wos/vocab/SC> "Materials Science, Multidisciplinary" .
 <http://risis.eu/wos/resource/ZHAO_BM2010CHEM_MATERV22P435> <http://risis.eu/wos/vocab/ID> "POLYCYCLIC AROMATIC-HYDROCARBONS" .
 <http://risis.eu/wos/resource/ZHAO_BM2010CHEM_MATERV22P435> <http://risis.eu/wos/vocab/ID> "HEXA-PERI-HEXABENZOCORONENES" .
 <http://risis.eu/wos/resource/ZHAO_BM2010CHEM_MATERV22P435> <http://risis.eu/wos/vocab/ID> "LIGHT-EMITTING DEVICES" .
@@ -951,12 +955,25 @@
 <http://risis.eu/wos/resource/ZHAO_BM2010CHEM_MATERV22P435> <http://risis.eu/wos/vocab/IS> "2" .
 <http://risis.eu/wos/resource/ZHAO_BM2010CHEM_MATERV22P435> <http://risis.eu/wos/vocab/BP> "435" .
 <http://risis.eu/wos/resource/ZHAO_BM2010CHEM_MATERV22P435> <http://risis.eu/wos/vocab/EP> "449" .
-<http://risis.eu/wos/resource/ZHAO_BM2010CHEM_MATERV22P435> <http://risis.eu/wos/vocab/DI> "10.1021/cm903555s" .
 <http://risis.eu/wos/resource/ZHAO_BM2010CHEM_MATERV22P435> <http://risis.eu/wos/vocab/PG> "15" .
 <http://risis.eu/wos/resource/ZHAO_BM2010CHEM_MATERV22P435> <http://risis.eu/wos/vocab/GA> "543LZ" .
 <http://risis.eu/wos/resource/ZHAO_BM2010CHEM_MATERV22P435> <http://risis.eu/wos/vocab/UT> "ISI:000273580700022" .
 
 <http://risis.eu/wos/resource/JUNG_HM2010CHEM_MATERV22P450> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://risis.eu/wos/vocab/Article> .
+<http://risis.eu/wos/resource/JUNG_HM2010CHEM_MATERV22P450> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm9030254> .
+<http://risis.eu/wos/resource/ARBATTI_M2007ADV_MATERV19P1369> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200601996> .
+<http://risis.eu/wos/resource/CHO_SD2004MAT_SCI_ENG_B-SOLIDV110P233> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.mseb.2004.01.022> .
+<http://risis.eu/wos/resource/DANG_ZM2005MACROMOL_RAPID_COMMV26P1185> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/marc.200500137> .
+<http://risis.eu/wos/resource/GUO_N2007J_AM_CHEM_SOCV129P766> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja0669651> .
+<http://risis.eu/wos/resource/HUANG_C2004ADV_FUNCT_MATERV14P501> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adfm.200305021> .
+<http://risis.eu/wos/resource/KIM_P2007ADV_MATERV19P1001> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200602422> .
+<http://risis.eu/wos/resource/LI_JJ2008CHEM_MATERV20P6304> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm8021648> .
+<http://risis.eu/wos/resource/LI_JJ2009ADV_MATERV21P217> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200801106> .
+<http://risis.eu/wos/resource/MALIAKAL_A2005J_AM_CHEM_SOCV127P14655> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja052035a> .
+<http://risis.eu/wos/resource/RAO_Y2004J_APPL_POLYM_SCIV92P2228> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/app.13690> .
+<http://risis.eu/wos/resource/RUSA_M2004MACROMOLECULESV37P2766> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ma035008i> .
+<http://risis.eu/wos/resource/SCHROEDER_R2005ADV_MATERV17P1535> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200401398> .
+<http://risis.eu/wos/resource/WANG_SF2009CERAM_INTV35P265> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.ceramint.2007.10.004> .
 <http://risis.eu/wos/resource/JUNG_HM2010CHEM_MATERV22P450> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/ARBATTI_M2007ADV_MATERV19P1369> .
 <http://risis.eu/wos/resource/JUNG_HM2010CHEM_MATERV22P450> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/BAI_Y2000APPL_PHYS_LETTV76P3804> .
 <http://risis.eu/wos/resource/JUNG_HM2010CHEM_MATERV22P450> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/CHO_SD2004MAT_SCI_ENG_B-SOLIDV110P233> .
@@ -1004,19 +1021,6 @@
 <http://risis.eu/wos/resource/Yang_Sung_Yun> <http://www.w3.org/2000/01/rdf-schema#label> "Yang, Sung Yun" .
 <http://risis.eu/wos/resource/Won_Jong_Chan> <http://www.w3.org/2000/01/rdf-schema#label> "Won, Jong Chan" .
 <http://risis.eu/wos/resource/Kim_Yong_Seok> <http://www.w3.org/2000/01/rdf-schema#label> "Kim, Yong Seok" .
-<http://risis.eu/wos/resource/ARBATTI_M2007ADV_MATERV19P1369> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200601996> .
-<http://risis.eu/wos/resource/CHO_SD2004MAT_SCI_ENG_B-SOLIDV110P233> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.mseb.2004.01.022> .
-<http://risis.eu/wos/resource/DANG_ZM2005MACROMOL_RAPID_COMMV26P1185> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/marc.200500137> .
-<http://risis.eu/wos/resource/GUO_N2007J_AM_CHEM_SOCV129P766> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja0669651> .
-<http://risis.eu/wos/resource/HUANG_C2004ADV_FUNCT_MATERV14P501> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adfm.200305021> .
-<http://risis.eu/wos/resource/KIM_P2007ADV_MATERV19P1001> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200602422> .
-<http://risis.eu/wos/resource/LI_JJ2008CHEM_MATERV20P6304> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm8021648> .
-<http://risis.eu/wos/resource/LI_JJ2009ADV_MATERV21P217> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200801106> .
-<http://risis.eu/wos/resource/MALIAKAL_A2005J_AM_CHEM_SOCV127P14655> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja052035a> .
-<http://risis.eu/wos/resource/RAO_Y2004J_APPL_POLYM_SCIV92P2228> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/app.13690> .
-<http://risis.eu/wos/resource/RUSA_M2004MACROMOLECULESV37P2766> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ma035008i> .
-<http://risis.eu/wos/resource/SCHROEDER_R2005ADV_MATERV17P1535> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200401398> .
-<http://risis.eu/wos/resource/WANG_SF2009CERAM_INTV35P265> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.ceramint.2007.10.004> .
 <http://risis.eu/wos/resource/JUNG_HM2010CHEM_MATERV22P450> <http://risis.eu/wos/vocab/AF> <http://risis.eu/wos/resource/Jung_Hyun_Min> .
 <http://risis.eu/wos/resource/JUNG_HM2010CHEM_MATERV22P450> <http://risis.eu/wos/vocab/AF> <http://risis.eu/wos/resource/Kang_Ji-Hye> .
 <http://risis.eu/wos/resource/JUNG_HM2010CHEM_MATERV22P450> <http://risis.eu/wos/vocab/AF> <http://risis.eu/wos/resource/Yang_Sung_Yun> .
@@ -1027,7 +1031,8 @@
 <http://risis.eu/wos/resource/Yang_Sung_Yun> <http://www.w3.org/2004/02/skos/core#altLabel> "Yang, SY" .
 <http://risis.eu/wos/resource/Won_Jong_Chan> <http://www.w3.org/2004/02/skos/core#altLabel> "Won, JC" .
 <http://risis.eu/wos/resource/Kim_Yong_Seok> <http://www.w3.org/2004/02/skos/core#altLabel> "Kim, YS" .
-<http://risis.eu/wos/resource/JUNG_HM2010CHEM_MATERV22P450> <http://risis.eu/wos/vocab/SC> "Chemistry, Physical; Materials Science, Multidisciplinary" .
+<http://risis.eu/wos/resource/JUNG_HM2010CHEM_MATERV22P450> <http://risis.eu/wos/vocab/SC> "Chemistry, Physical" .
+<http://risis.eu/wos/resource/JUNG_HM2010CHEM_MATERV22P450> <http://risis.eu/wos/vocab/SC> "Materials Science, Multidisciplinary" .
 <http://risis.eu/wos/resource/JUNG_HM2010CHEM_MATERV22P450> <http://risis.eu/wos/vocab/ID> "HIGH-DIELECTRIC-CONSTANT" .
 <http://risis.eu/wos/resource/JUNG_HM2010CHEM_MATERV22P450> <http://risis.eu/wos/vocab/ID> "POLYMER NANOCOMPOSITES" .
 <http://risis.eu/wos/resource/JUNG_HM2010CHEM_MATERV22P450> <http://risis.eu/wos/vocab/ID> "EMBEDDED CAPACITOR" .
@@ -1059,12 +1064,46 @@
 <http://risis.eu/wos/resource/JUNG_HM2010CHEM_MATERV22P450> <http://risis.eu/wos/vocab/IS> "2" .
 <http://risis.eu/wos/resource/JUNG_HM2010CHEM_MATERV22P450> <http://risis.eu/wos/vocab/BP> "450" .
 <http://risis.eu/wos/resource/JUNG_HM2010CHEM_MATERV22P450> <http://risis.eu/wos/vocab/EP> "456" .
-<http://risis.eu/wos/resource/JUNG_HM2010CHEM_MATERV22P450> <http://risis.eu/wos/vocab/DI> "10.1021/cm9030254" .
 <http://risis.eu/wos/resource/JUNG_HM2010CHEM_MATERV22P450> <http://risis.eu/wos/vocab/PG> "7" .
 <http://risis.eu/wos/resource/JUNG_HM2010CHEM_MATERV22P450> <http://risis.eu/wos/vocab/GA> "543LZ" .
 <http://risis.eu/wos/resource/JUNG_HM2010CHEM_MATERV22P450> <http://risis.eu/wos/vocab/UT> "ISI:000273580700023" .
 
 <http://risis.eu/wos/resource/WONG_WWH2010CHEM_MATERV22P457> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://risis.eu/wos/vocab/Article> .
+<http://risis.eu/wos/resource/WONG_WWH2010CHEM_MATERV22P457> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm903272y> .
+<http://risis.eu/wos/resource/ALLARD_S2008ANGEW_CHEM_INT_EDITV47P4070> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/anie.200701920> .
+<http://risis.eu/wos/resource/BARBERA_J2003J_AM_CHEM_SOCV125P4527> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja0294313> .
+<http://risis.eu/wos/resource/DENNLER_G2009ADV_MATERV21P1323> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200801283> .
+<http://risis.eu/wos/resource/FENG_XL2007ANGEW_CHEM_INT_EDITV46P3033> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/anie.200605224> .
+<http://risis.eu/wos/resource/FENG_XL2009NAT_MATERV8P421> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1038/NMAT2427> .
+<http://risis.eu/wos/resource/GRIMSDALE_AC2009CHEM_REVV109P897> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cr000013v> .
+<http://risis.eu/wos/resource/HOLST_HC2004TETRAHEDRONV60P6765> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.tet.2004.06.031> .
+<http://risis.eu/wos/resource/KASTLER_M2005J_AM_CHEM_SOCV127P4286> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja0430696> .
+<http://risis.eu/wos/resource/LASCHAT_S2007ANGEW_CHEM_INT_EDITV46P4832> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/anie.200604203> .
+<http://risis.eu/wos/resource/LEHMANN_M2008CHEM-EUR_JV14P3562> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/chem.200700922> .
+<http://risis.eu/wos/resource/LI_YF2008ADV_MATERV20P2952> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200800606> .
+<http://risis.eu/wos/resource/MA_CQ2007ANGEW_CHEM_INT_EDITV46P1679> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/anie.200602653> .
+<http://risis.eu/wos/resource/MA_CQ2008ADV_FUNCT_MATERV18P3323> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adfm.200800584> .
+<http://risis.eu/wos/resource/MA_WL2005ADV_FUNCT_MATERV15P1617> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adfm.200500211> .
+<http://risis.eu/wos/resource/MISHRA_A2009CHEM_REVV109P1141> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cr8004229> .
+<http://risis.eu/wos/resource/ONG_BS2008CHEM-EUR_JV14P4766> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/chem.200701717> .
+<http://risis.eu/wos/resource/OSTERBACKA_R2004CURR_APPL_PHYSV4P534> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.cap.2004.01.013> .
+<http://risis.eu/wos/resource/PERCEC_V2009J_AM_CHEM_SOCV131P1294> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja8087778> .
+<http://risis.eu/wos/resource/PERCEC_V2009J_AM_CHEM_SOCV131P7662> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja8094944> .
+<http://risis.eu/wos/resource/PEREPICHKA_IF2005ADV_MATERV17P2281> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200500461> .
+<http://risis.eu/wos/resource/PETERCA_M2008J_AM_CHEM_SOCV130P14840> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja806524m> .
+<http://risis.eu/wos/resource/PISULA_W2005ADV_MATERV17P684> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adam.200401171> .
+<http://risis.eu/wos/resource/PISULA_W2006ANGEW_CHEM_INT_EDITV45P819> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/anie.200500669> .
+<http://risis.eu/wos/resource/PISULA_W2007J_PHYS_CHEM_BV111P7481> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jp071167i> .
+<http://risis.eu/wos/resource/SCHARBER_MC2006ADV_MATERV18P789> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200501717> .
+<http://risis.eu/wos/resource/SCHMIDTMENDE_L2003MOL_CRYST_LIQ_CRYS_1V396P73> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1080/15421400390213203> .
+<http://risis.eu/wos/resource/SERGEYEV_S2007CHEM_SOC_REVV36P1902> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b417320c> .
+<http://risis.eu/wos/resource/VERA_F2009CHEM_SOC_REVV38P781> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b800408k> .
+<http://risis.eu/wos/resource/WIENK_MM2003ANGEW_CHEM_INT_EDITV42P3371> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/anie.2003516547> .
+<http://risis.eu/wos/resource/WONG_WWH2009ORG_LETTV11P975> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ol8029164> .
+<http://risis.eu/wos/resource/WU_JS2004J_AM_CHEM_SOCV126P11311> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja047577r> .
+<http://risis.eu/wos/resource/WU_JS2005J_MATER_CHEMV15P41> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b413115k> .
+<http://risis.eu/wos/resource/WU_JS2007CHEM_REVV107P718> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cr068010r> .
+<http://risis.eu/wos/resource/YAMAMOTO_Y2006SCIENCEV314P1761> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1126/science.1134441> .
 <http://risis.eu/wos/resource/WONG_WWH2010CHEM_MATERV22P457> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/ALLARD_S2008ANGEW_CHEM_INT_EDITV47P4070> .
 <http://risis.eu/wos/resource/WONG_WWH2010CHEM_MATERV22P457> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/BARBERA_J2003J_AM_CHEM_SOCV125P4527> .
 <http://risis.eu/wos/resource/WONG_WWH2010CHEM_MATERV22P457> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/BAUERLE_P1998ELECT_MAT_OLIGOMER_AP105> .
@@ -1181,40 +1220,6 @@
 <http://risis.eu/wos/resource/Janssen_Rene_A_J> <http://www.w3.org/2000/01/rdf-schema#label> "Janssen, Rene A. J." .
 <http://risis.eu/wos/resource/Baeuerle_Peter> <http://www.w3.org/2000/01/rdf-schema#label> "Baeuerle, Peter" .
 <http://risis.eu/wos/resource/Holmes_Andrew_B> <http://www.w3.org/2000/01/rdf-schema#label> "Holmes, Andrew B." .
-<http://risis.eu/wos/resource/ALLARD_S2008ANGEW_CHEM_INT_EDITV47P4070> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/anie.200701920> .
-<http://risis.eu/wos/resource/BARBERA_J2003J_AM_CHEM_SOCV125P4527> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja0294313> .
-<http://risis.eu/wos/resource/DENNLER_G2009ADV_MATERV21P1323> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200801283> .
-<http://risis.eu/wos/resource/FENG_XL2007ANGEW_CHEM_INT_EDITV46P3033> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/anie.200605224> .
-<http://risis.eu/wos/resource/FENG_XL2009NAT_MATERV8P421> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1038/NMAT2427> .
-<http://risis.eu/wos/resource/GRIMSDALE_AC2009CHEM_REVV109P897> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cr000013v> .
-<http://risis.eu/wos/resource/HOLST_HC2004TETRAHEDRONV60P6765> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.tet.2004.06.031> .
-<http://risis.eu/wos/resource/KASTLER_M2005J_AM_CHEM_SOCV127P4286> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja0430696> .
-<http://risis.eu/wos/resource/LASCHAT_S2007ANGEW_CHEM_INT_EDITV46P4832> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/anie.200604203> .
-<http://risis.eu/wos/resource/LEHMANN_M2008CHEM-EUR_JV14P3562> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/chem.200700922> .
-<http://risis.eu/wos/resource/LI_YF2008ADV_MATERV20P2952> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200800606> .
-<http://risis.eu/wos/resource/MA_CQ2007ANGEW_CHEM_INT_EDITV46P1679> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/anie.200602653> .
-<http://risis.eu/wos/resource/MA_CQ2008ADV_FUNCT_MATERV18P3323> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adfm.200800584> .
-<http://risis.eu/wos/resource/MA_WL2005ADV_FUNCT_MATERV15P1617> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adfm.200500211> .
-<http://risis.eu/wos/resource/MISHRA_A2009CHEM_REVV109P1141> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cr8004229> .
-<http://risis.eu/wos/resource/ONG_BS2008CHEM-EUR_JV14P4766> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/chem.200701717> .
-<http://risis.eu/wos/resource/OSTERBACKA_R2004CURR_APPL_PHYSV4P534> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.cap.2004.01.013> .
-<http://risis.eu/wos/resource/PERCEC_V2009J_AM_CHEM_SOCV131P1294> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja8087778> .
-<http://risis.eu/wos/resource/PERCEC_V2009J_AM_CHEM_SOCV131P7662> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja8094944> .
-<http://risis.eu/wos/resource/PEREPICHKA_IF2005ADV_MATERV17P2281> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200500461> .
-<http://risis.eu/wos/resource/PETERCA_M2008J_AM_CHEM_SOCV130P14840> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja806524m> .
-<http://risis.eu/wos/resource/PISULA_W2005ADV_MATERV17P684> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adam.200401171> .
-<http://risis.eu/wos/resource/PISULA_W2006ANGEW_CHEM_INT_EDITV45P819> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/anie.200500669> .
-<http://risis.eu/wos/resource/PISULA_W2007J_PHYS_CHEM_BV111P7481> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jp071167i> .
-<http://risis.eu/wos/resource/SCHARBER_MC2006ADV_MATERV18P789> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200501717> .
-<http://risis.eu/wos/resource/SCHMIDTMENDE_L2003MOL_CRYST_LIQ_CRYS_1V396P73> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1080/15421400390213203> .
-<http://risis.eu/wos/resource/SERGEYEV_S2007CHEM_SOC_REVV36P1902> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b417320c> .
-<http://risis.eu/wos/resource/VERA_F2009CHEM_SOC_REVV38P781> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b800408k> .
-<http://risis.eu/wos/resource/WIENK_MM2003ANGEW_CHEM_INT_EDITV42P3371> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/anie.2003516547> .
-<http://risis.eu/wos/resource/WONG_WWH2009ORG_LETTV11P975> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ol8029164> .
-<http://risis.eu/wos/resource/WU_JS2004J_AM_CHEM_SOCV126P11311> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja047577r> .
-<http://risis.eu/wos/resource/WU_JS2005J_MATER_CHEMV15P41> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b413115k> .
-<http://risis.eu/wos/resource/WU_JS2007CHEM_REVV107P718> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cr068010r> .
-<http://risis.eu/wos/resource/YAMAMOTO_Y2006SCIENCEV314P1761> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1126/science.1134441> .
 <http://risis.eu/wos/resource/WONG_WWH2010CHEM_MATERV22P457> <http://risis.eu/wos/vocab/AF> <http://risis.eu/wos/resource/Wong_Wallace_W_H> .
 <http://risis.eu/wos/resource/WONG_WWH2010CHEM_MATERV22P457> <http://risis.eu/wos/vocab/AF> <http://risis.eu/wos/resource/Ma_Chang-Qi> .
 <http://risis.eu/wos/resource/WONG_WWH2010CHEM_MATERV22P457> <http://risis.eu/wos/vocab/AF> <http://risis.eu/wos/resource/Pisula_Wojciech> .
@@ -1235,7 +1240,8 @@
 <http://risis.eu/wos/resource/Janssen_Rene_A_J> <http://www.w3.org/2004/02/skos/core#altLabel> "Janssen, RAJ" .
 <http://risis.eu/wos/resource/Baeuerle_Peter> <http://www.w3.org/2004/02/skos/core#altLabel> "Bauerle, P" .
 <http://risis.eu/wos/resource/Holmes_Andrew_B> <http://www.w3.org/2004/02/skos/core#altLabel> "Holmes, AB" .
-<http://risis.eu/wos/resource/WONG_WWH2010CHEM_MATERV22P457> <http://risis.eu/wos/vocab/SC> "Chemistry, Physical; Materials Science, Multidisciplinary" .
+<http://risis.eu/wos/resource/WONG_WWH2010CHEM_MATERV22P457> <http://risis.eu/wos/vocab/SC> "Chemistry, Physical" .
+<http://risis.eu/wos/resource/WONG_WWH2010CHEM_MATERV22P457> <http://risis.eu/wos/vocab/SC> "Materials Science, Multidisciplinary" .
 <http://risis.eu/wos/resource/WONG_WWH2010CHEM_MATERV22P457> <http://risis.eu/wos/vocab/ID> "DISCOTIC LIQUID-CRYSTALS" .
 <http://risis.eu/wos/resource/WONG_WWH2010CHEM_MATERV22P457> <http://risis.eu/wos/vocab/ID> "ORGANIC SEMICONDUCTORS" .
 <http://risis.eu/wos/resource/WONG_WWH2010CHEM_MATERV22P457> <http://risis.eu/wos/vocab/ID> "ELECTRONICS" .
@@ -1270,12 +1276,42 @@
 <http://risis.eu/wos/resource/WONG_WWH2010CHEM_MATERV22P457> <http://risis.eu/wos/vocab/IS> "2" .
 <http://risis.eu/wos/resource/WONG_WWH2010CHEM_MATERV22P457> <http://risis.eu/wos/vocab/BP> "457" .
 <http://risis.eu/wos/resource/WONG_WWH2010CHEM_MATERV22P457> <http://risis.eu/wos/vocab/EP> "466" .
-<http://risis.eu/wos/resource/WONG_WWH2010CHEM_MATERV22P457> <http://risis.eu/wos/vocab/DI> "10.1021/cm903272y" .
 <http://risis.eu/wos/resource/WONG_WWH2010CHEM_MATERV22P457> <http://risis.eu/wos/vocab/PG> "10" .
 <http://risis.eu/wos/resource/WONG_WWH2010CHEM_MATERV22P457> <http://risis.eu/wos/vocab/GA> "543LZ" .
 <http://risis.eu/wos/resource/WONG_WWH2010CHEM_MATERV22P457> <http://risis.eu/wos/vocab/UT> "ISI:000273580700024" .
 
 <http://risis.eu/wos/resource/REDDY_BM2010CHEM_MATERV22P467> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://risis.eu/wos/vocab/Article> .
+<http://risis.eu/wos/resource/REDDY_BM2010CHEM_MATERV22P467> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm903282w> .
+<http://risis.eu/wos/resource/ALIFANTI_M2003CHEM_MATERV15P395> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm021274j> .
+<http://risis.eu/wos/resource/BELLIERE_V2006J_PHYS_CHEM_BV110P9984> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jp060882+> .
+<http://risis.eu/wos/resource/BORCA_CN2007APPL_SURF_SCIV254P1352> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.apsusc.2007.09.049> .
+<http://risis.eu/wos/resource/BORCHERT_H2005J_PHYS_CHEM_BV109P5728> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jp045828c> .
+<http://risis.eu/wos/resource/BUENOLOPEZ_A2006J_CATALV244P102> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.jcat.2006.08.021> .
+<http://risis.eu/wos/resource/DUTTA_G2006CHEM_MATERV18P3249> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm060267i> .
+<http://risis.eu/wos/resource/GU_H2007CHEM_MATERV19P1103> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm061332r> .
+<http://risis.eu/wos/resource/JI_PF2008J_PHYS_CHEM_CV112P17809> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jp8054087> .
+<http://risis.eu/wos/resource/LI_HN2009INORG_CHEMV48P4421> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ic900132k> .
+<http://risis.eu/wos/resource/LIU_G2004J_PHYS_CHEM_BV108P2931> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jp030808g> .
+<http://risis.eu/wos/resource/LIU_XW2009J_AM_CHEM_SOCV131P3140> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja808433d> .
+<http://risis.eu/wos/resource/LOPEZHARO_M2009CHEM_MATERV21P1035> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm8029054> .
+<http://risis.eu/wos/resource/LUO_MF2006J_PHYS_CHEM_BV110P13068> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jp057274z> .
+<http://risis.eu/wos/resource/NATILE_MM2005CHEM_MATERV17P3403> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm048748u> .
+<http://risis.eu/wos/resource/PEREZALONSO_FJ2005CHEM_MATERV17P2329> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm0477669> .
+<http://risis.eu/wos/resource/RAMASWAMY_V2005NANO_LETTV5P373> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/nl048077z> .
+<http://risis.eu/wos/resource/REDDY_BM2008J_PHYS_CHEM_CV112P11729> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jp802674m> .
+<http://risis.eu/wos/resource/REDDY_BM2009J_PHYS_CHEM_CV113P15882> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jp903644y> .
+<http://risis.eu/wos/resource/SHAN_WJ2003CHEM_MATERV15P4761> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm0345974> .
+<http://risis.eu/wos/resource/SHAPOVALOV_V2007J_CATALV245P205> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.jcat.2006.10.009> .
+<http://risis.eu/wos/resource/SINHA_AK2005J_PHYS_CHEM_BV109P1708> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jp046391b> .
+<http://risis.eu/wos/resource/TANIGUCHI_T2008CRYST_GROWTH_DESV8P3725> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cg800363w> .
+<http://risis.eu/wos/resource/WANG_RG2006J_PHYS_CHEM_BV110P18278> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jp063113z> .
+<http://risis.eu/wos/resource/WANG_XQ2004J_CHEM_PHYSV121P5434> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1063/1.1781116> .
+<http://risis.eu/wos/resource/WILKES_MF2003J_CATALV219P286> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/S0021-9517(03)00044-7> .
+<http://risis.eu/wos/resource/WILKES_MF2003J_CATALV219P295> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/S0021-9517(03)00045-9> .
+<http://risis.eu/wos/resource/WILKES_MF2003J_CATALV219P305> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/S0021-9517(03)00046-0> .
+<http://risis.eu/wos/resource/XIAO_WD2005J_PHYS_CHEM_BV109P4953> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jp0447441> .
+<http://risis.eu/wos/resource/YUAN_Q2007J_AM_CHEM_SOCV129P6698> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja070908q> .
+<http://risis.eu/wos/resource/ZOU_H2004IND_ENG_CHEM_RESV43P3019> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ie030676d> .
 <http://risis.eu/wos/resource/REDDY_BM2010CHEM_MATERV22P467> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/ALBERO_JS2002J_CATALV210P127> .
 <http://risis.eu/wos/resource/REDDY_BM2010CHEM_MATERV22P467> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/ALIFANTI_M2003CHEM_MATERV15P395> .
 <http://risis.eu/wos/resource/REDDY_BM2010CHEM_MATERV22P467> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/BALDUCCI_G1997J_PHYS_CHEM_BV101P1750> .
@@ -1389,43 +1425,14 @@
 <http://risis.eu/wos/resource/Reddy_Benjaram_M> <http://www.w3.org/2000/01/rdf-schema#label> "Reddy, Benjaram M." .
 <http://risis.eu/wos/resource/Katta_Lakshmi> <http://www.w3.org/2000/01/rdf-schema#label> "Katta, Lakshmi" .
 <http://risis.eu/wos/resource/Thrimurthulu_Gode> <http://www.w3.org/2000/01/rdf-schema#label> "Thrimurthulu, Gode" .
-<http://risis.eu/wos/resource/ALIFANTI_M2003CHEM_MATERV15P395> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm021274j> .
-<http://risis.eu/wos/resource/BELLIERE_V2006J_PHYS_CHEM_BV110P9984> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jp060882+> .
-<http://risis.eu/wos/resource/BORCA_CN2007APPL_SURF_SCIV254P1352> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.apsusc.2007.09.049> .
-<http://risis.eu/wos/resource/BORCHERT_H2005J_PHYS_CHEM_BV109P5728> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jp045828c> .
-<http://risis.eu/wos/resource/BUENOLOPEZ_A2006J_CATALV244P102> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.jcat.2006.08.021> .
-<http://risis.eu/wos/resource/DUTTA_G2006CHEM_MATERV18P3249> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm060267i> .
-<http://risis.eu/wos/resource/GU_H2007CHEM_MATERV19P1103> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm061332r> .
-<http://risis.eu/wos/resource/JI_PF2008J_PHYS_CHEM_CV112P17809> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jp8054087> .
-<http://risis.eu/wos/resource/LI_HN2009INORG_CHEMV48P4421> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ic900132k> .
-<http://risis.eu/wos/resource/LIU_G2004J_PHYS_CHEM_BV108P2931> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jp030808g> .
-<http://risis.eu/wos/resource/LIU_XW2009J_AM_CHEM_SOCV131P3140> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja808433d> .
-<http://risis.eu/wos/resource/LOPEZHARO_M2009CHEM_MATERV21P1035> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm8029054> .
-<http://risis.eu/wos/resource/LUO_MF2006J_PHYS_CHEM_BV110P13068> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jp057274z> .
-<http://risis.eu/wos/resource/NATILE_MM2005CHEM_MATERV17P3403> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm048748u> .
-<http://risis.eu/wos/resource/PEREZALONSO_FJ2005CHEM_MATERV17P2329> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm0477669> .
-<http://risis.eu/wos/resource/RAMASWAMY_V2005NANO_LETTV5P373> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/nl048077z> .
-<http://risis.eu/wos/resource/REDDY_BM2008J_PHYS_CHEM_CV112P11729> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jp802674m> .
-<http://risis.eu/wos/resource/REDDY_BM2009J_PHYS_CHEM_CV113P15882> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jp903644y> .
-<http://risis.eu/wos/resource/SHAN_WJ2003CHEM_MATERV15P4761> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm0345974> .
-<http://risis.eu/wos/resource/SHAPOVALOV_V2007J_CATALV245P205> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.jcat.2006.10.009> .
-<http://risis.eu/wos/resource/SINHA_AK2005J_PHYS_CHEM_BV109P1708> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jp046391b> .
-<http://risis.eu/wos/resource/TANIGUCHI_T2008CRYST_GROWTH_DESV8P3725> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cg800363w> .
-<http://risis.eu/wos/resource/WANG_RG2006J_PHYS_CHEM_BV110P18278> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jp063113z> .
-<http://risis.eu/wos/resource/WANG_XQ2004J_CHEM_PHYSV121P5434> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1063/1.1781116> .
-<http://risis.eu/wos/resource/WILKES_MF2003J_CATALV219P286> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/S0021-9517(03)00044-7> .
-<http://risis.eu/wos/resource/WILKES_MF2003J_CATALV219P295> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/S0021-9517(03)00045-9> .
-<http://risis.eu/wos/resource/WILKES_MF2003J_CATALV219P305> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/S0021-9517(03)00046-0> .
-<http://risis.eu/wos/resource/XIAO_WD2005J_PHYS_CHEM_BV109P4953> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jp0447441> .
-<http://risis.eu/wos/resource/YUAN_Q2007J_AM_CHEM_SOCV129P6698> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja070908q> .
-<http://risis.eu/wos/resource/ZOU_H2004IND_ENG_CHEM_RESV43P3019> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ie030676d> .
 <http://risis.eu/wos/resource/REDDY_BM2010CHEM_MATERV22P467> <http://risis.eu/wos/vocab/AF> <http://risis.eu/wos/resource/Reddy_Benjaram_M> .
 <http://risis.eu/wos/resource/REDDY_BM2010CHEM_MATERV22P467> <http://risis.eu/wos/vocab/AF> <http://risis.eu/wos/resource/Katta_Lakshmi> .
 <http://risis.eu/wos/resource/REDDY_BM2010CHEM_MATERV22P467> <http://risis.eu/wos/vocab/AF> <http://risis.eu/wos/resource/Thrimurthulu_Gode> .
 <http://risis.eu/wos/resource/Reddy_Benjaram_M> <http://www.w3.org/2004/02/skos/core#altLabel> "Reddy, BM" .
 <http://risis.eu/wos/resource/Katta_Lakshmi> <http://www.w3.org/2004/02/skos/core#altLabel> "Katta, L" .
 <http://risis.eu/wos/resource/Thrimurthulu_Gode> <http://www.w3.org/2004/02/skos/core#altLabel> "Thrimurthulu, G" .
-<http://risis.eu/wos/resource/REDDY_BM2010CHEM_MATERV22P467> <http://risis.eu/wos/vocab/SC> "Chemistry, Physical; Materials Science, Multidisciplinary" .
+<http://risis.eu/wos/resource/REDDY_BM2010CHEM_MATERV22P467> <http://risis.eu/wos/vocab/SC> "Chemistry, Physical" .
+<http://risis.eu/wos/resource/REDDY_BM2010CHEM_MATERV22P467> <http://risis.eu/wos/vocab/SC> "Materials Science, Multidisciplinary" .
 <http://risis.eu/wos/resource/REDDY_BM2010CHEM_MATERV22P467> <http://risis.eu/wos/vocab/ID> "MIXED OXIDES" .
 <http://risis.eu/wos/resource/REDDY_BM2010CHEM_MATERV22P467> <http://risis.eu/wos/vocab/ID> "CERIA-ZIRCONIA" .
 <http://risis.eu/wos/resource/REDDY_BM2010CHEM_MATERV22P467> <http://risis.eu/wos/vocab/ID> "CHEMICAL-PROPERTIES" .
@@ -1460,12 +1467,45 @@
 <http://risis.eu/wos/resource/REDDY_BM2010CHEM_MATERV22P467> <http://risis.eu/wos/vocab/IS> "2" .
 <http://risis.eu/wos/resource/REDDY_BM2010CHEM_MATERV22P467> <http://risis.eu/wos/vocab/BP> "467" .
 <http://risis.eu/wos/resource/REDDY_BM2010CHEM_MATERV22P467> <http://risis.eu/wos/vocab/EP> "475" .
-<http://risis.eu/wos/resource/REDDY_BM2010CHEM_MATERV22P467> <http://risis.eu/wos/vocab/DI> "10.1021/cm903282w" .
 <http://risis.eu/wos/resource/REDDY_BM2010CHEM_MATERV22P467> <http://risis.eu/wos/vocab/PG> "9" .
 <http://risis.eu/wos/resource/REDDY_BM2010CHEM_MATERV22P467> <http://risis.eu/wos/vocab/GA> "543LZ" .
 <http://risis.eu/wos/resource/REDDY_BM2010CHEM_MATERV22P467> <http://risis.eu/wos/vocab/UT> "ISI:000273580700025" .
 
 <http://risis.eu/wos/resource/LI_C2010CHEM_MATERV22P476> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://risis.eu/wos/vocab/Article> .
+<http://risis.eu/wos/resource/LI_C2010CHEM_MATERV22P476> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm9031946> .
+<http://risis.eu/wos/resource/ABDELSALAM_ME2004ADV_MATERV16P90> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200306052> .
+<http://risis.eu/wos/resource/BARTLETT_PN2004FARADAY_DISCUSSV125P117> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b304116f> .
+<http://risis.eu/wos/resource/CHO_YH2004ADV_MATERV16P1814> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200400249> .
+<http://risis.eu/wos/resource/CONG_HL2005ADV_FUNCT_MATERV15P1821> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adfm.200400603> .
+<http://risis.eu/wos/resource/DUAN_G2007ADV_FUNCT_MATERV17P644> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adfm.200600568> .
+<http://risis.eu/wos/resource/FU_M2008J_MATER_CHEMV18P5986> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b810904d> .
+<http://risis.eu/wos/resource/GATES_BD2005CHEM_REVV105P1171> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cr030076o> .
+<http://risis.eu/wos/resource/GORDON_R2008ACCOUNTS_CHEM_RESV41P1049> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ar800074d> .
+<http://risis.eu/wos/resource/GWINNER_MC2009SMALLV5P400> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/smll.200800923> .
+<http://risis.eu/wos/resource/HENZIE_J2006ACCOUNTS_CHEM_RESV39P249> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ar050013n> .
+<http://risis.eu/wos/resource/HENZIE_J2007NAT_NANOTECHNOLV2P549> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1038/nnano.2007.252> .
+<http://risis.eu/wos/resource/JANG_SG2008ADV_MATERV20P4862> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200702851> .
+<http://risis.eu/wos/resource/JIANG_P2004ANGEW_CHEM_INT_EDITV43P5625> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/anie.200460539> .
+<http://risis.eu/wos/resource/JIANG_P2005J_AM_CHEM_SOCV127P3710> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja042789+> .
+<http://risis.eu/wos/resource/KOSIOREK_A2004NANO_LETTV4P1359> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/nl049361t> .
+<http://risis.eu/wos/resource/LANDSTROM_L2005APPL_PHYS_A-MATERV81P911> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1007/s00339-005-3309-y> .
+<http://risis.eu/wos/resource/LI_C2009CHEM_MATERV21P891> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm802839u> .
+<http://risis.eu/wos/resource/LI_Y2007J_PHYS_CHEM_CV111P14813> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jp0736721> .
+<http://risis.eu/wos/resource/LI_Y2008CHEM_MATERV20P615> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm701977g> .
+<http://risis.eu/wos/resource/LIAO_YC2005J_AM_CHEM_SOCV127P9986> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja0512879> .
+<http://risis.eu/wos/resource/LIU_XF2009J_PHYS_CHEM_CV113P14804> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jp905065z> .
+<http://risis.eu/wos/resource/PRENEN_AM2009ADV_MATERV21P1751> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200803177> .
+<http://risis.eu/wos/resource/SUN_FQ2004ADV_FUNCT_MATERV14P283> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adfm.200305055> .
+<http://risis.eu/wos/resource/SUN_FQ2005ADV_MATERV17P2872> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200500936> .
+<http://risis.eu/wos/resource/SUN_FQ2007ANGEW_CHEM_INT_EDITV46P773> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/anie.200603697> .
+<http://risis.eu/wos/resource/XU_H2003ANGEW_CHEM_INT_EDITV42P4694> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/anie.200351427> .
+<http://risis.eu/wos/resource/XU_H2005SMALLV1P808> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/smll.200500047> .
+<http://risis.eu/wos/resource/YAN_F2004CHEM_MATERV16P1622> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm035044w> .
+<http://risis.eu/wos/resource/YANG_SM2006SMALLV2P458> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/smll.200500390> .
+<http://risis.eu/wos/resource/ZHANG_G2005ANGEW_CHEM_INT_EDITV44P7767> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/anie.200502117> .
+<http://risis.eu/wos/resource/ZHANG_G2008J_AM_CHEM_SOCV130P5616> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja710771j> .
+<http://risis.eu/wos/resource/ZHANG_G2009CHEM-ASIAN_JV4P236> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/asia.200800298> .
+<http://risis.eu/wos/resource/ZHANG_Y2009ACS_NANOV3P2412> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/nn900650n> .
 <http://risis.eu/wos/resource/LI_C2010CHEM_MATERV22P476> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/ABDELSALAM_ME2004ADV_MATERV16P90> .
 <http://risis.eu/wos/resource/LI_C2010CHEM_MATERV22P476> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/ACIKGOZ_C2009J_ADV_MATV21P2064> .
 <http://risis.eu/wos/resource/LI_C2010CHEM_MATERV22P476> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/BARTLETT_PN2004FARADAY_DISCUSSV125P117> .
@@ -1559,46 +1599,14 @@
 <http://risis.eu/wos/resource/Li_Cheng> <http://www.w3.org/2000/01/rdf-schema#label> "Li, Cheng" .
 <http://risis.eu/wos/resource/Hong_Guosong> <http://www.w3.org/2000/01/rdf-schema#label> "Hong, Guosong" .
 <http://risis.eu/wos/resource/Qi_Limin> <http://www.w3.org/2000/01/rdf-schema#label> "Qi, Limin" .
-<http://risis.eu/wos/resource/ABDELSALAM_ME2004ADV_MATERV16P90> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200306052> .
-<http://risis.eu/wos/resource/BARTLETT_PN2004FARADAY_DISCUSSV125P117> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b304116f> .
-<http://risis.eu/wos/resource/CHO_YH2004ADV_MATERV16P1814> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200400249> .
-<http://risis.eu/wos/resource/CONG_HL2005ADV_FUNCT_MATERV15P1821> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adfm.200400603> .
-<http://risis.eu/wos/resource/DUAN_G2007ADV_FUNCT_MATERV17P644> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adfm.200600568> .
-<http://risis.eu/wos/resource/FU_M2008J_MATER_CHEMV18P5986> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b810904d> .
-<http://risis.eu/wos/resource/GATES_BD2005CHEM_REVV105P1171> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cr030076o> .
-<http://risis.eu/wos/resource/GORDON_R2008ACCOUNTS_CHEM_RESV41P1049> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ar800074d> .
-<http://risis.eu/wos/resource/GWINNER_MC2009SMALLV5P400> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/smll.200800923> .
-<http://risis.eu/wos/resource/HENZIE_J2006ACCOUNTS_CHEM_RESV39P249> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ar050013n> .
-<http://risis.eu/wos/resource/HENZIE_J2007NAT_NANOTECHNOLV2P549> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1038/nnano.2007.252> .
-<http://risis.eu/wos/resource/JANG_SG2008ADV_MATERV20P4862> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200702851> .
-<http://risis.eu/wos/resource/JIANG_P2004ANGEW_CHEM_INT_EDITV43P5625> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/anie.200460539> .
-<http://risis.eu/wos/resource/JIANG_P2005J_AM_CHEM_SOCV127P3710> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja042789+> .
-<http://risis.eu/wos/resource/KOSIOREK_A2004NANO_LETTV4P1359> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/nl049361t> .
-<http://risis.eu/wos/resource/LANDSTROM_L2005APPL_PHYS_A-MATERV81P911> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1007/s00339-005-3309-y> .
-<http://risis.eu/wos/resource/LI_C2009CHEM_MATERV21P891> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm802839u> .
-<http://risis.eu/wos/resource/LI_Y2007J_PHYS_CHEM_CV111P14813> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jp0736721> .
-<http://risis.eu/wos/resource/LI_Y2008CHEM_MATERV20P615> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm701977g> .
-<http://risis.eu/wos/resource/LIAO_YC2005J_AM_CHEM_SOCV127P9986> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja0512879> .
-<http://risis.eu/wos/resource/LIU_XF2009J_PHYS_CHEM_CV113P14804> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jp905065z> .
-<http://risis.eu/wos/resource/PRENEN_AM2009ADV_MATERV21P1751> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200803177> .
-<http://risis.eu/wos/resource/SUN_FQ2004ADV_FUNCT_MATERV14P283> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adfm.200305055> .
-<http://risis.eu/wos/resource/SUN_FQ2005ADV_MATERV17P2872> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200500936> .
-<http://risis.eu/wos/resource/SUN_FQ2007ANGEW_CHEM_INT_EDITV46P773> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/anie.200603697> .
-<http://risis.eu/wos/resource/XU_H2003ANGEW_CHEM_INT_EDITV42P4694> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/anie.200351427> .
-<http://risis.eu/wos/resource/XU_H2005SMALLV1P808> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/smll.200500047> .
-<http://risis.eu/wos/resource/YAN_F2004CHEM_MATERV16P1622> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm035044w> .
-<http://risis.eu/wos/resource/YANG_SM2006SMALLV2P458> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/smll.200500390> .
-<http://risis.eu/wos/resource/ZHANG_G2005ANGEW_CHEM_INT_EDITV44P7767> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/anie.200502117> .
-<http://risis.eu/wos/resource/ZHANG_G2008J_AM_CHEM_SOCV130P5616> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja710771j> .
-<http://risis.eu/wos/resource/ZHANG_G2009CHEM-ASIAN_JV4P236> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/asia.200800298> .
-<http://risis.eu/wos/resource/ZHANG_Y2009ACS_NANOV3P2412> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/nn900650n> .
 <http://risis.eu/wos/resource/LI_C2010CHEM_MATERV22P476> <http://risis.eu/wos/vocab/AF> <http://risis.eu/wos/resource/Li_Cheng> .
 <http://risis.eu/wos/resource/LI_C2010CHEM_MATERV22P476> <http://risis.eu/wos/vocab/AF> <http://risis.eu/wos/resource/Hong_Guosong> .
 <http://risis.eu/wos/resource/LI_C2010CHEM_MATERV22P476> <http://risis.eu/wos/vocab/AF> <http://risis.eu/wos/resource/Qi_Limin> .
 <http://risis.eu/wos/resource/Li_Cheng> <http://www.w3.org/2004/02/skos/core#altLabel> "Li, C" .
 <http://risis.eu/wos/resource/Hong_Guosong> <http://www.w3.org/2004/02/skos/core#altLabel> "Hong, GS" .
 <http://risis.eu/wos/resource/Qi_Limin> <http://www.w3.org/2004/02/skos/core#altLabel> "Qi, LM" .
-<http://risis.eu/wos/resource/LI_C2010CHEM_MATERV22P476> <http://risis.eu/wos/vocab/SC> "Chemistry, Physical; Materials Science, Multidisciplinary" .
+<http://risis.eu/wos/resource/LI_C2010CHEM_MATERV22P476> <http://risis.eu/wos/vocab/SC> "Chemistry, Physical" .
+<http://risis.eu/wos/resource/LI_C2010CHEM_MATERV22P476> <http://risis.eu/wos/vocab/SC> "Materials Science, Multidisciplinary" .
 <http://risis.eu/wos/resource/LI_C2010CHEM_MATERV22P476> <http://risis.eu/wos/vocab/ID> "EXTRAORDINARY OPTICAL-TRANSMISSION" .
 <http://risis.eu/wos/resource/LI_C2010CHEM_MATERV22P476> <http://risis.eu/wos/vocab/ID> "MONOLAYER COLLOIDAL CRYSTALS" .
 <http://risis.eu/wos/resource/LI_C2010CHEM_MATERV22P476> <http://risis.eu/wos/vocab/ID> "POROUS MEMBRANES" .
@@ -1633,12 +1641,36 @@
 <http://risis.eu/wos/resource/LI_C2010CHEM_MATERV22P476> <http://risis.eu/wos/vocab/IS> "2" .
 <http://risis.eu/wos/resource/LI_C2010CHEM_MATERV22P476> <http://risis.eu/wos/vocab/BP> "476" .
 <http://risis.eu/wos/resource/LI_C2010CHEM_MATERV22P476> <http://risis.eu/wos/vocab/EP> "481" .
-<http://risis.eu/wos/resource/LI_C2010CHEM_MATERV22P476> <http://risis.eu/wos/vocab/DI> "10.1021/cm9031946" .
 <http://risis.eu/wos/resource/LI_C2010CHEM_MATERV22P476> <http://risis.eu/wos/vocab/PG> "6" .
 <http://risis.eu/wos/resource/LI_C2010CHEM_MATERV22P476> <http://risis.eu/wos/vocab/GA> "543LZ" .
 <http://risis.eu/wos/resource/LI_C2010CHEM_MATERV22P476> <http://risis.eu/wos/vocab/UT> "ISI:000273580700026" .
 
 <http://risis.eu/wos/resource/PRABAKAR_S2010CHEM_MATERV22P482> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://risis.eu/wos/vocab/Article> .
+<http://risis.eu/wos/resource/PRABAKAR_S2010CHEM_MATERV22P482> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm9030599> .
+<http://risis.eu/wos/resource/ALSALIM_N2007CHEM_MATERV19P5185> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm070818k> .
+<http://risis.eu/wos/resource/CHAN_WH2008ACTA_PHARMACOL_SINV29P259> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1111/j.1745-7254.2008.00743.x> .
+<http://risis.eu/wos/resource/CHANG_E2006SMALLV2P1412> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/smll.200600218> .
+<http://risis.eu/wos/resource/CHIU_HW2006CHEM_MATERV18P1023> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm0521222> .
+<http://risis.eu/wos/resource/DERFUS_AM2004NANO_LETTV4P11> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/nl0347334> .
+<http://risis.eu/wos/resource/FOK_E2004CHEM_COMMUN_____0221P386> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b314887d> .
+<http://risis.eu/wos/resource/GERION_D2004NANO_LETTV4P597> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/nl035231t> .
+<http://risis.eu/wos/resource/GERUNG_H2005CHEM_COMMUNP1914> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b416066e> .
+<http://risis.eu/wos/resource/HENDERSON_EJ2008J_AM_CHEM_SOCV130P3624> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja710286a> .
+<http://risis.eu/wos/resource/KIRCHNER_C2005NANO_LETTV5P331> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/nl047996m> .
+<http://risis.eu/wos/resource/LAMBERT_TN2007SMALLV3P691> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/smll.200600529> .
+<http://risis.eu/wos/resource/LU_XM2004NANO_LETTV4P969> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/nl049831j> .
+<http://risis.eu/wos/resource/LU_XM2005CHEM_MATERV17P6479> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm0515956> .
+<http://risis.eu/wos/resource/LU_XM2005NANOTECHNOLOGYV16S389> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1088/0957-4484/16/7/012> .
+<http://risis.eu/wos/resource/MA_XC2008J_SOLID_STATE_CHEMV181P1628> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.jssc.2008.06.018> .
+<http://risis.eu/wos/resource/MICHALET_X2005SCIENCEV307P538> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1126/science.1104274> .
+<http://risis.eu/wos/resource/TILLEY_RD2006ADV_MATERV18P2053> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200600118> .
+<http://risis.eu/wos/resource/WALLING_MA2009INT_J_MOL_SCIV10P441> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.3390/ijms10020441> .
+<http://risis.eu/wos/resource/WARNER_JH2005ANGEW_CHEM_INT_EDITV44P4550> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/anie.200501256> .
+<http://risis.eu/wos/resource/WARNER_JH2005J_PHYS_CHEM_BV109P19064> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jp054565z> .
+<http://risis.eu/wos/resource/WARNER_JH2006NANOTECHNOLOGYV17P3745> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1088/0957-4484/17/15/022> .
+<http://risis.eu/wos/resource/WU_HP2006MATER_LETTV60P986> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.matlet.2005.10.063> .
+<http://risis.eu/wos/resource/WU_XY2003NAT_BIOTECHNOLV21P41> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1038/nbt764> .
+<http://risis.eu/wos/resource/ZAITSEVA_N2007CHEM_MATERV19P5174> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm070062p> .
 <http://risis.eu/wos/resource/PRABAKAR_S2010CHEM_MATERV22P482> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/ALIVISATOS_AP1996J_PHYS_CHEM-USV100P13226> .
 <http://risis.eu/wos/resource/PRABAKAR_S2010CHEM_MATERV22P482> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/ALIVISATOS_AP2004NAT_BIOTECHNOLV22P47> .
 <http://risis.eu/wos/resource/PRABAKAR_S2010CHEM_MATERV22P482> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/ALSALIM_N2007CHEM_MATERV19P5185> .
@@ -1719,30 +1751,6 @@
 <http://risis.eu/wos/resource/Fujioka_Kouki> <http://www.w3.org/2000/01/rdf-schema#label> "Fujioka, Kouki" .
 <http://risis.eu/wos/resource/Yamamoto_Kenji> <http://www.w3.org/2000/01/rdf-schema#label> "Yamamoto, Kenji" .
 <http://risis.eu/wos/resource/Tilley_Richard_D> <http://www.w3.org/2000/01/rdf-schema#label> "Tilley, Richard D." .
-<http://risis.eu/wos/resource/ALSALIM_N2007CHEM_MATERV19P5185> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm070818k> .
-<http://risis.eu/wos/resource/CHAN_WH2008ACTA_PHARMACOL_SINV29P259> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1111/j.1745-7254.2008.00743.x> .
-<http://risis.eu/wos/resource/CHANG_E2006SMALLV2P1412> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/smll.200600218> .
-<http://risis.eu/wos/resource/CHIU_HW2006CHEM_MATERV18P1023> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm0521222> .
-<http://risis.eu/wos/resource/DERFUS_AM2004NANO_LETTV4P11> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/nl0347334> .
-<http://risis.eu/wos/resource/FOK_E2004CHEM_COMMUN_____0221P386> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b314887d> .
-<http://risis.eu/wos/resource/GERION_D2004NANO_LETTV4P597> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/nl035231t> .
-<http://risis.eu/wos/resource/GERUNG_H2005CHEM_COMMUNP1914> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b416066e> .
-<http://risis.eu/wos/resource/HENDERSON_EJ2008J_AM_CHEM_SOCV130P3624> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja710286a> .
-<http://risis.eu/wos/resource/KIRCHNER_C2005NANO_LETTV5P331> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/nl047996m> .
-<http://risis.eu/wos/resource/LAMBERT_TN2007SMALLV3P691> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/smll.200600529> .
-<http://risis.eu/wos/resource/LU_XM2004NANO_LETTV4P969> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/nl049831j> .
-<http://risis.eu/wos/resource/LU_XM2005CHEM_MATERV17P6479> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm0515956> .
-<http://risis.eu/wos/resource/LU_XM2005NANOTECHNOLOGYV16S389> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1088/0957-4484/16/7/012> .
-<http://risis.eu/wos/resource/MA_XC2008J_SOLID_STATE_CHEMV181P1628> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.jssc.2008.06.018> .
-<http://risis.eu/wos/resource/MICHALET_X2005SCIENCEV307P538> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1126/science.1104274> .
-<http://risis.eu/wos/resource/TILLEY_RD2006ADV_MATERV18P2053> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200600118> .
-<http://risis.eu/wos/resource/WALLING_MA2009INT_J_MOL_SCIV10P441> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.3390/ijms10020441> .
-<http://risis.eu/wos/resource/WARNER_JH2005ANGEW_CHEM_INT_EDITV44P4550> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/anie.200501256> .
-<http://risis.eu/wos/resource/WARNER_JH2005J_PHYS_CHEM_BV109P19064> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jp054565z> .
-<http://risis.eu/wos/resource/WARNER_JH2006NANOTECHNOLOGYV17P3745> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1088/0957-4484/17/15/022> .
-<http://risis.eu/wos/resource/WU_HP2006MATER_LETTV60P986> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.matlet.2005.10.063> .
-<http://risis.eu/wos/resource/WU_XY2003NAT_BIOTECHNOLV21P41> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1038/nbt764> .
-<http://risis.eu/wos/resource/ZAITSEVA_N2007CHEM_MATERV19P5174> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm070062p> .
 <http://risis.eu/wos/resource/PRABAKAR_S2010CHEM_MATERV22P482> <http://risis.eu/wos/vocab/AF> <http://risis.eu/wos/resource/Prabakar_Sujay> .
 <http://risis.eu/wos/resource/PRABAKAR_S2010CHEM_MATERV22P482> <http://risis.eu/wos/vocab/AF> <http://risis.eu/wos/resource/Shiohara_Amane> .
 <http://risis.eu/wos/resource/PRABAKAR_S2010CHEM_MATERV22P482> <http://risis.eu/wos/vocab/AF> <http://risis.eu/wos/resource/Hanada_Sanshiro> .
@@ -1755,7 +1763,8 @@
 <http://risis.eu/wos/resource/Fujioka_Kouki> <http://www.w3.org/2004/02/skos/core#altLabel> "Fujioka, K" .
 <http://risis.eu/wos/resource/Yamamoto_Kenji> <http://www.w3.org/2004/02/skos/core#altLabel> "Yamamoto, K" .
 <http://risis.eu/wos/resource/Tilley_Richard_D> <http://www.w3.org/2004/02/skos/core#altLabel> "Tilley, RD" .
-<http://risis.eu/wos/resource/PRABAKAR_S2010CHEM_MATERV22P482> <http://risis.eu/wos/vocab/SC> "Chemistry, Physical; Materials Science, Multidisciplinary" .
+<http://risis.eu/wos/resource/PRABAKAR_S2010CHEM_MATERV22P482> <http://risis.eu/wos/vocab/SC> "Chemistry, Physical" .
+<http://risis.eu/wos/resource/PRABAKAR_S2010CHEM_MATERV22P482> <http://risis.eu/wos/vocab/SC> "Materials Science, Multidisciplinary" .
 <http://risis.eu/wos/resource/PRABAKAR_S2010CHEM_MATERV22P482> <http://risis.eu/wos/vocab/ID> "FLUORESCENCE QUANTUM YIELDS" .
 <http://risis.eu/wos/resource/PRABAKAR_S2010CHEM_MATERV22P482> <http://risis.eu/wos/vocab/ID> "SILICON NANOCRYSTALS" .
 <http://risis.eu/wos/resource/PRABAKAR_S2010CHEM_MATERV22P482> <http://risis.eu/wos/vocab/ID> "OPTICAL-PROPERTIES" .
@@ -1790,12 +1799,22 @@
 <http://risis.eu/wos/resource/PRABAKAR_S2010CHEM_MATERV22P482> <http://risis.eu/wos/vocab/IS> "2" .
 <http://risis.eu/wos/resource/PRABAKAR_S2010CHEM_MATERV22P482> <http://risis.eu/wos/vocab/BP> "482" .
 <http://risis.eu/wos/resource/PRABAKAR_S2010CHEM_MATERV22P482> <http://risis.eu/wos/vocab/EP> "486" .
-<http://risis.eu/wos/resource/PRABAKAR_S2010CHEM_MATERV22P482> <http://risis.eu/wos/vocab/DI> "10.1021/cm9030599" .
 <http://risis.eu/wos/resource/PRABAKAR_S2010CHEM_MATERV22P482> <http://risis.eu/wos/vocab/PG> "5" .
 <http://risis.eu/wos/resource/PRABAKAR_S2010CHEM_MATERV22P482> <http://risis.eu/wos/vocab/GA> "543LZ" .
 <http://risis.eu/wos/resource/PRABAKAR_S2010CHEM_MATERV22P482> <http://risis.eu/wos/vocab/UT> "ISI:000273580700027" .
 
 <http://risis.eu/wos/resource/NEINER_D2010CHEM_MATERV22P487> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://risis.eu/wos/vocab/Article> .
+<http://risis.eu/wos/resource/NEINER_D2010CHEM_MATERV22P487> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm903054s> .
+<http://risis.eu/wos/resource/BALDWIN_RK2002CHEM_COMMUNP1822> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b205301b> .
+<http://risis.eu/wos/resource/BRENDLER_E2004CHEM_MATERV16P1368> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm030619a> .
+<http://risis.eu/wos/resource/CHO_MS2003J_ORGANOMET_CHEMV685P99> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/S0022-328X(03)00471-6> .
+<http://risis.eu/wos/resource/FICHTNER_M2005ADV_ENG_MATERV7P443> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adem.200500022> .
+<http://risis.eu/wos/resource/MCMILLAN_PF2005J_SOLID_STATE_CHEMV178P937> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.jssc.2004.12.040> .
+<http://risis.eu/wos/resource/MILLS_R2004EUR_PHYS_J-APPL_PHYSV28P83> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1051/epjap:2004168> .
+<http://risis.eu/wos/resource/NEINER_D2006J_AM_CHEM_SOCV128P11016> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja064177q> .
+<http://risis.eu/wos/resource/ODDEN_JO2005J_NON-CRYST_SOLIDSV351P1317> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.jnoncrysol.2004.11.024> .
+<http://risis.eu/wos/resource/WILLIAMSON_AJ2004APPL_PHYS_LETTV85P2917> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1063/1.1800274> .
+<http://risis.eu/wos/resource/ZOU_J2004NANO_LETTV4P1181> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/nl0497373> .
 <http://risis.eu/wos/resource/NEINER_D2010CHEM_MATERV22P487> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/BALDWIN_RK2002CHEM_COMMUNP1822> .
 <http://risis.eu/wos/resource/NEINER_D2010CHEM_MATERV22P487> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/BALDWIN_RK2002J_AM_CHEM_SOCV124P1150> .
 <http://risis.eu/wos/resource/NEINER_D2010CHEM_MATERV22P487> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/BLEY_RA1996J_AM_CHEM_SOCV118P12461> .
@@ -1862,21 +1881,12 @@
 <http://risis.eu/wos/resource/ZOU_J2004NANO_LETTV4P1181> <http://www.w3.org/2000/01/rdf-schema#label> "ZOU J, 2004, NANO LETT, V4, P1181, DOI 10.1021/nl0497373" .
 <http://risis.eu/wos/resource/Neiner_Doinita> <http://www.w3.org/2000/01/rdf-schema#label> "Neiner, Doinita" .
 <http://risis.eu/wos/resource/Kauzlarich_Susan_M> <http://www.w3.org/2000/01/rdf-schema#label> "Kauzlarich, Susan M." .
-<http://risis.eu/wos/resource/BALDWIN_RK2002CHEM_COMMUNP1822> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b205301b> .
-<http://risis.eu/wos/resource/BRENDLER_E2004CHEM_MATERV16P1368> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm030619a> .
-<http://risis.eu/wos/resource/CHO_MS2003J_ORGANOMET_CHEMV685P99> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/S0022-328X(03)00471-6> .
-<http://risis.eu/wos/resource/FICHTNER_M2005ADV_ENG_MATERV7P443> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adem.200500022> .
-<http://risis.eu/wos/resource/MCMILLAN_PF2005J_SOLID_STATE_CHEMV178P937> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.jssc.2004.12.040> .
-<http://risis.eu/wos/resource/MILLS_R2004EUR_PHYS_J-APPL_PHYSV28P83> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1051/epjap:2004168> .
-<http://risis.eu/wos/resource/NEINER_D2006J_AM_CHEM_SOCV128P11016> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja064177q> .
-<http://risis.eu/wos/resource/ODDEN_JO2005J_NON-CRYST_SOLIDSV351P1317> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.jnoncrysol.2004.11.024> .
-<http://risis.eu/wos/resource/WILLIAMSON_AJ2004APPL_PHYS_LETTV85P2917> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1063/1.1800274> .
-<http://risis.eu/wos/resource/ZOU_J2004NANO_LETTV4P1181> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/nl0497373> .
 <http://risis.eu/wos/resource/NEINER_D2010CHEM_MATERV22P487> <http://risis.eu/wos/vocab/AF> <http://risis.eu/wos/resource/Neiner_Doinita> .
 <http://risis.eu/wos/resource/NEINER_D2010CHEM_MATERV22P487> <http://risis.eu/wos/vocab/AF> <http://risis.eu/wos/resource/Kauzlarich_Susan_M> .
 <http://risis.eu/wos/resource/Neiner_Doinita> <http://www.w3.org/2004/02/skos/core#altLabel> "Neiner, D" .
 <http://risis.eu/wos/resource/Kauzlarich_Susan_M> <http://www.w3.org/2004/02/skos/core#altLabel> "Kauzlarich, SM" .
-<http://risis.eu/wos/resource/NEINER_D2010CHEM_MATERV22P487> <http://risis.eu/wos/vocab/SC> "Chemistry, Physical; Materials Science, Multidisciplinary" .
+<http://risis.eu/wos/resource/NEINER_D2010CHEM_MATERV22P487> <http://risis.eu/wos/vocab/SC> "Chemistry, Physical" .
+<http://risis.eu/wos/resource/NEINER_D2010CHEM_MATERV22P487> <http://risis.eu/wos/vocab/SC> "Materials Science, Multidisciplinary" .
 <http://risis.eu/wos/resource/NEINER_D2010CHEM_MATERV22P487> <http://risis.eu/wos/vocab/ID> "POROUS SILICON" .
 <http://risis.eu/wos/resource/NEINER_D2010CHEM_MATERV22P487> <http://risis.eu/wos/vocab/ID> "SOLUTION ROUTE" .
 <http://risis.eu/wos/resource/NEINER_D2010CHEM_MATERV22P487> <http://risis.eu/wos/vocab/ID> "NANOCLUSTERS" .
@@ -1908,12 +1918,28 @@
 <http://risis.eu/wos/resource/NEINER_D2010CHEM_MATERV22P487> <http://risis.eu/wos/vocab/IS> "2" .
 <http://risis.eu/wos/resource/NEINER_D2010CHEM_MATERV22P487> <http://risis.eu/wos/vocab/BP> "487" .
 <http://risis.eu/wos/resource/NEINER_D2010CHEM_MATERV22P487> <http://risis.eu/wos/vocab/EP> "493" .
-<http://risis.eu/wos/resource/NEINER_D2010CHEM_MATERV22P487> <http://risis.eu/wos/vocab/DI> "10.1021/cm903054s" .
 <http://risis.eu/wos/resource/NEINER_D2010CHEM_MATERV22P487> <http://risis.eu/wos/vocab/PG> "7" .
 <http://risis.eu/wos/resource/NEINER_D2010CHEM_MATERV22P487> <http://risis.eu/wos/vocab/GA> "543LZ" .
 <http://risis.eu/wos/resource/NEINER_D2010CHEM_MATERV22P487> <http://risis.eu/wos/vocab/UT> "ISI:000273580700028" .
 
 <http://risis.eu/wos/resource/XUE_CF2010CHEM_MATERV22P494> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://risis.eu/wos/vocab/Article> .
+<http://risis.eu/wos/resource/XUE_CF2010CHEM_MATERV22P494> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm903097v> .
+<http://risis.eu/wos/resource/AMATANI_T2005CHEM_MATERV17P2114> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm048091c> .
+<http://risis.eu/wos/resource/CHIU_JJ2004J_CATALV221P400> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.jcat.2003.09.005> .
+<http://risis.eu/wos/resource/CODD_GA2005TOXICOL_APPL_PHARMV203P264> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.taap.2004.02.016> .
+<http://risis.eu/wos/resource/FAN_LZ2007ADV_FUNCT_MATERV17P3083> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adfm.200700518> .
+<http://risis.eu/wos/resource/KUANG_DB2004J_AM_CHEM_SOCV126P10534> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja0470618> .
+<http://risis.eu/wos/resource/LEE_YJ2006MICROPOR_MESOPOR_MATV88P176> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.micromeso.2005.08.039> .
+<http://risis.eu/wos/resource/NISHIHARA_H2005CHEM_MATERV17P683> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm048725f> .
+<http://risis.eu/wos/resource/OH_CG2005ADV_MATERV17P270> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200400192> .
+<http://risis.eu/wos/resource/SHEN_PP2003ENVIRON_INTV29P641> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/S0160-4120(03)00047-3> .
+<http://risis.eu/wos/resource/SMATT_JH2003CHEM_MATERV15P2354> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm0213422> .
+<http://risis.eu/wos/resource/WAN_Y2007CHEM_REVV107P2821> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cr068020s> .
+<http://risis.eu/wos/resource/WAN_Y2008CHEM_MATERV20P932> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm7024125> .
+<http://risis.eu/wos/resource/XUE_CF2008ADV_FUNCT_MATERV18P3914> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adfm.200800708> .
+<http://risis.eu/wos/resource/YANG_HF2003CHEM_MATERV15P536> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm020135z> .
+<http://risis.eu/wos/resource/YU_JS2002J_AM_CHEM_SOCV124P9382> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja0203972> .
+<http://risis.eu/wos/resource/ZHAO_Y2008MATER_LETTV62P548> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.matlet.2007.06.002> .
 <http://risis.eu/wos/resource/XUE_CF2010CHEM_MATERV22P494> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/AMATANI_T2005CHEM_MATERV17P2114> .
 <http://risis.eu/wos/resource/XUE_CF2010CHEM_MATERV22P494> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/ANTONIETTI_M1998ADV_MATERV10P154> .
 <http://risis.eu/wos/resource/XUE_CF2010CHEM_MATERV22P494> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/CHIU_JJ2004J_CATALV221P400> .
@@ -1992,22 +2018,6 @@
 <http://risis.eu/wos/resource/Wang_Jinxiu> <http://www.w3.org/2000/01/rdf-schema#label> "Wang, Jinxiu" .
 <http://risis.eu/wos/resource/Tu_Bo> <http://www.w3.org/2000/01/rdf-schema#label> "Tu, Bo" .
 <http://risis.eu/wos/resource/Zhao_Dongyuan> <http://www.w3.org/2000/01/rdf-schema#label> "Zhao, Dongyuan" .
-<http://risis.eu/wos/resource/AMATANI_T2005CHEM_MATERV17P2114> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm048091c> .
-<http://risis.eu/wos/resource/CHIU_JJ2004J_CATALV221P400> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.jcat.2003.09.005> .
-<http://risis.eu/wos/resource/CODD_GA2005TOXICOL_APPL_PHARMV203P264> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.taap.2004.02.016> .
-<http://risis.eu/wos/resource/FAN_LZ2007ADV_FUNCT_MATERV17P3083> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adfm.200700518> .
-<http://risis.eu/wos/resource/KUANG_DB2004J_AM_CHEM_SOCV126P10534> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja0470618> .
-<http://risis.eu/wos/resource/LEE_YJ2006MICROPOR_MESOPOR_MATV88P176> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.micromeso.2005.08.039> .
-<http://risis.eu/wos/resource/NISHIHARA_H2005CHEM_MATERV17P683> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm048725f> .
-<http://risis.eu/wos/resource/OH_CG2005ADV_MATERV17P270> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200400192> .
-<http://risis.eu/wos/resource/SHEN_PP2003ENVIRON_INTV29P641> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/S0160-4120(03)00047-3> .
-<http://risis.eu/wos/resource/SMATT_JH2003CHEM_MATERV15P2354> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm0213422> .
-<http://risis.eu/wos/resource/WAN_Y2007CHEM_REVV107P2821> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cr068020s> .
-<http://risis.eu/wos/resource/WAN_Y2008CHEM_MATERV20P932> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm7024125> .
-<http://risis.eu/wos/resource/XUE_CF2008ADV_FUNCT_MATERV18P3914> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adfm.200800708> .
-<http://risis.eu/wos/resource/YANG_HF2003CHEM_MATERV15P536> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm020135z> .
-<http://risis.eu/wos/resource/YU_JS2002J_AM_CHEM_SOCV124P9382> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ja0203972> .
-<http://risis.eu/wos/resource/ZHAO_Y2008MATER_LETTV62P548> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.matlet.2007.06.002> .
 <http://risis.eu/wos/resource/XUE_CF2010CHEM_MATERV22P494> <http://risis.eu/wos/vocab/AF> <http://risis.eu/wos/resource/Xue_Chunfeng> .
 <http://risis.eu/wos/resource/XUE_CF2010CHEM_MATERV22P494> <http://risis.eu/wos/vocab/AF> <http://risis.eu/wos/resource/Wang_Jinxiu> .
 <http://risis.eu/wos/resource/XUE_CF2010CHEM_MATERV22P494> <http://risis.eu/wos/vocab/AF> <http://risis.eu/wos/resource/Tu_Bo> .
@@ -2016,7 +2026,8 @@
 <http://risis.eu/wos/resource/Wang_Jinxiu> <http://www.w3.org/2004/02/skos/core#altLabel> "Wang, JX" .
 <http://risis.eu/wos/resource/Tu_Bo> <http://www.w3.org/2004/02/skos/core#altLabel> "Tu, B" .
 <http://risis.eu/wos/resource/Zhao_Dongyuan> <http://www.w3.org/2004/02/skos/core#altLabel> "Zhao, DY" .
-<http://risis.eu/wos/resource/XUE_CF2010CHEM_MATERV22P494> <http://risis.eu/wos/vocab/SC> "Chemistry, Physical; Materials Science, Multidisciplinary" .
+<http://risis.eu/wos/resource/XUE_CF2010CHEM_MATERV22P494> <http://risis.eu/wos/vocab/SC> "Chemistry, Physical" .
+<http://risis.eu/wos/resource/XUE_CF2010CHEM_MATERV22P494> <http://risis.eu/wos/vocab/SC> "Materials Science, Multidisciplinary" .
 <http://risis.eu/wos/resource/XUE_CF2010CHEM_MATERV22P494> <http://risis.eu/wos/vocab/ID> "MICROCYSTIN-LR ADSORPTION" .
 <http://risis.eu/wos/resource/XUE_CF2010CHEM_MATERV22P494> <http://risis.eu/wos/vocab/ID> "MESOPOROUS SILICA" .
 <http://risis.eu/wos/resource/XUE_CF2010CHEM_MATERV22P494> <http://risis.eu/wos/vocab/ID> "ACTIVATED CARBON" .
@@ -2051,12 +2062,32 @@
 <http://risis.eu/wos/resource/XUE_CF2010CHEM_MATERV22P494> <http://risis.eu/wos/vocab/IS> "2" .
 <http://risis.eu/wos/resource/XUE_CF2010CHEM_MATERV22P494> <http://risis.eu/wos/vocab/BP> "494" .
 <http://risis.eu/wos/resource/XUE_CF2010CHEM_MATERV22P494> <http://risis.eu/wos/vocab/EP> "503" .
-<http://risis.eu/wos/resource/XUE_CF2010CHEM_MATERV22P494> <http://risis.eu/wos/vocab/DI> "10.1021/cm903097v" .
 <http://risis.eu/wos/resource/XUE_CF2010CHEM_MATERV22P494> <http://risis.eu/wos/vocab/PG> "10" .
 <http://risis.eu/wos/resource/XUE_CF2010CHEM_MATERV22P494> <http://risis.eu/wos/vocab/GA> "543LZ" .
 <http://risis.eu/wos/resource/XUE_CF2010CHEM_MATERV22P494> <http://risis.eu/wos/vocab/UT> "ISI:000273580700029" .
 
 <http://risis.eu/wos/resource/GUPTA_S2010CHEM_MATERV22P504> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://risis.eu/wos/vocab/Article> .
+<http://risis.eu/wos/resource/GUPTA_S2010CHEM_MATERV22P504> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm9031336> .
+<http://risis.eu/wos/resource/AGRAWAL_M2007CHEM_MATERV19P1845> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm062757g> .
+<http://risis.eu/wos/resource/AGRAWAL_M2008J_MATER_CHEMV18P2581> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b802102c> .
+<http://risis.eu/wos/resource/AGRAWAL_M2008LANGMUIRV24P1013> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/la702509j> .
+<http://risis.eu/wos/resource/BURDA_C2005CHEM_REVV105P1025> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cr030063a> .
+<http://risis.eu/wos/resource/DANIEL_MC2004CHEM_REVV104P293> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cr030698+> .
+<http://risis.eu/wos/resource/GUPTA_S2008J_MATER_CHEMV18P214> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b711082k> .
+<http://risis.eu/wos/resource/GUPTA_S2008MACROMOLECULESV41P2874> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ma800204h> .
+<http://risis.eu/wos/resource/GUPTA_S2008MACROMOLECULESV41P8152> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ma801557u> .
+<http://risis.eu/wos/resource/IONOV_L2004MACROMOLECULESV37P7421> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ma049147r> .
+<http://risis.eu/wos/resource/IONOV_L2006ADV_MATERV18P1453> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200502686> .
+<http://risis.eu/wos/resource/IONOV_L2006NANO_LETTV6P1982> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/nl0611539> .
+<http://risis.eu/wos/resource/MATSUI_J2004ANAL_CHEMV76P1310> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ac034788q> .
+<http://risis.eu/wos/resource/MEI_Y2005LANGMUIRV21P12229> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/la052120w> .
+<http://risis.eu/wos/resource/MITSUISHI_M2007LANGMUIRV23P7472> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/1a701215t> .
+<http://risis.eu/wos/resource/SCOTT_RWJ2005J_PHYS_CHEM_BV109P692> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jp0469665> .
+<http://risis.eu/wos/resource/SHARMA_G2004MACROMOL_RAPID_COMMV25P547> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/marc.200300107> .
+<http://risis.eu/wos/resource/SUZUKI_D2005LANGMUIRV21P8175> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/la0504356> .
+<http://risis.eu/wos/resource/YAMANOI_Y2004LANGMUIRV20P1054> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/la036437c> .
+<http://risis.eu/wos/resource/YU_AM2003NANO_LETTV3P1203> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/nl034363j> .
+<http://risis.eu/wos/resource/ZDYRKO_B2003LANGMUIRV19P10179> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/la034974r> .
 <http://risis.eu/wos/resource/GUPTA_S2010CHEM_MATERV22P504> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/AGRAWAL_M2007CHEM_MATERV19P1845> .
 <http://risis.eu/wos/resource/GUPTA_S2010CHEM_MATERV22P504> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/AGRAWAL_M2008J_MATER_CHEMV18P2581> .
 <http://risis.eu/wos/resource/GUPTA_S2010CHEM_MATERV22P504> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/AGRAWAL_M2008LANGMUIRV24P1013> .
@@ -2152,26 +2183,6 @@
 <http://risis.eu/wos/resource/Uhlmann_Petra> <http://www.w3.org/2000/01/rdf-schema#label> "Uhlmann, Petra" .
 <http://risis.eu/wos/resource/Simon_Frank> <http://www.w3.org/2000/01/rdf-schema#label> "Simon, Frank" .
 <http://risis.eu/wos/resource/Stamm_Manfred> <http://www.w3.org/2000/01/rdf-schema#label> "Stamm, Manfred" .
-<http://risis.eu/wos/resource/AGRAWAL_M2007CHEM_MATERV19P1845> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cm062757g> .
-<http://risis.eu/wos/resource/AGRAWAL_M2008J_MATER_CHEMV18P2581> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b802102c> .
-<http://risis.eu/wos/resource/AGRAWAL_M2008LANGMUIRV24P1013> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/la702509j> .
-<http://risis.eu/wos/resource/BURDA_C2005CHEM_REVV105P1025> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cr030063a> .
-<http://risis.eu/wos/resource/DANIEL_MC2004CHEM_REVV104P293> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/cr030698+> .
-<http://risis.eu/wos/resource/GUPTA_S2008J_MATER_CHEMV18P214> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1039/b711082k> .
-<http://risis.eu/wos/resource/GUPTA_S2008MACROMOLECULESV41P2874> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ma800204h> .
-<http://risis.eu/wos/resource/GUPTA_S2008MACROMOLECULESV41P8152> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ma801557u> .
-<http://risis.eu/wos/resource/IONOV_L2004MACROMOLECULESV37P7421> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ma049147r> .
-<http://risis.eu/wos/resource/IONOV_L2006ADV_MATERV18P1453> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/adma.200502686> .
-<http://risis.eu/wos/resource/IONOV_L2006NANO_LETTV6P1982> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/nl0611539> .
-<http://risis.eu/wos/resource/MATSUI_J2004ANAL_CHEMV76P1310> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ac034788q> .
-<http://risis.eu/wos/resource/MEI_Y2005LANGMUIRV21P12229> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/la052120w> .
-<http://risis.eu/wos/resource/MITSUISHI_M2007LANGMUIRV23P7472> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/1a701215t> .
-<http://risis.eu/wos/resource/SCOTT_RWJ2005J_PHYS_CHEM_BV109P692> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jp0469665> .
-<http://risis.eu/wos/resource/SHARMA_G2004MACROMOL_RAPID_COMMV25P547> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/marc.200300107> .
-<http://risis.eu/wos/resource/SUZUKI_D2005LANGMUIRV21P8175> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/la0504356> .
-<http://risis.eu/wos/resource/YAMANOI_Y2004LANGMUIRV20P1054> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/la036437c> .
-<http://risis.eu/wos/resource/YU_AM2003NANO_LETTV3P1203> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/nl034363j> .
-<http://risis.eu/wos/resource/ZDYRKO_B2003LANGMUIRV19P10179> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/la034974r> .
 <http://risis.eu/wos/resource/GUPTA_S2010CHEM_MATERV22P504> <http://risis.eu/wos/vocab/AF> <http://risis.eu/wos/resource/Gupta_Smrati> .
 <http://risis.eu/wos/resource/GUPTA_S2010CHEM_MATERV22P504> <http://risis.eu/wos/vocab/AF> <http://risis.eu/wos/resource/Agrawal_Mukesh> .
 <http://risis.eu/wos/resource/GUPTA_S2010CHEM_MATERV22P504> <http://risis.eu/wos/vocab/AF> <http://risis.eu/wos/resource/Uhlmann_Petra> .
@@ -2182,7 +2193,8 @@
 <http://risis.eu/wos/resource/Uhlmann_Petra> <http://www.w3.org/2004/02/skos/core#altLabel> "Uhlmann, P" .
 <http://risis.eu/wos/resource/Simon_Frank> <http://www.w3.org/2004/02/skos/core#altLabel> "Simon, F" .
 <http://risis.eu/wos/resource/Stamm_Manfred> <http://www.w3.org/2004/02/skos/core#altLabel> "Stamm, M" .
-<http://risis.eu/wos/resource/GUPTA_S2010CHEM_MATERV22P504> <http://risis.eu/wos/vocab/SC> "Chemistry, Physical; Materials Science, Multidisciplinary" .
+<http://risis.eu/wos/resource/GUPTA_S2010CHEM_MATERV22P504> <http://risis.eu/wos/vocab/SC> "Chemistry, Physical" .
+<http://risis.eu/wos/resource/GUPTA_S2010CHEM_MATERV22P504> <http://risis.eu/wos/vocab/SC> "Materials Science, Multidisciplinary" .
 <http://risis.eu/wos/resource/GUPTA_S2010CHEM_MATERV22P504> <http://risis.eu/wos/vocab/ID> "SPHERICAL POLYELECTROLYTE BRUSHES" .
 <http://risis.eu/wos/resource/GUPTA_S2010CHEM_MATERV22P504> <http://risis.eu/wos/vocab/ID> "RESPONSIVE POLYMER BRUSHES" .
 <http://risis.eu/wos/resource/GUPTA_S2010CHEM_MATERV22P504> <http://risis.eu/wos/vocab/ID> "GOLD NANOPARTICLES" .
@@ -2215,7 +2227,6 @@
 <http://risis.eu/wos/resource/GUPTA_S2010CHEM_MATERV22P504> <http://risis.eu/wos/vocab/IS> "2" .
 <http://risis.eu/wos/resource/GUPTA_S2010CHEM_MATERV22P504> <http://risis.eu/wos/vocab/BP> "504" .
 <http://risis.eu/wos/resource/GUPTA_S2010CHEM_MATERV22P504> <http://risis.eu/wos/vocab/EP> "509" .
-<http://risis.eu/wos/resource/GUPTA_S2010CHEM_MATERV22P504> <http://risis.eu/wos/vocab/DI> "10.1021/cm9031336" .
 <http://risis.eu/wos/resource/GUPTA_S2010CHEM_MATERV22P504> <http://risis.eu/wos/vocab/PG> "6" .
 <http://risis.eu/wos/resource/GUPTA_S2010CHEM_MATERV22P504> <http://risis.eu/wos/vocab/GA> "543LZ" .
 <http://risis.eu/wos/resource/GUPTA_S2010CHEM_MATERV22P504> <http://risis.eu/wos/vocab/UT> "ISI:000273580700030" .
