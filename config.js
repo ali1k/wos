@@ -1,7 +1,7 @@
 'use strict';
+//List of Web of Science Field Tags
 module.exports = {
-  //List of ISI codes
-  isiCode:{
+  FieldTag:{
     FN:'File type',
     VR:'File format version number',
     PT:'Publication type (e.g., book, journal, book in series)',

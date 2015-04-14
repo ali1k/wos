@@ -1,6 +1,6 @@
 var _ = require('lodash');
-var isiCode=require('./config').isiCode;
-// console.log(isiCode);
+var FieldTag=require('./config').FieldTag;
+// console.log(FieldTag);
 var fs = require('fs'),
     path = require('path'),
     mkdirp = require('mkdirp'),
@@ -67,7 +67,7 @@ function processRecord(line) {
         if(cleanedFieldValue=='\r'){
           console.log('------------------------------------------------------------------------');
         }else{
-          console.log(fieldNames[k], '--> '+isiCode[fieldNames[k]]);
+          console.log(fieldNames[k], '--> '+FieldTag[fieldNames[k]]);
           console.log(cleanedFieldValue);
           console.log('*******************************************');
         }

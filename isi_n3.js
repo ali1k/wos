@@ -1,5 +1,5 @@
 var _ = require('lodash');
-var isiCode=require('./config').isiCode;
+var FieldTag=require('./config').FieldTag;
 
 
 var fs = require('fs'),
@@ -36,7 +36,7 @@ function processor(line) {
     }else{
       //handle fileds
       current_record[record_type]=[record_value];
-      // console.log('******* '+isiCode[record_type]+' *********');
+      // console.log('******* '+FieldTag[record_type]+' *********');
       // console.log(record_value);
     }
   }else{
@@ -50,7 +50,7 @@ function processor(line) {
       if(_.trim(line)=='EF'){
         if(!_.isEmpty(current_record))
           records.push(current_record);
-        // console.log(isiCode['EF']);
+        // console.log(FieldTag['EF']);
       }else{
         if(_.trim(line)){
           //values realted to the previous filed
