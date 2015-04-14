@@ -1,0 +1,664 @@
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://risis.eu/wos/vocab/Article> .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/LIDE_DR2009CRC_HDB_CHEM_PHYS> .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Kozliak_EI2009POLLUT_SCI_TECHNOL_AP1> .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Popova_IE2008SEPAR_SCI_TECHNOLV43P778> .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Popova_IE2008J_ENVIRON_SCI_HEAL_AV43P1132> .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Phutane_SR2007FOLIA_MICROBIOLV52P253> .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Popova_IE2005ENG_LIFE_SCIV5P223> .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/*ASTM_INT2005D426005_ASTM_INT> .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Xiong_GJ2004CEMENT_CONCRETE_COMPV26P41> .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Kumar_R2003CEMENT_CONCRETE_RESV33P155> .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Beklemishev_MK2003ACTA_BIOTECHNOLV23P197> .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/*EPA20023570_EPA> .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Wilson_SA2001P_I_CIVIL_ENG-GEOTECV149P189> .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Van_der_Bruggen_B1999J_MEMBRANE_SCIV156P29> .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/*EPA19963540C_EPA> .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/*EPA19963550B_EPA> .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/GARBOCZI_EJ1995PERFORMANCE_CRITERIA> .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/ABRAHAM_MH1993CHEM_SOC_REVV22P73> .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/SCANLON_JM1987AM_CONCR_I_SPP1069> .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/MEHTA_PK1986CONCRETE_STRUCTURE_P> .
+<http://risis.eu/wos/resource/LIDE_DR2009CRC_HDB_CHEM_PHYS> <http://www.w3.org/2000/01/rdf-schema#label> "LIDE DR, 2009, CRC HDB CHEM PHYS" .
+<http://risis.eu/wos/resource/Kozliak_EI2009POLLUT_SCI_TECHNOL_AP1> <http://www.w3.org/2000/01/rdf-schema#label> "Kozliak EI, 2009, POLLUT SCI TECHNOL A, P1" .
+<http://risis.eu/wos/resource/Popova_IE2008SEPAR_SCI_TECHNOLV43P778> <http://www.w3.org/2000/01/rdf-schema#label> "Popova IE, 2008, SEPAR SCI TECHNOL, V43, P778, DOI 10.1080/01496390701870663" .
+<http://risis.eu/wos/resource/Popova_IE2008J_ENVIRON_SCI_HEAL_AV43P1132> <http://www.w3.org/2000/01/rdf-schema#label> "Popova IE, 2008, J ENVIRON SCI HEAL A, V43, P1132, DOI 10.1080/10934520802171576" .
+<http://risis.eu/wos/resource/Phutane_SR2007FOLIA_MICROBIOLV52P253> <http://www.w3.org/2000/01/rdf-schema#label> "Phutane SR, 2007, FOLIA MICROBIOL, V52, P253" .
+<http://risis.eu/wos/resource/Popova_IE2005ENG_LIFE_SCIV5P223> <http://www.w3.org/2000/01/rdf-schema#label> "Popova IE, 2005, ENG LIFE SCI, V5, P223, DOI 10.1002/elsc.200520078" .
+<http://risis.eu/wos/resource/*ASTM_INT2005D426005_ASTM_INT> <http://www.w3.org/2000/01/rdf-schema#label> "*ASTM INT, 2005, D426005 ASTM INT" .
+<http://risis.eu/wos/resource/Xiong_GJ2004CEMENT_CONCRETE_COMPV26P41> <http://www.w3.org/2000/01/rdf-schema#label> "Xiong GJ, 2004, CEMENT CONCRETE COMP, V26, P41, DOI 10.1016/S0958-9465(02)00123-3" .
+<http://risis.eu/wos/resource/Kumar_R2003CEMENT_CONCRETE_RESV33P155> <http://www.w3.org/2000/01/rdf-schema#label> "Kumar R, 2003, CEMENT CONCRETE RES, V33, P155" .
+<http://risis.eu/wos/resource/Beklemishev_MK2003ACTA_BIOTECHNOLV23P197> <http://www.w3.org/2000/01/rdf-schema#label> "Beklemishev MK, 2003, ACTA BIOTECHNOL, V23, P197, DOI 10.1002/abio.200390026" .
+<http://risis.eu/wos/resource/*EPA20023570_EPA> <http://www.w3.org/2000/01/rdf-schema#label> "*EPA, 2002, 3570 EPA" .
+<http://risis.eu/wos/resource/Wilson_SA2001P_I_CIVIL_ENG-GEOTECV149P189> <http://www.w3.org/2000/01/rdf-schema#label> "Wilson SA, 2001, P I CIVIL ENG-GEOTEC, V149, P189" .
+<http://risis.eu/wos/resource/Van_der_Bruggen_B1999J_MEMBRANE_SCIV156P29> <http://www.w3.org/2000/01/rdf-schema#label> "Van der Bruggen B, 1999, J MEMBRANE SCI, V156, P29" .
+<http://risis.eu/wos/resource/*EPA19963540C_EPA> <http://www.w3.org/2000/01/rdf-schema#label> "*EPA, 1996, 3540C EPA" .
+<http://risis.eu/wos/resource/*EPA19963550B_EPA> <http://www.w3.org/2000/01/rdf-schema#label> "*EPA, 1996, 3550B EPA" .
+<http://risis.eu/wos/resource/GARBOCZI_EJ1995PERFORMANCE_CRITERIA> <http://www.w3.org/2000/01/rdf-schema#label> "GARBOCZI EJ, 1995, PERFORMANCE CRITERIA" .
+<http://risis.eu/wos/resource/ABRAHAM_MH1993CHEM_SOC_REVV22P73> <http://www.w3.org/2000/01/rdf-schema#label> "ABRAHAM MH, 1993, CHEM SOC REV, V22, P73" .
+<http://risis.eu/wos/resource/SCANLON_JM1987AM_CONCR_I_SPP1069> <http://www.w3.org/2000/01/rdf-schema#label> "SCANLON JM, 1987, AM CONCR I SP, P1069" .
+<http://risis.eu/wos/resource/MEHTA_PK1986CONCRETE_STRUCTURE_P> <http://www.w3.org/2000/01/rdf-schema#label> "MEHTA PK, 1986, CONCRETE STRUCTURE P" .
+<http://risis.eu/wos/resource/Baglayeva_Ganna> <http://www.w3.org/2000/01/rdf-schema#label> "Baglayeva, Ganna" .
+<http://risis.eu/wos/resource/Popova_Inna_E> <http://www.w3.org/2000/01/rdf-schema#label> "Popova, Inna E." .
+<http://risis.eu/wos/resource/Kozliak_Evguenii_I> <http://www.w3.org/2000/01/rdf-schema#label> "Kozliak, Evguenii I." .
+<http://risis.eu/wos/resource/Popova_IE2008SEPAR_SCI_TECHNOLV43P778> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1080/01496390701870663> .
+<http://risis.eu/wos/resource/Popova_IE2008J_ENVIRON_SCI_HEAL_AV43P1132> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1080/10934520802171576> .
+<http://risis.eu/wos/resource/Popova_IE2005ENG_LIFE_SCIV5P223> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/elsc.200520078> .
+<http://risis.eu/wos/resource/Xiong_GJ2004CEMENT_CONCRETE_COMPV26P41> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/S0958-9465(02)00123-3> .
+<http://risis.eu/wos/resource/Beklemishev_MK2003ACTA_BIOTECHNOLV23P197> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/abio.200390026> .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/AF> <http://risis.eu/wos/resource/Baglayeva_Ganna> .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/AF> <http://risis.eu/wos/resource/Popova_Inna_E> .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/AF> <http://risis.eu/wos/resource/Kozliak_Evguenii_I> .
+<http://risis.eu/wos/resource/Baglayeva_Ganna> <http://www.w3.org/2004/02/skos/core#altLabel> "Baglayeva, G" .
+<http://risis.eu/wos/resource/Popova_Inna_E> <http://www.w3.org/2004/02/skos/core#altLabel> "Popova, IE" .
+<http://risis.eu/wos/resource/Kozliak_Evguenii_I> <http://www.w3.org/2004/02/skos/core#altLabel> "Kozliak, EI" .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/WC> "Chemistry, Multidisciplinary" .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/WC> "Engineering, Chemical" .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/SC> "Chemistry" .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/SC> "Engineering" .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/DE> "concrete" .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/DE> "fuel oil" .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/DE> "hydrocarbons" .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/DE> "solvent extraction" .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/ID> "BIOREMEDIATION" .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/ID> "STRENGTH" .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/ID> "WOOD" .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/ID> "REMOVAL" .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/ID> "SIZE" .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/PT> "J" .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/TI> "Efficient Extraction of Fuel Oil Hydrocarbons from Concrete" .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/SO> "SEPARATION SCIENCE AND TECHNOLOGY" .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/LA> "English" .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/AB> "A strategy is presented for the efficient extraction of hydrocarbons from concrete to enable their monitoring. Both polar and non-polar solvents were examined with the application of several techniques: cold solvent extraction with shaking, Soxhlet, and ultrasound-assisted extraction. The impacts of sample aging and inundation with water on the extraction efficiency were investigated to elucidate the nature of analyte-matrix interactions. Organic matrix-destructive solvents that partially disintegrate concrete (ethyl acetate, methanol, and acetonitrile) were most efficient for all considered scenarios, yielding recoveries in a range of 95-100% upon a two-step, four-day, cold solvent extraction or 24-h Soxhlet extraction even for highly contaminated and aged samples." .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/C1> "[Baglayeva, Ganna; Popova, Inna E.; Kozliak, Evguenii I.] Univ N Dakota, Dept Chem, Grand Forks, ND 58202 USA" .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/RP> "Kozliak, EI (reprint author), Univ N Dakota, Dept Chem, Abbott Hall,Room 236,151 Cornell St,Stop 9024, Grand Forks, ND 58202 USA" .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/EM> "ekozliak@chem.und.edu" .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/FU> "USDA Forest Products Laboratory (FPL)[04-JV-11111120-070, 05-JV-11111120-102]" .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/FX> "Funding for this work was provided by the USDA Forest Products Laboratory (FPL) via cooperative agreements # 04-JV-11111120-070 and 05-JV-11111120-102. The authors are grateful to Dr. A. Kubatova for providing access to her equipment and fruitful discussion of the manuscript and to S. Nelson for technical help." .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/NR> "19" .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/TC> "0" .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/Z9> "0" .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/PU> "TAYLOR & FRANCIS INC" .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/PI> "PHILADELPHIA" .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/PA> "325 CHESTNUT ST, SUITE 800, PHILADELPHIA, PA 19106 USA" .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/SN> "0149-6395" .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/J9> "SEP SCI TECHNOL" .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/JI> "Sep. Sci. Technol." .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/PY> "2011" .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/VL> "46" .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/IS> "2" .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/BP> "254" .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/EP> "264" .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/DI> "10.1080/01496395.2010.509078" .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/PG> "11" .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/GA> "714PY" .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/UT> "WOS:000286822700008" .
+
+<http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://risis.eu/wos/vocab/Article> .
+<http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Prommuak_C2008SEP_PURIF_TECHNOLV62P444> .
+<http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/KHACHIK_F2007> .
+<http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/MADHAVI_D2007> .
+<http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/XU_X2006> .
+<http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Sowbhagya_HB2004FOOD_REV_INTV20P33> .
+<http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Subagio_A2003FOOD_CHEMV81P97> .
+<http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Olmedilla_B2003NUTRITIONV19P21> .
+<http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/SADANO_S2003> .
+<http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Dwyer_JH2001CIRCULATIONV103P2922> .
+<http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/KHACHIK_F2001> .
+<http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Piccaglia_R1998IND_CROP_PRODV8P45> .
+<http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/SOON_PJ1998J_NUTRV128P1650> .
+<http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/KHACHIK_F1995> .
+<http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/PHILIP_T1977> .
+<http://risis.eu/wos/resource/Prommuak_C2008SEP_PURIF_TECHNOLV62P444> <http://www.w3.org/2000/01/rdf-schema#label> "Prommuak C, 2008, SEP PURIF TECHNOL, V62, P444, DOI 10.1016/j.seppur.2008.02.020" .
+<http://risis.eu/wos/resource/KHACHIK_F2007> <http://www.w3.org/2000/01/rdf-schema#label> "KHACHIK F, 2007" .
+<http://risis.eu/wos/resource/MADHAVI_D2007> <http://www.w3.org/2000/01/rdf-schema#label> "MADHAVI D, 2007" .
+<http://risis.eu/wos/resource/XU_X2006> <http://www.w3.org/2000/01/rdf-schema#label> "XU X, 2006" .
+<http://risis.eu/wos/resource/Sowbhagya_HB2004FOOD_REV_INTV20P33> <http://www.w3.org/2000/01/rdf-schema#label> "Sowbhagya HB, 2004, FOOD REV INT, V20, P33, DOI 10.1081/FRI-120028829" .
+<http://risis.eu/wos/resource/Subagio_A2003FOOD_CHEMV81P97> <http://www.w3.org/2000/01/rdf-schema#label> "Subagio A, 2003, FOOD CHEM, V81, P97, DOI 10.1016/S0308-8146(02)00384-9" .
+<http://risis.eu/wos/resource/Olmedilla_B2003NUTRITIONV19P21> <http://www.w3.org/2000/01/rdf-schema#label> "Olmedilla B, 2003, NUTRITION, V19, P21, DOI 10.1016/S0899-9007(02)00861-4" .
+<http://risis.eu/wos/resource/SADANO_S2003> <http://www.w3.org/2000/01/rdf-schema#label> "SADANO S, 2003" .
+<http://risis.eu/wos/resource/Dwyer_JH2001CIRCULATIONV103P2922> <http://www.w3.org/2000/01/rdf-schema#label> "Dwyer JH, 2001, CIRCULATION, V103, P2922" .
+<http://risis.eu/wos/resource/KHACHIK_F2001> <http://www.w3.org/2000/01/rdf-schema#label> "KHACHIK F, 2001" .
+<http://risis.eu/wos/resource/Piccaglia_R1998IND_CROP_PRODV8P45> <http://www.w3.org/2000/01/rdf-schema#label> "Piccaglia R, 1998, IND CROP PROD, V8, P45" .
+<http://risis.eu/wos/resource/SOON_PJ1998J_NUTRV128P1650> <http://www.w3.org/2000/01/rdf-schema#label> "SOON PJ, 1998, J NUTR, V128, P1650" .
+<http://risis.eu/wos/resource/KHACHIK_F1995> <http://www.w3.org/2000/01/rdf-schema#label> "KHACHIK F, 1995" .
+<http://risis.eu/wos/resource/PHILIP_T1977> <http://www.w3.org/2000/01/rdf-schema#label> "PHILIP T, 1977" .
+<http://risis.eu/wos/resource/Vechpanich_Janya> <http://www.w3.org/2000/01/rdf-schema#label> "Vechpanich, Janya" .
+<http://risis.eu/wos/resource/Shotipruk_Artiwan> <http://www.w3.org/2000/01/rdf-schema#label> "Shotipruk, Artiwan" .
+<http://risis.eu/wos/resource/Prommuak_C2008SEP_PURIF_TECHNOLV62P444> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.seppur.2008.02.020> .
+<http://risis.eu/wos/resource/Sowbhagya_HB2004FOOD_REV_INTV20P33> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1081/FRI-120028829> .
+<http://risis.eu/wos/resource/Subagio_A2003FOOD_CHEMV81P97> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/S0308-8146(02)00384-9> .
+<http://risis.eu/wos/resource/Olmedilla_B2003NUTRITIONV19P21> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/S0899-9007(02)00861-4> .
+<http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://risis.eu/wos/vocab/AF> <http://risis.eu/wos/resource/Vechpanich_Janya> .
+<http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://risis.eu/wos/vocab/AF> <http://risis.eu/wos/resource/Shotipruk_Artiwan> .
+<http://risis.eu/wos/resource/Vechpanich_Janya> <http://www.w3.org/2004/02/skos/core#altLabel> "Vechpanich, J" .
+<http://risis.eu/wos/resource/Shotipruk_Artiwan> <http://www.w3.org/2004/02/skos/core#altLabel> "Shotipruk, A" .
+<http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://risis.eu/wos/vocab/WC> "Chemistry, Multidisciplinary" .
+<http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://risis.eu/wos/vocab/WC> "Engineering, Chemical" .
+<http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://risis.eu/wos/vocab/SC> "Chemistry" .
+<http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://risis.eu/wos/vocab/SC> "Engineering" .
+<http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://risis.eu/wos/vocab/DE> "lutein" .
+<http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://risis.eu/wos/vocab/DE> "lutein fatty acid esters" .
+<http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://risis.eu/wos/vocab/DE> "marigold flower" .
+<http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://risis.eu/wos/vocab/PT> "J" .
+<http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://risis.eu/wos/vocab/TI> "Recovery of Free Lutein From Tagetes erecta: Determination of Suitable Saponification and Crystallization Conditions" .
+<http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://risis.eu/wos/vocab/SO> "SEPARATION SCIENCE AND TECHNOLOGY" .
+<http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://risis.eu/wos/vocab/LA> "English" .
+<http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://risis.eu/wos/vocab/AB> "This study deals with the separation and purification of lutein from marigold flowers. The effects of saponification conditions such as time (0-7hr), volume to weight ratio of KOH solution to oleoresin (0.3ml:1g to 1ml:1g), and the concentration of KOH solution (25%-45% w/v) were first determined on the conversion of lutein fatty acid esters to free lutein. For 1g of oleoresin, 0.5ml of 40% v/v KOH solution was found to be the most suitable amount and concentration for the saponification of lutein esters to free lutein at 75 degrees C. Following saponification, crystallization was carried out to determine the effect of crystallization solvents (water-ethanol and water-isopropanol mixtures), the composition of the crystallization solvents (2:0.3-2:1v/v), and crystallization time (0.25-2hr) on the yield and purity of free lutein. The results revealed that crystallization of the saponified sample in water-ethanol mixture at the volume ratio of 2:0.5 for 0.5hr presented the highest yield of 99.12% of free lutein, at the purity of 85.53%." .
+<http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://risis.eu/wos/vocab/C1> "[Vechpanich, Janya; Shotipruk, Artiwan] Chulalongkorn Univ, Fac Engn, Dept Chem Engn, Bangkok 10330, Thailand" .
+<http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://risis.eu/wos/vocab/RP> "Shotipruk, A (reprint author), Chulalongkorn Univ, Fac Engn, Dept Chem Engn, Bangkok 10330, Thailand" .
+<http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://risis.eu/wos/vocab/EM> "artiwan.sh@chula.ac.th" .
+<http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://risis.eu/wos/vocab/FU> "Thailand Research Fund" .
+<http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://risis.eu/wos/vocab/FX> "Financial support from the Thailand Research Fund is gratefully acknowledged. We also appreciate PTT Chemical Co. Ltd. for the assistance in identifying the crystallization product by LC-MS analysis." .
+<http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://risis.eu/wos/vocab/NR> "14" .
+<http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://risis.eu/wos/vocab/TC> "0" .
+<http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://risis.eu/wos/vocab/Z9> "0" .
+<http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://risis.eu/wos/vocab/PU> "TAYLOR & FRANCIS INC" .
+<http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://risis.eu/wos/vocab/PI> "PHILADELPHIA" .
+<http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://risis.eu/wos/vocab/PA> "325 CHESTNUT ST, SUITE 800, PHILADELPHIA, PA 19106 USA" .
+<http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://risis.eu/wos/vocab/SN> "0149-6395" .
+<http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://risis.eu/wos/vocab/J9> "SEP SCI TECHNOL" .
+<http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://risis.eu/wos/vocab/JI> "Sep. Sci. Technol." .
+<http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://risis.eu/wos/vocab/PY> "2011" .
+<http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://risis.eu/wos/vocab/VL> "46" .
+<http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://risis.eu/wos/vocab/IS> "2" .
+<http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://risis.eu/wos/vocab/BP> "265" .
+<http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://risis.eu/wos/vocab/EP> "271" .
+<http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://risis.eu/wos/vocab/DI> "10.1080/01496395.2010.506904" .
+<http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://risis.eu/wos/vocab/PG> "7" .
+<http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://risis.eu/wos/vocab/GA> "714PY" .
+<http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://risis.eu/wos/vocab/UT> "WOS:000286822700009" .
+
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://risis.eu/wos/vocab/Article> .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Zhang_XD2009J_HAZARD_MATERV170P883> .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Guven_G2009CHEM_ENG_JV151P149> .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Kumar_M2009J_HAZARD_MATERV165P345> .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Thakur_C2009CHEM_ENG_JV148P496> .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Yatmaz_HC2009INT_J_ELECTROCHEM_SCV4P614> .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Karuppiah_MT2009IND_ENG_CHEM_RESV48P2149> .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/El-Ashtoukhy_ESZ2009CHEM_ENG_JV146P205> .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Radha_KV2009BIORESOURCE_TECHNOLV100P987> .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Raju_GB2008CHEM_ENG_JV144P51> .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Zhang_XD2008ACTA_PHYS-CHIM_SINV24P691> .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Mohan_N2007J_HAZARD_MATERV147P644> .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Malpass_GRP2007WATER_RESV41P2969> .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Muthukumar_M2007SEP_PURIF_TECHNOLV55P198> .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Linares-Hernandez_I2007J_HAZARD_MATERV144P240> .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/An_JH2007APPL_CLAY_SCIV36P256> .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Raghu_S2007J_HAZARD_MATERV139P381> .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Guo_ZR2006J_CLEAN_PRODV14P75> .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Canizares_P2005IND_ENG_CHEM_RESV44P8171> .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Gotsi_M2005WATER_RESV39P4177> .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Benitez_FJ2005CHEM_ENG_TECHNOLV28P1035> .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Szpyrkowicz_L2005WATER_RESV39P1601> .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Murugananthan_M2004SEP_PURIF_TECHNOLV40P69> .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Vlyssides_A2004ENVIRON_SCI_TECHNOLV38P6125> .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Panizza_M2004ENVIRON_SCI_TECHNOLV38P5470> .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Daneshvar_N2004J_HAZARD_MATERV112P55> .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Chen_GH2004SEP_PURIF_TECHNOLV38P11> .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Mullen_W2003PHYTOCHEMISTRYV64P617> .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Can_OT2003IND_ENG_CHEM_RESV42P3391> .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Rajkumar_D2003INDIAN_J_CHEM_TECHNV10P396> .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Kim_TH2003DESALINATIONV155P59> .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Priyadarsini_KI2002J_AGR_FOOD_CHEMV50P2200> .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Iino_T2002LIFE_SCIV70P1139> .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Minhalma_M2001ENVIRON_SCI_TECHNOLV35P4916> .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Panizza_M2001ELECTROCHEM_COMMUNV3P336> .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/WANG_P2001ENV_SCIV22P70> .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Lin_SH2000WATER_RESV34P4243> .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Amakura_Y2000J_CHROMATOGR_AV896P87> .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Serikawa_RM2000J_APPL_ELECTROCHEMV30P875> .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Buso_A2000IND_ENG_CHEM_RESV39P494> .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Narayanan_BA1999CANCER_LETTV136P215> .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/CLESCERI_LS1998STANDARD_METHODS_EXA> .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/RAJESHWAR_K1997ENV_ELECTROCHEMISTRY> .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/THRESIAMMA_KC1996INDIAN_J_PHYSL_PHARMV40P363> .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/PULGARIN_C1994WATER_RESV28P887> .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/PLETCHER_D1993IND_ELECTROCHEMISTRY> .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/LANGE_NA1967HDB_CHEM> .
+<http://risis.eu/wos/resource/Zhang_XD2009J_HAZARD_MATERV170P883> <http://www.w3.org/2000/01/rdf-schema#label> "Zhang XD, 2009, J HAZARD MATER, V170, P883, DOI 10.1016/j.jhazmat.2009.05.050" .
+<http://risis.eu/wos/resource/Guven_G2009CHEM_ENG_JV151P149> <http://www.w3.org/2000/01/rdf-schema#label> "Guven G, 2009, CHEM ENG J, V151, P149, DOI 10.1016/j.cej.2009.02.008" .
+<http://risis.eu/wos/resource/Kumar_M2009J_HAZARD_MATERV165P345> <http://www.w3.org/2000/01/rdf-schema#label> "Kumar M, 2009, J HAZARD MATER, V165, P345, DOI 10.1016/j.jhazmat.2008.10.041" .
+<http://risis.eu/wos/resource/Thakur_C2009CHEM_ENG_JV148P496> <http://www.w3.org/2000/01/rdf-schema#label> "Thakur C, 2009, CHEM ENG J, V148, P496, DOI 10.1016/j.cej.2008.09.043" .
+<http://risis.eu/wos/resource/Yatmaz_HC2009INT_J_ELECTROCHEM_SCV4P614> <http://www.w3.org/2000/01/rdf-schema#label> "Yatmaz HC, 2009, INT J ELECTROCHEM SC, V4, P614" .
+<http://risis.eu/wos/resource/Karuppiah_MT2009IND_ENG_CHEM_RESV48P2149> <http://www.w3.org/2000/01/rdf-schema#label> "Karuppiah MT, 2009, IND ENG CHEM RES, V48, P2149, DOI 10.1021/ie801291h" .
+<http://risis.eu/wos/resource/El-Ashtoukhy_ESZ2009CHEM_ENG_JV146P205> <http://www.w3.org/2000/01/rdf-schema#label> "El-Ashtoukhy ESZ, 2009, CHEM ENG J, V146, P205, DOI 10.1016/j.cej.2008.05.037" .
+<http://risis.eu/wos/resource/Radha_KV2009BIORESOURCE_TECHNOLV100P987> <http://www.w3.org/2000/01/rdf-schema#label> "Radha KV, 2009, BIORESOURCE TECHNOL, V100, P987, DOI 10.1016/j.biortech.2008.06.048" .
+<http://risis.eu/wos/resource/Raju_GB2008CHEM_ENG_JV144P51> <http://www.w3.org/2000/01/rdf-schema#label> "Raju GB, 2008, CHEM ENG J, V144, P51, DOI 10.1016/j.cej.2008.01.008" .
+<http://risis.eu/wos/resource/Zhang_XD2008ACTA_PHYS-CHIM_SINV24P691> <http://www.w3.org/2000/01/rdf-schema#label> "Zhang XD, 2008, ACTA PHYS-CHIM SIN, V24, P691" .
+<http://risis.eu/wos/resource/Mohan_N2007J_HAZARD_MATERV147P644> <http://www.w3.org/2000/01/rdf-schema#label> "Mohan N, 2007, J HAZARD MATER, V147, P644, DOI 10.1016/j.jhazmat.2007.01.063" .
+<http://risis.eu/wos/resource/Malpass_GRP2007WATER_RESV41P2969> <http://www.w3.org/2000/01/rdf-schema#label> "Malpass GRP, 2007, WATER RES, V41, P2969, DOI 10.1016/j.watres.2007.02.054" .
+<http://risis.eu/wos/resource/Muthukumar_M2007SEP_PURIF_TECHNOLV55P198> <http://www.w3.org/2000/01/rdf-schema#label> "Muthukumar M, 2007, SEP PURIF TECHNOL, V55, P198, DOI 10.1016/j.seppur.2006.11.014" .
+<http://risis.eu/wos/resource/Linares-Hernandez_I2007J_HAZARD_MATERV144P240> <http://www.w3.org/2000/01/rdf-schema#label> "Linares-Hernandez I, 2007, J HAZARD MATER, V144, P240, DOI 10.1016/j.jhazmat.2006.10.015" .
+<http://risis.eu/wos/resource/An_JH2007APPL_CLAY_SCIV36P256> <http://www.w3.org/2000/01/rdf-schema#label> "An JH, 2007, APPL CLAY SCI, V36, P256, DOI 10.1016/j.clay.2006.11.001" .
+<http://risis.eu/wos/resource/Raghu_S2007J_HAZARD_MATERV139P381> <http://www.w3.org/2000/01/rdf-schema#label> "Raghu S, 2007, J HAZARD MATER, V139, P381, DOI 10.1016/j.jhazmat.2006.06.082" .
+<http://risis.eu/wos/resource/Guo_ZR2006J_CLEAN_PRODV14P75> <http://www.w3.org/2000/01/rdf-schema#label> "Guo ZR, 2006, J CLEAN PROD, V14, P75, DOI 10.1016/j.jclepro.2005.01.005" .
+<http://risis.eu/wos/resource/Canizares_P2005IND_ENG_CHEM_RESV44P8171> <http://www.w3.org/2000/01/rdf-schema#label> "Canizares P, 2005, IND ENG CHEM RES, V44, P8171, DOI 10.1021/ie050527q" .
+<http://risis.eu/wos/resource/Gotsi_M2005WATER_RESV39P4177> <http://www.w3.org/2000/01/rdf-schema#label> "Gotsi M, 2005, WATER RES, V39, P4177, DOI 10.1016/j.watres.2005.07.037" .
+<http://risis.eu/wos/resource/Benitez_FJ2005CHEM_ENG_TECHNOLV28P1035> <http://www.w3.org/2000/01/rdf-schema#label> "Benitez FJ, 2005, CHEM ENG TECHNOL, V28, P1035, DOI 10.1002/ceat.200407155" .
+<http://risis.eu/wos/resource/Szpyrkowicz_L2005WATER_RESV39P1601> <http://www.w3.org/2000/01/rdf-schema#label> "Szpyrkowicz L, 2005, WATER RES, V39, P1601, DOI 10.1016/j.watres.2005.01.016" .
+<http://risis.eu/wos/resource/Murugananthan_M2004SEP_PURIF_TECHNOLV40P69> <http://www.w3.org/2000/01/rdf-schema#label> "Murugananthan M, 2004, SEP PURIF TECHNOL, V40, P69, DOI 10.1016/j.seppur.2004.01.005" .
+<http://risis.eu/wos/resource/Vlyssides_A2004ENVIRON_SCI_TECHNOLV38P6125> <http://www.w3.org/2000/01/rdf-schema#label> "Vlyssides A, 2004, ENVIRON SCI TECHNOL, V38, P6125, DOI 10.1021/es049726b" .
+<http://risis.eu/wos/resource/Panizza_M2004ENVIRON_SCI_TECHNOLV38P5470> <http://www.w3.org/2000/01/rdf-schema#label> "Panizza M, 2004, ENVIRON SCI TECHNOL, V38, P5470, DOI 10.1021/es049730n" .
+<http://risis.eu/wos/resource/Daneshvar_N2004J_HAZARD_MATERV112P55> <http://www.w3.org/2000/01/rdf-schema#label> "Daneshvar N, 2004, J HAZARD MATER, V112, P55, DOI 10.1016/j.jhazmat.2004.03.021" .
+<http://risis.eu/wos/resource/Chen_GH2004SEP_PURIF_TECHNOLV38P11> <http://www.w3.org/2000/01/rdf-schema#label> "Chen GH, 2004, SEP PURIF TECHNOL, V38, P11, DOI 10.1016/j.seppur.2003.10.006" .
+<http://risis.eu/wos/resource/Mullen_W2003PHYTOCHEMISTRYV64P617> <http://www.w3.org/2000/01/rdf-schema#label> "Mullen W, 2003, PHYTOCHEMISTRY, V64, P617, DOI 10.1016/S0031-9422(03)00281-4" .
+<http://risis.eu/wos/resource/Can_OT2003IND_ENG_CHEM_RESV42P3391> <http://www.w3.org/2000/01/rdf-schema#label> "Can OT, 2003, IND ENG CHEM RES, V42, P3391, DOI 10.1021/ie020951g" .
+<http://risis.eu/wos/resource/Rajkumar_D2003INDIAN_J_CHEM_TECHNV10P396> <http://www.w3.org/2000/01/rdf-schema#label> "Rajkumar D, 2003, INDIAN J CHEM TECHN, V10, P396" .
+<http://risis.eu/wos/resource/Kim_TH2003DESALINATIONV155P59> <http://www.w3.org/2000/01/rdf-schema#label> "Kim TH, 2003, DESALINATION, V155, P59" .
+<http://risis.eu/wos/resource/Priyadarsini_KI2002J_AGR_FOOD_CHEMV50P2200> <http://www.w3.org/2000/01/rdf-schema#label> "Priyadarsini KI, 2002, J AGR FOOD CHEM, V50, P2200, DOI 10.1021/jf011275g" .
+<http://risis.eu/wos/resource/Iino_T2002LIFE_SCIV70P1139> <http://www.w3.org/2000/01/rdf-schema#label> "Iino T, 2002, LIFE SCI, V70, P1139, DOI 10.1016/S0024-3205(01)01493-X" .
+<http://risis.eu/wos/resource/Minhalma_M2001ENVIRON_SCI_TECHNOLV35P4916> <http://www.w3.org/2000/01/rdf-schema#label> "Minhalma M, 2001, ENVIRON SCI TECHNOL, V35, P4916, DOI 10.1021/es010119n" .
+<http://risis.eu/wos/resource/Panizza_M2001ELECTROCHEM_COMMUNV3P336> <http://www.w3.org/2000/01/rdf-schema#label> "Panizza M, 2001, ELECTROCHEM COMMUN, V3, P336" .
+<http://risis.eu/wos/resource/WANG_P2001ENV_SCIV22P70> <http://www.w3.org/2000/01/rdf-schema#label> "WANG P, 2001, ENV SCI, V22, P70" .
+<http://risis.eu/wos/resource/Lin_SH2000WATER_RESV34P4243> <http://www.w3.org/2000/01/rdf-schema#label> "Lin SH, 2000, WATER RES, V34, P4243, DOI 10.1016/S0043-1354(00)00185-8" .
+<http://risis.eu/wos/resource/Amakura_Y2000J_CHROMATOGR_AV896P87> <http://www.w3.org/2000/01/rdf-schema#label> "Amakura Y, 2000, J CHROMATOGR A, V896, P87, DOI 10.1016/S0021-9673(00)00414-3" .
+<http://risis.eu/wos/resource/Serikawa_RM2000J_APPL_ELECTROCHEMV30P875> <http://www.w3.org/2000/01/rdf-schema#label> "Serikawa RM, 2000, J APPL ELECTROCHEM, V30, P875" .
+<http://risis.eu/wos/resource/Buso_A2000IND_ENG_CHEM_RESV39P494> <http://www.w3.org/2000/01/rdf-schema#label> "Buso A, 2000, IND ENG CHEM RES, V39, P494" .
+<http://risis.eu/wos/resource/Narayanan_BA1999CANCER_LETTV136P215> <http://www.w3.org/2000/01/rdf-schema#label> "Narayanan BA, 1999, CANCER LETT, V136, P215" .
+<http://risis.eu/wos/resource/CLESCERI_LS1998STANDARD_METHODS_EXA> <http://www.w3.org/2000/01/rdf-schema#label> "CLESCERI LS, 1998, STANDARD METHODS EXA" .
+<http://risis.eu/wos/resource/RAJESHWAR_K1997ENV_ELECTROCHEMISTRY> <http://www.w3.org/2000/01/rdf-schema#label> "RAJESHWAR K, 1997, ENV ELECTROCHEMISTRY" .
+<http://risis.eu/wos/resource/THRESIAMMA_KC1996INDIAN_J_PHYSL_PHARMV40P363> <http://www.w3.org/2000/01/rdf-schema#label> "THRESIAMMA KC, 1996, INDIAN J PHYSL PHARM, V40, P363" .
+<http://risis.eu/wos/resource/PULGARIN_C1994WATER_RESV28P887> <http://www.w3.org/2000/01/rdf-schema#label> "PULGARIN C, 1994, WATER RES, V28, P887" .
+<http://risis.eu/wos/resource/PLETCHER_D1993IND_ELECTROCHEMISTRY> <http://www.w3.org/2000/01/rdf-schema#label> "PLETCHER D, 1993, IND ELECTROCHEMISTRY" .
+<http://risis.eu/wos/resource/LANGE_NA1967HDB_CHEM> <http://www.w3.org/2000/01/rdf-schema#label> "LANGE NA, 1967, HDB CHEM" .
+<http://risis.eu/wos/resource/Muthukumar_M> <http://www.w3.org/2000/01/rdf-schema#label> "Muthukumar, M." .
+<http://risis.eu/wos/resource/Govindaraj_M> <http://www.w3.org/2000/01/rdf-schema#label> "Govindaraj, M." .
+<http://risis.eu/wos/resource/Muthusamy_A> <http://www.w3.org/2000/01/rdf-schema#label> "Muthusamy, A." .
+<http://risis.eu/wos/resource/Raju_G_Bhaskar> <http://www.w3.org/2000/01/rdf-schema#label> "Raju, G. Bhaskar" .
+<http://risis.eu/wos/resource/Zhang_XD2009J_HAZARD_MATERV170P883> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.jhazmat.2009.05.050> .
+<http://risis.eu/wos/resource/Guven_G2009CHEM_ENG_JV151P149> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.cej.2009.02.008> .
+<http://risis.eu/wos/resource/Kumar_M2009J_HAZARD_MATERV165P345> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.jhazmat.2008.10.041> .
+<http://risis.eu/wos/resource/Thakur_C2009CHEM_ENG_JV148P496> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.cej.2008.09.043> .
+<http://risis.eu/wos/resource/Karuppiah_MT2009IND_ENG_CHEM_RESV48P2149> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ie801291h> .
+<http://risis.eu/wos/resource/El-Ashtoukhy_ESZ2009CHEM_ENG_JV146P205> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.cej.2008.05.037> .
+<http://risis.eu/wos/resource/Radha_KV2009BIORESOURCE_TECHNOLV100P987> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.biortech.2008.06.048> .
+<http://risis.eu/wos/resource/Raju_GB2008CHEM_ENG_JV144P51> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.cej.2008.01.008> .
+<http://risis.eu/wos/resource/Mohan_N2007J_HAZARD_MATERV147P644> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.jhazmat.2007.01.063> .
+<http://risis.eu/wos/resource/Malpass_GRP2007WATER_RESV41P2969> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.watres.2007.02.054> .
+<http://risis.eu/wos/resource/Muthukumar_M2007SEP_PURIF_TECHNOLV55P198> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.seppur.2006.11.014> .
+<http://risis.eu/wos/resource/Linares-Hernandez_I2007J_HAZARD_MATERV144P240> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.jhazmat.2006.10.015> .
+<http://risis.eu/wos/resource/An_JH2007APPL_CLAY_SCIV36P256> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.clay.2006.11.001> .
+<http://risis.eu/wos/resource/Raghu_S2007J_HAZARD_MATERV139P381> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.jhazmat.2006.06.082> .
+<http://risis.eu/wos/resource/Guo_ZR2006J_CLEAN_PRODV14P75> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.jclepro.2005.01.005> .
+<http://risis.eu/wos/resource/Canizares_P2005IND_ENG_CHEM_RESV44P8171> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ie050527q> .
+<http://risis.eu/wos/resource/Gotsi_M2005WATER_RESV39P4177> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.watres.2005.07.037> .
+<http://risis.eu/wos/resource/Benitez_FJ2005CHEM_ENG_TECHNOLV28P1035> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1002/ceat.200407155> .
+<http://risis.eu/wos/resource/Szpyrkowicz_L2005WATER_RESV39P1601> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.watres.2005.01.016> .
+<http://risis.eu/wos/resource/Murugananthan_M2004SEP_PURIF_TECHNOLV40P69> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.seppur.2004.01.005> .
+<http://risis.eu/wos/resource/Vlyssides_A2004ENVIRON_SCI_TECHNOLV38P6125> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/es049726b> .
+<http://risis.eu/wos/resource/Panizza_M2004ENVIRON_SCI_TECHNOLV38P5470> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/es049730n> .
+<http://risis.eu/wos/resource/Daneshvar_N2004J_HAZARD_MATERV112P55> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.jhazmat.2004.03.021> .
+<http://risis.eu/wos/resource/Chen_GH2004SEP_PURIF_TECHNOLV38P11> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.seppur.2003.10.006> .
+<http://risis.eu/wos/resource/Mullen_W2003PHYTOCHEMISTRYV64P617> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/S0031-9422(03)00281-4> .
+<http://risis.eu/wos/resource/Can_OT2003IND_ENG_CHEM_RESV42P3391> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ie020951g> .
+<http://risis.eu/wos/resource/Priyadarsini_KI2002J_AGR_FOOD_CHEMV50P2200> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/jf011275g> .
+<http://risis.eu/wos/resource/Iino_T2002LIFE_SCIV70P1139> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/S0024-3205(01)01493-X> .
+<http://risis.eu/wos/resource/Minhalma_M2001ENVIRON_SCI_TECHNOLV35P4916> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/es010119n> .
+<http://risis.eu/wos/resource/Lin_SH2000WATER_RESV34P4243> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/S0043-1354(00)00185-8> .
+<http://risis.eu/wos/resource/Amakura_Y2000J_CHROMATOGR_AV896P87> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/S0021-9673(00)00414-3> .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/AF> <http://risis.eu/wos/resource/Muthukumar_M> .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/AF> <http://risis.eu/wos/resource/Govindaraj_M> .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/AF> <http://risis.eu/wos/resource/Muthusamy_A> .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/AF> <http://risis.eu/wos/resource/Raju_G_Bhaskar> .
+<http://risis.eu/wos/resource/Muthukumar_M> <http://www.w3.org/2004/02/skos/core#altLabel> "Muthukumar, M" .
+<http://risis.eu/wos/resource/Govindaraj_M> <http://www.w3.org/2004/02/skos/core#altLabel> "Govindaraj, M" .
+<http://risis.eu/wos/resource/Muthusamy_A> <http://www.w3.org/2004/02/skos/core#altLabel> "Muthusamy, A" .
+<http://risis.eu/wos/resource/Raju_G_Bhaskar> <http://www.w3.org/2004/02/skos/core#altLabel> "Raju, GB" .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/WC> "Chemistry, Multidisciplinary" .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/WC> "Engineering, Chemical" .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/SC> "Chemistry" .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/SC> "Engineering" .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/DE> "chemical oxygen demand" .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/DE> "electrocoagulation" .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/DE> "electrooxidation" .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/DE> "ellagic acid" .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/DE> "graphite electrode" .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/DE> "RuO2" .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/DE> "IrO2" .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/DE> "TaO2 coated Ti electrode" .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/ID> "WASTE-WATER TREATMENT" .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/ID> "ELECTROCHEMICAL OXIDATION" .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/ID> "ORGANIC POLLUTANTS" .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/ID> "TEXTILE-INDUSTRY" .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/ID> "ELECTRODE" .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/ID> "WASTEWATERS" .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/ID> "REACTOR" .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/ID> "DECOLORIZATION" .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/ID> "EFFLUENTS" .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/ID> "REMOVAL" .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/PT> "J" .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/TI> "Comparative Study of Electrocoagulation and Electrooxidation Processes for the Degradation of Ellagic Acid From Aqueous Solution" .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/SO> "SEPARATION SCIENCE AND TECHNOLOGY" .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/LA> "English" .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/AB> "A comparative study of electrocoagulation and electrooxidation processes for the degradation of ellagic acid from aqueous solution was carried out. For the electrocoagulation process, metallic iron was used as electrodes whereas graphite and RuO2/IrO2/TaO2 coated titanium electrodes were used for the electrooxidation processes. The effect of the process variables such as initial pH, concentration of the supporting electrolyte, applied current density, electrolysis time, and anode materials on COD removal were systematically examined and discussed. Maximum COD removal of 93% was obtained at optimum conditions by electrocoagultion using an iron electrode. The ellagic acid was degraded completely by electrooxidation using graphite electrodes under the optimum conditions. During electrooxidation, the chloride ion concentration was estimated and the effect of the Cl- ion was discussed. The finding of this study shows that an increase in the applied current density, NaCl concentration, and electrolysis time enhanced the COD removal efficiency. The UV-Vis spectra analysis confirms the degradation of ellagic acid from aqueous solution." .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/C1> "[Muthukumar, M.; Govindaraj, M.] Bharathiar Univ, Dept Environm Sci, Environm Engn & Technol Lab, Coimbatore 641046, Tamil Nadu, India; [Govindaraj, M.; Muthusamy, A.] Sri Ramakrishna Mission Vidyalaya Coll Arts & Sci, Post Grad & Res Dept Chem, Coimbatore, Tamil Nadu, India; [Raju, G. Bhaskar] Madras Ctr, Natl Met Lab, Madras, Tamil Nadu, India" .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/RP> "Muthukumar, M (reprint author), Bharathiar Univ, Dept Environm Sci, Environm Engn & Technol Lab, Coimbatore 641046, Tamil Nadu, India" .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/EM> "mmuthukumar@buc.edu.in" .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/NR> "46" .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/TC> "0" .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/Z9> "0" .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/PU> "TAYLOR & FRANCIS INC" .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/PI> "PHILADELPHIA" .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/PA> "325 CHESTNUT ST, SUITE 800, PHILADELPHIA, PA 19106 USA" .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/SN> "0149-6395" .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/J9> "SEP SCI TECHNOL" .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/JI> "Sep. Sci. Technol." .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/PY> "2011" .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/VL> "46" .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/IS> "2" .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/BP> "272" .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/EP> "282" .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/DI> "10.1080/01496395.2010.505224" .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/PG> "11" .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/GA> "714PY" .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/UT> "WOS:000286822700010" .
+
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://risis.eu/wos/vocab/Article> .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Lee_K2009MINER_ENGV22P395> .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/ACARKAN_N2009C_MIN_ENG_3_4_FEBR_LP3> .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/VALDERRAMA_L2008INT_J_MINER_PROCESSV80P75> .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/ACARKAN_N200821_WORLD_MIN_C_EXP_2P1> .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Marabini_AM2007MINER_ENGV20P1014> .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Zhu_YK2007J_UNIV_SCI_TECHNOL_BV14P9> .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/BULATOVIC_SM2007HDB_FLOTATION_REAGENV1P323> .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/BULATOVIC_S2007ENCY_SEPARATION_SCIP2965> .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Yekeler_M2006COLLOID_SURFACE_AV286P121> .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Pecina_ET2006MINER_ENGV19P904> .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Hilson_G2006J_CLEAN_PRODV14P1158> .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/HOSSEINI_SH2006MINERAL_PROCESSING_CV115P1007> .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Sen_S2005MINER_ENGV18P1086> .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Curreli_L2005MINER_ENGV18P849> .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Onal_G2005MINER_ENGV18P279> .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/ONAL_G2005INT_SEM_MIN_PROC_TECP3> .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Chryssoulis_SL2004APPL_SURF_SCIV231P265> .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/HENDRIKS_DW2004RECOVERY_GOLD_USING> .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/MEZA_LA2004RECOVERY_PLACER_GOLD> .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Allan_GC2001MINER_ENGV14P931> .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Forrest_K2001MINER_ENGV14P227> .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/LAPLANTE_AR2001REPORT_CHARACTERIZAT> .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/WOTRUBA_H20012_K_SORT_11_12_OKT_BP169> .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Teague_AJ2000INT_J_MINER_PROCESSV59P113> .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Uribe-Salas_A2000INT_J_MINER_PROCESSV59P69> .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Fuerstenau_DW2000INT_J_MINER_PROCESSV58P15> .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Teague_AJ1999INT_J_MINER_PROCESSV57P243> .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Valderrama_L1998INT_J_MINER_PROCESSV52P273> .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Monte_MBM1997INT_J_MINER_PROCESSV51P255> .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Barbaro_M1997INT_J_MINER_PROCESSV50P275> .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Bulatovic_SM1997MINER_ENGV10P895> .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Yan_DS1997MINER_ENGV10P327> .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/CROZIER_RD1992FLOTATION_THEORY_REA> .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/BASILIO_C1992ELECTROCHEMISTRY_MINV3P79> .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/GORKEN_A1992ECS_S_ST_LOUIS_LA_ELP92> .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/MARABINI_AM1984REAGENTS_MINERAL_INDP125> .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/SOMASUNDARAN_P1984REAGENTS_MINERAL_INDP209> .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/GLEMBOTSKII_VA1972FLOTATION_PRIMARY_SO> .
+<http://risis.eu/wos/resource/Lee_K2009MINER_ENGV22P395> <http://www.w3.org/2000/01/rdf-schema#label> "Lee K, 2009, MINER ENG, V22, P395, DOI 10.1016/j.mineng.2008.11.005" .
+<http://risis.eu/wos/resource/ACARKAN_N2009C_MIN_ENG_3_4_FEBR_LP3> <http://www.w3.org/2000/01/rdf-schema#label> "ACARKAN N, 2009, C MIN ENG 3 4 FEBR L, P3" .
+<http://risis.eu/wos/resource/VALDERRAMA_L2008INT_J_MINER_PROCESSV80P75> <http://www.w3.org/2000/01/rdf-schema#label> "VALDERRAMA L, 2008, INT J MINER PROCESS, V80, P75" .
+<http://risis.eu/wos/resource/ACARKAN_N200821_WORLD_MIN_C_EXP_2P1> <http://www.w3.org/2000/01/rdf-schema#label> "ACARKAN N, 2008, 21 WORLD MIN C EXP 2, P1" .
+<http://risis.eu/wos/resource/Marabini_AM2007MINER_ENGV20P1014> <http://www.w3.org/2000/01/rdf-schema#label> "Marabini AM, 2007, MINER ENG, V20, P1014, DOI 10.1016/j.mineng.2007.03.012" .
+<http://risis.eu/wos/resource/Zhu_YK2007J_UNIV_SCI_TECHNOL_BV14P9> <http://www.w3.org/2000/01/rdf-schema#label> "Zhu YK, 2007, J UNIV SCI TECHNOL B, V14, P9" .
+<http://risis.eu/wos/resource/BULATOVIC_SM2007HDB_FLOTATION_REAGENV1P323> <http://www.w3.org/2000/01/rdf-schema#label> "BULATOVIC SM, 2007, HDB FLOTATION REAGEN, V1, P323" .
+<http://risis.eu/wos/resource/BULATOVIC_S2007ENCY_SEPARATION_SCIP2965> <http://www.w3.org/2000/01/rdf-schema#label> "BULATOVIC S, 2007, ENCY SEPARATION SCI, P2965" .
+<http://risis.eu/wos/resource/Yekeler_M2006COLLOID_SURFACE_AV286P121> <http://www.w3.org/2000/01/rdf-schema#label> "Yekeler M, 2006, COLLOID SURFACE A, V286, P121, DOI 10.1016/j.colsurfa.2006.03.012" .
+<http://risis.eu/wos/resource/Pecina_ET2006MINER_ENGV19P904> <http://www.w3.org/2000/01/rdf-schema#label> "Pecina ET, 2006, MINER ENG, V19, P904, DOI 10.1016/j.mineng.2005.10.004" .
+<http://risis.eu/wos/resource/Hilson_G2006J_CLEAN_PRODV14P1158> <http://www.w3.org/2000/01/rdf-schema#label> "Hilson G, 2006, J CLEAN PROD, V14, P1158, DOI 10.1016/j.clepro.2004.09.005" .
+<http://risis.eu/wos/resource/HOSSEINI_SH2006MINERAL_PROCESSING_CV115P1007> <http://www.w3.org/2000/01/rdf-schema#label> "HOSSEINI SH, 2006, MINERAL PROCESSING C, V115, P1007" .
+<http://risis.eu/wos/resource/Sen_S2005MINER_ENGV18P1086> <http://www.w3.org/2000/01/rdf-schema#label> "Sen S, 2005, MINER ENG, V18, P1086, DOI 10.1016/j.mineng.2005.03.007" .
+<http://risis.eu/wos/resource/Curreli_L2005MINER_ENGV18P849> <http://www.w3.org/2000/01/rdf-schema#label> "Curreli L, 2005, MINER ENG, V18, P849, DOI 10.1016/j.mineng.2005.01.023" .
+<http://risis.eu/wos/resource/Onal_G2005MINER_ENGV18P279> <http://www.w3.org/2000/01/rdf-schema#label> "Onal G, 2005, MINER ENG, V18, P279, DOI 10.1016/j.mineng.2004.10.018" .
+<http://risis.eu/wos/resource/ONAL_G2005INT_SEM_MIN_PROC_TECP3> <http://www.w3.org/2000/01/rdf-schema#label> "ONAL G, 2005, INT SEM MIN PROC TEC, P3" .
+<http://risis.eu/wos/resource/Chryssoulis_SL2004APPL_SURF_SCIV231P265> <http://www.w3.org/2000/01/rdf-schema#label> "Chryssoulis SL, 2004, APPL SURF SCI, V231, P265, DOI 10.1016/j.apsusc.2004.03.058" .
+<http://risis.eu/wos/resource/HENDRIKS_DW2004RECOVERY_GOLD_USING> <http://www.w3.org/2000/01/rdf-schema#label> "HENDRIKS DW, 2004, RECOVERY GOLD USING" .
+<http://risis.eu/wos/resource/MEZA_LA2004RECOVERY_PLACER_GOLD> <http://www.w3.org/2000/01/rdf-schema#label> "MEZA LA, 2004, RECOVERY PLACER GOLD" .
+<http://risis.eu/wos/resource/Allan_GC2001MINER_ENGV14P931> <http://www.w3.org/2000/01/rdf-schema#label> "Allan GC, 2001, MINER ENG, V14, P931" .
+<http://risis.eu/wos/resource/Forrest_K2001MINER_ENGV14P227> <http://www.w3.org/2000/01/rdf-schema#label> "Forrest K, 2001, MINER ENG, V14, P227" .
+<http://risis.eu/wos/resource/LAPLANTE_AR2001REPORT_CHARACTERIZAT> <http://www.w3.org/2000/01/rdf-schema#label> "LAPLANTE AR, 2001, REPORT CHARACTERIZAT" .
+<http://risis.eu/wos/resource/WOTRUBA_H20012_K_SORT_11_12_OKT_BP169> <http://www.w3.org/2000/01/rdf-schema#label> "WOTRUBA H, 2001, 2 K SORT 11 12 OKT B, P169" .
+<http://risis.eu/wos/resource/Teague_AJ2000INT_J_MINER_PROCESSV59P113> <http://www.w3.org/2000/01/rdf-schema#label> "Teague AJ, 2000, INT J MINER PROCESS, V59, P113" .
+<http://risis.eu/wos/resource/Uribe-Salas_A2000INT_J_MINER_PROCESSV59P69> <http://www.w3.org/2000/01/rdf-schema#label> "Uribe-Salas A, 2000, INT J MINER PROCESS, V59, P69" .
+<http://risis.eu/wos/resource/Fuerstenau_DW2000INT_J_MINER_PROCESSV58P15> <http://www.w3.org/2000/01/rdf-schema#label> "Fuerstenau DW, 2000, INT J MINER PROCESS, V58, P15" .
+<http://risis.eu/wos/resource/Teague_AJ1999INT_J_MINER_PROCESSV57P243> <http://www.w3.org/2000/01/rdf-schema#label> "Teague AJ, 1999, INT J MINER PROCESS, V57, P243" .
+<http://risis.eu/wos/resource/Valderrama_L1998INT_J_MINER_PROCESSV52P273> <http://www.w3.org/2000/01/rdf-schema#label> "Valderrama L, 1998, INT J MINER PROCESS, V52, P273" .
+<http://risis.eu/wos/resource/Monte_MBM1997INT_J_MINER_PROCESSV51P255> <http://www.w3.org/2000/01/rdf-schema#label> "Monte MBM, 1997, INT J MINER PROCESS, V51, P255" .
+<http://risis.eu/wos/resource/Barbaro_M1997INT_J_MINER_PROCESSV50P275> <http://www.w3.org/2000/01/rdf-schema#label> "Barbaro M, 1997, INT J MINER PROCESS, V50, P275" .
+<http://risis.eu/wos/resource/Bulatovic_SM1997MINER_ENGV10P895> <http://www.w3.org/2000/01/rdf-schema#label> "Bulatovic SM, 1997, MINER ENG, V10, P895" .
+<http://risis.eu/wos/resource/Yan_DS1997MINER_ENGV10P327> <http://www.w3.org/2000/01/rdf-schema#label> "Yan DS, 1997, MINER ENG, V10, P327" .
+<http://risis.eu/wos/resource/CROZIER_RD1992FLOTATION_THEORY_REA> <http://www.w3.org/2000/01/rdf-schema#label> "CROZIER RD, 1992, FLOTATION THEORY REA" .
+<http://risis.eu/wos/resource/BASILIO_C1992ELECTROCHEMISTRY_MINV3P79> <http://www.w3.org/2000/01/rdf-schema#label> "BASILIO C, 1992, ELECTROCHEMISTRY MIN, V3, P79" .
+<http://risis.eu/wos/resource/GORKEN_A1992ECS_S_ST_LOUIS_LA_ELP92> <http://www.w3.org/2000/01/rdf-schema#label> "GORKEN A, 1992, ECS S ST LOUIS LA EL, P92" .
+<http://risis.eu/wos/resource/MARABINI_AM1984REAGENTS_MINERAL_INDP125> <http://www.w3.org/2000/01/rdf-schema#label> "MARABINI AM, 1984, REAGENTS MINERAL IND, P125" .
+<http://risis.eu/wos/resource/SOMASUNDARAN_P1984REAGENTS_MINERAL_INDP209> <http://www.w3.org/2000/01/rdf-schema#label> "SOMASUNDARAN P, 1984, REAGENTS MINERAL IND, P209" .
+<http://risis.eu/wos/resource/GLEMBOTSKII_VA1972FLOTATION_PRIMARY_SO> <http://www.w3.org/2000/01/rdf-schema#label> "GLEMBOTSKII VA, 1972, FLOTATION PRIMARY SO" .
+<http://risis.eu/wos/resource/Acarkan_Neset> <http://www.w3.org/2000/01/rdf-schema#label> "Acarkan, Neset" .
+<http://risis.eu/wos/resource/Bulut_Gulay> <http://www.w3.org/2000/01/rdf-schema#label> "Bulut, Gulay" .
+<http://risis.eu/wos/resource/Gul_Alim> <http://www.w3.org/2000/01/rdf-schema#label> "Gul, Alim" .
+<http://risis.eu/wos/resource/Kangal_Olgac> <http://www.w3.org/2000/01/rdf-schema#label> "Kangal, Olgac" .
+<http://risis.eu/wos/resource/Karakas_Firat> <http://www.w3.org/2000/01/rdf-schema#label> "Karakas, Firat" .
+<http://risis.eu/wos/resource/Kokkilic_Ozan> <http://www.w3.org/2000/01/rdf-schema#label> "Kokkilic, Ozan" .
+<http://risis.eu/wos/resource/Onal_Guven> <http://www.w3.org/2000/01/rdf-schema#label> "Onal, Guven" .
+<http://risis.eu/wos/resource/Lee_K2009MINER_ENGV22P395> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.mineng.2008.11.005> .
+<http://risis.eu/wos/resource/Marabini_AM2007MINER_ENGV20P1014> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.mineng.2007.03.012> .
+<http://risis.eu/wos/resource/Yekeler_M2006COLLOID_SURFACE_AV286P121> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.colsurfa.2006.03.012> .
+<http://risis.eu/wos/resource/Pecina_ET2006MINER_ENGV19P904> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.mineng.2005.10.004> .
+<http://risis.eu/wos/resource/Hilson_G2006J_CLEAN_PRODV14P1158> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.clepro.2004.09.005> .
+<http://risis.eu/wos/resource/Sen_S2005MINER_ENGV18P1086> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.mineng.2005.03.007> .
+<http://risis.eu/wos/resource/Curreli_L2005MINER_ENGV18P849> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.mineng.2005.01.023> .
+<http://risis.eu/wos/resource/Onal_G2005MINER_ENGV18P279> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.mineng.2004.10.018> .
+<http://risis.eu/wos/resource/Chryssoulis_SL2004APPL_SURF_SCIV231P265> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.apsusc.2004.03.058> .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/AF> <http://risis.eu/wos/resource/Acarkan_Neset> .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/AF> <http://risis.eu/wos/resource/Bulut_Gulay> .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/AF> <http://risis.eu/wos/resource/Gul_Alim> .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/AF> <http://risis.eu/wos/resource/Kangal_Olgac> .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/AF> <http://risis.eu/wos/resource/Karakas_Firat> .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/AF> <http://risis.eu/wos/resource/Kokkilic_Ozan> .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/AF> <http://risis.eu/wos/resource/Onal_Guven> .
+<http://risis.eu/wos/resource/Acarkan_Neset> <http://www.w3.org/2004/02/skos/core#altLabel> "Acarkan, N" .
+<http://risis.eu/wos/resource/Bulut_Gulay> <http://www.w3.org/2004/02/skos/core#altLabel> "Bulut, G" .
+<http://risis.eu/wos/resource/Gul_Alim> <http://www.w3.org/2004/02/skos/core#altLabel> "Gul, A" .
+<http://risis.eu/wos/resource/Kangal_Olgac> <http://www.w3.org/2004/02/skos/core#altLabel> "Kangal, O" .
+<http://risis.eu/wos/resource/Karakas_Firat> <http://www.w3.org/2004/02/skos/core#altLabel> "Karakas, F" .
+<http://risis.eu/wos/resource/Kokkilic_Ozan> <http://www.w3.org/2004/02/skos/core#altLabel> "Kokkilic, O" .
+<http://risis.eu/wos/resource/Onal_Guven> <http://www.w3.org/2004/02/skos/core#altLabel> "Onal, G" .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/WC> "Chemistry, Multidisciplinary" .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/WC> "Engineering, Chemical" .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/SC> "Chemistry" .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/SC> "Engineering" .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/DE> "chelating reagent" .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/DE> "flotation" .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/DE> "gold" .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/DE> "silver" .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/ID> "REFRACTORY GOLD" .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/ID> "SELECTIVE FLOTATION" .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/ID> "CHELATING-AGENTS" .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/ID> "FROTH FLOTATION" .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/ID> "PYRITE" .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/ID> "BEHAVIOR" .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/ID> "RECOVERY" .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/ID> "MINERALS" .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/PT> "J" .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/TI> "The Effect of Collector's Type on Gold and Silver Flotation in a Complex Ore" .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/SO> "SEPARATION SCIENCE AND TECHNOLOGY" .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/LA> "English" .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/AB> "Gold and silver are recovered by gravity concentration, cyanidation, or flotation from ores. The choice of those processes depends on the mineralogical characterization as well as gold and silver contents of the ore. Flotation has been applied on ores containing free gold and silver particles for many years. The flotation efficiency of gold and silver particles depends on the modifiers and collectors. This paper presents the results of the effect of different collector combinations on gold and silver recoveries from lead and zinc ores by flotation. Best results were obtained on the use of Aero 208+Aerophine 3418 A as collectors at the dosages of 350+350g/t and 1000g/t Na2SiO3 as a depressant at pH 4.5 where particle size was below 38 mu m. According to the process, a concentrate assaying 1026.9g/t Au and 10185g/t Ag was obtained. On the other hand, a concentrate containing 50.6% Pb was obtained with 39.7% recovery using potassium amyl xanthate (KAX) and aminothiophenol (ATP). This concentrate graded 235g/t Au and 3740g/t Ag." .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/C1> "[Acarkan, Neset; Bulut, Gulay; Gul, Alim; Kangal, Olgac; Karakas, Firat; Kokkilic, Ozan; Onal, Guven] Istanbul Tech Univ, Fac Mines, Mineral Proc Engn Dept, TR-34469 Maslak, Turkey" .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/RP> "Acarkan, N (reprint author), Istanbul Tech Univ, Fac Mines, Mineral Proc Engn Dept, TR-34469 Maslak, Turkey" .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/EM> "acarkan@itu.edu.tr" .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/NR> "38" .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/TC> "0" .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/Z9> "0" .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/PU> "TAYLOR & FRANCIS INC" .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/PI> "PHILADELPHIA" .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/PA> "325 CHESTNUT ST, SUITE 800, PHILADELPHIA, PA 19106 USA" .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/SN> "0149-6395" .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/J9> "SEP SCI TECHNOL" .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/JI> "Sep. Sci. Technol." .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/PY> "2011" .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/VL> "46" .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/IS> "2" .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/BP> "283" .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/EP> "289" .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/DI> "10.1080/01496395.2010.512029" .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/PG> "7" .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/GA> "714PY" .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/UT> "WOS:000286822700011" .
+
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://risis.eu/wos/vocab/Article> .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Yuan_P2010J_HAZARD_MATERV173P614> .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Gupta_S2009CHEM_ENG_JV150P352> .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Yuan_P2009J_HAZARD_MATERV166P821> .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Sengil_IA2009J_HAZARD_MATERV166P1488> .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Li_YJ2009WATER_RESV43P3067> .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Gupta_S2009J_ENVIRON_MANAGEV90P3013> .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Hu_J2009J_HAZARD_MATERV162P1542> .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Levankumar_L2009J_HAZARD_MATERV161P709> .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Singh_V2008IND_ENG_CHEM_RESV47P5267> .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Krishnani_KK2008J_HAZARD_MATERV153P1222> .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Park_HJ2008IND_ENG_CHEM_RESV47P3401> .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Usman_ARA2008GEODERMAV144P334> .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Fang_J2007ENVIRON_SCI_TECHNOLV41P4748> .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Manning_BA2007ENVIRON_SCI_TECHNOLV41P586> .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Liu_Y2007SEPAR_SCI_TECHNOLV42P185> .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Bhattacharyya_KG2006IND_ENG_CHEM_RESV45P7232> .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Park_D2006IND_ENG_CHEM_RESV45P5059> .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/LIU_Y2006J_SICHUAN_U_ENG_SCIV38P92> .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Deng_SB2005ENVIRON_SCI_TECHNOLV39P8490> .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Fathima_NN2005ENVIRON_SCI_TECHNOLV39P2804> .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/LIU_Y2005J_SICHUAN_U_ENG_SCIV37P62> .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Sekar_M2004J_COLLOID_INTERF_SCIV279P307> .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Ochola_CE2004ENVIRON_SCI_TECHNOLV38P6161> .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Legrand_L2004ENVIRON_SCI_TECHNOLV38P4587> .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Das_NN2004J_COLLOID_INTERF_SCIV270P1> .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Mathialagan_T2003SEPAR_SCI_TECHNOLV38P57> .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Gardea-Torresdey_JL2002MICROCHEM_JV71P157> .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Hamadi_NK2001CHEM_ENG_JV84P95> .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Schmuhl_R2001WATER_SAV27P1> .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Qiu_SR2000LANGMUIRV16P2230> .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Ho_YS2000WATER_RESV34P735> .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Ho_YS1999PROCESS_BIOCHEMV34P451> .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/Bors_J1997CLAY_MINERV32P21> .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/TAN_KH1996SOIL_SAMPLING_PREPAR> .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/KATZ_SA1993J_APPL_TOXICOLV13P217> .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/DAS_NC1992WATER_ENVIRON_RESV64P852> .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/VALI_H1992CLAY_MINERV27P185> .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/CR> <http://risis.eu/wos/resource/BROOKS_CS1991METAL_RECOVERY_IND_W> .
+<http://risis.eu/wos/resource/Yuan_P2010J_HAZARD_MATERV173P614> <http://www.w3.org/2000/01/rdf-schema#label> "Yuan P, 2010, J HAZARD MATER, V173, P614, DOI 10.1016/j.jhazmat.2009.08.129" .
+<http://risis.eu/wos/resource/Gupta_S2009CHEM_ENG_JV150P352> <http://www.w3.org/2000/01/rdf-schema#label> "Gupta S, 2009, CHEM ENG J, V150, P352, DOI 10.1016/j.cej.2009.01.013" .
+<http://risis.eu/wos/resource/Yuan_P2009J_HAZARD_MATERV166P821> <http://www.w3.org/2000/01/rdf-schema#label> "Yuan P, 2009, J HAZARD MATER, V166, P821, DOI 10.1016/j.jhazmat.2008.11.083" .
+<http://risis.eu/wos/resource/Sengil_IA2009J_HAZARD_MATERV166P1488> <http://www.w3.org/2000/01/rdf-schema#label> "Sengil IA, 2009, J HAZARD MATER, V166, P1488, DOI 10.1016/j.jhazmat.2008.12.071" .
+<http://risis.eu/wos/resource/Li_YJ2009WATER_RESV43P3067> <http://www.w3.org/2000/01/rdf-schema#label> "Li YJ, 2009, WATER RES, V43, P3067, DOI 10.1016/j.watres.2009.04.008" .
+<http://risis.eu/wos/resource/Gupta_S2009J_ENVIRON_MANAGEV90P3013> <http://www.w3.org/2000/01/rdf-schema#label> "Gupta S, 2009, J ENVIRON MANAGE, V90, P3013, DOI 10.1016/j.jenvman.2009.04.006" .
+<http://risis.eu/wos/resource/Hu_J2009J_HAZARD_MATERV162P1542> <http://www.w3.org/2000/01/rdf-schema#label> "Hu J, 2009, J HAZARD MATER, V162, P1542, DOI 10.1016/j.jhazmat.2008.06.058" .
+<http://risis.eu/wos/resource/Levankumar_L2009J_HAZARD_MATERV161P709> <http://www.w3.org/2000/01/rdf-schema#label> "Levankumar L, 2009, J HAZARD MATER, V161, P709, DOI 10.1016/j.jhazmat.2008.04.031" .
+<http://risis.eu/wos/resource/Singh_V2008IND_ENG_CHEM_RESV47P5267> <http://www.w3.org/2000/01/rdf-schema#label> "Singh V, 2008, IND ENG CHEM RES, V47, P5267, DOI 10.1021/ie070467j" .
+<http://risis.eu/wos/resource/Krishnani_KK2008J_HAZARD_MATERV153P1222> <http://www.w3.org/2000/01/rdf-schema#label> "Krishnani KK, 2008, J HAZARD MATER, V153, P1222, DOI 10.1016/j.jhazmat.2007.09.113" .
+<http://risis.eu/wos/resource/Park_HJ2008IND_ENG_CHEM_RESV47P3401> <http://www.w3.org/2000/01/rdf-schema#label> "Park HJ, 2008, IND ENG CHEM RES, V47, P3401, DOI 10.1021/ie7017096" .
+<http://risis.eu/wos/resource/Usman_ARA2008GEODERMAV144P334> <http://www.w3.org/2000/01/rdf-schema#label> "Usman ARA, 2008, GEODERMA, V144, P334, DOI 10.1016/j.geoderma.2007.12.004" .
+<http://risis.eu/wos/resource/Fang_J2007ENVIRON_SCI_TECHNOLV41P4748> <http://www.w3.org/2000/01/rdf-schema#label> "Fang J, 2007, ENVIRON SCI TECHNOL, V41, P4748, DOI 10.1021/es061969b" .
+<http://risis.eu/wos/resource/Manning_BA2007ENVIRON_SCI_TECHNOLV41P586> <http://www.w3.org/2000/01/rdf-schema#label> "Manning BA, 2007, ENVIRON SCI TECHNOL, V41, P586, DOI 10.1021/es061721m" .
+<http://risis.eu/wos/resource/Liu_Y2007SEPAR_SCI_TECHNOLV42P185> <http://www.w3.org/2000/01/rdf-schema#label> "Liu Y, 2007, SEPAR SCI TECHNOL, V42, P185, DOI 10.1080/01496390600998045" .
+<http://risis.eu/wos/resource/Bhattacharyya_KG2006IND_ENG_CHEM_RESV45P7232> <http://www.w3.org/2000/01/rdf-schema#label> "Bhattacharyya KG, 2006, IND ENG CHEM RES, V45, P7232, DOI 10.1021/ie060586j" .
+<http://risis.eu/wos/resource/Park_D2006IND_ENG_CHEM_RESV45P5059> <http://www.w3.org/2000/01/rdf-schema#label> "Park D, 2006, IND ENG CHEM RES, V45, P5059, DOI 10.1021/ie060002d" .
+<http://risis.eu/wos/resource/LIU_Y2006J_SICHUAN_U_ENG_SCIV38P92> <http://www.w3.org/2000/01/rdf-schema#label> "LIU Y, 2006, J SICHUAN U ENG SCI, V38, P92" .
+<http://risis.eu/wos/resource/Deng_SB2005ENVIRON_SCI_TECHNOLV39P8490> <http://www.w3.org/2000/01/rdf-schema#label> "Deng SB, 2005, ENVIRON SCI TECHNOL, V39, P8490, DOI 10.1021/es050697u" .
+<http://risis.eu/wos/resource/Fathima_NN2005ENVIRON_SCI_TECHNOLV39P2804> <http://www.w3.org/2000/01/rdf-schema#label> "Fathima NN, 2005, ENVIRON SCI TECHNOL, V39, P2804, DOI 10.1021/es0499389" .
+<http://risis.eu/wos/resource/LIU_Y2005J_SICHUAN_U_ENG_SCIV37P62> <http://www.w3.org/2000/01/rdf-schema#label> "LIU Y, 2005, J SICHUAN U ENG SCI, V37, P62" .
+<http://risis.eu/wos/resource/Sekar_M2004J_COLLOID_INTERF_SCIV279P307> <http://www.w3.org/2000/01/rdf-schema#label> "Sekar M, 2004, J COLLOID INTERF SCI, V279, P307, DOI 10.1016/j.jcis.2004.06.042" .
+<http://risis.eu/wos/resource/Ochola_CE2004ENVIRON_SCI_TECHNOLV38P6161> <http://www.w3.org/2000/01/rdf-schema#label> "Ochola CE, 2004, ENVIRON SCI TECHNOL, V38, P6161, DOI 10.1021/es0496701" .
+<http://risis.eu/wos/resource/Legrand_L2004ENVIRON_SCI_TECHNOLV38P4587> <http://www.w3.org/2000/01/rdf-schema#label> "Legrand L, 2004, ENVIRON SCI TECHNOL, V38, P4587, DOI 10.1021/es035447x" .
+<http://risis.eu/wos/resource/Das_NN2004J_COLLOID_INTERF_SCIV270P1> <http://www.w3.org/2000/01/rdf-schema#label> "Das NN, 2004, J COLLOID INTERF SCI, V270, P1, DOI 10.1016/S0021-9797(03)00400-4" .
+<http://risis.eu/wos/resource/Mathialagan_T2003SEPAR_SCI_TECHNOLV38P57> <http://www.w3.org/2000/01/rdf-schema#label> "Mathialagan T, 2003, SEPAR SCI TECHNOL, V38, P57, DOI 10.1081/SS-120016698" .
+<http://risis.eu/wos/resource/Gardea-Torresdey_JL2002MICROCHEM_JV71P157> <http://www.w3.org/2000/01/rdf-schema#label> "Gardea-Torresdey JL, 2002, MICROCHEM J, V71, P157" .
+<http://risis.eu/wos/resource/Hamadi_NK2001CHEM_ENG_JV84P95> <http://www.w3.org/2000/01/rdf-schema#label> "Hamadi NK, 2001, CHEM ENG J, V84, P95" .
+<http://risis.eu/wos/resource/Schmuhl_R2001WATER_SAV27P1> <http://www.w3.org/2000/01/rdf-schema#label> "Schmuhl R, 2001, WATER SA, V27, P1" .
+<http://risis.eu/wos/resource/Qiu_SR2000LANGMUIRV16P2230> <http://www.w3.org/2000/01/rdf-schema#label> "Qiu SR, 2000, LANGMUIR, V16, P2230" .
+<http://risis.eu/wos/resource/Ho_YS2000WATER_RESV34P735> <http://www.w3.org/2000/01/rdf-schema#label> "Ho YS, 2000, WATER RES, V34, P735, DOI 10.1016/S0043-1354(99)00232-8" .
+<http://risis.eu/wos/resource/Ho_YS1999PROCESS_BIOCHEMV34P451> <http://www.w3.org/2000/01/rdf-schema#label> "Ho YS, 1999, PROCESS BIOCHEM, V34, P451" .
+<http://risis.eu/wos/resource/Bors_J1997CLAY_MINERV32P21> <http://www.w3.org/2000/01/rdf-schema#label> "Bors J, 1997, CLAY MINER, V32, P21" .
+<http://risis.eu/wos/resource/TAN_KH1996SOIL_SAMPLING_PREPAR> <http://www.w3.org/2000/01/rdf-schema#label> "TAN KH, 1996, SOIL SAMPLING PREPAR" .
+<http://risis.eu/wos/resource/KATZ_SA1993J_APPL_TOXICOLV13P217> <http://www.w3.org/2000/01/rdf-schema#label> "KATZ SA, 1993, J APPL TOXICOL, V13, P217" .
+<http://risis.eu/wos/resource/DAS_NC1992WATER_ENVIRON_RESV64P852> <http://www.w3.org/2000/01/rdf-schema#label> "DAS NC, 1992, WATER ENVIRON RES, V64, P852" .
+<http://risis.eu/wos/resource/VALI_H1992CLAY_MINERV27P185> <http://www.w3.org/2000/01/rdf-schema#label> "VALI H, 1992, CLAY MINER, V27, P185" .
+<http://risis.eu/wos/resource/BROOKS_CS1991METAL_RECOVERY_IND_W> <http://www.w3.org/2000/01/rdf-schema#label> "BROOKS CS, 1991, METAL RECOVERY IND W" .
+<http://risis.eu/wos/resource/Liu_Yong> <http://www.w3.org/2000/01/rdf-schema#label> "Liu, Yong" .
+<http://risis.eu/wos/resource/Li_Hui> <http://www.w3.org/2000/01/rdf-schema#label> "Li, Hui" .
+<http://risis.eu/wos/resource/Tan_Guang-Qun> <http://www.w3.org/2000/01/rdf-schema#label> "Tan, Guang-Qun" .
+<http://risis.eu/wos/resource/Zhu_Xiao-hong> <http://www.w3.org/2000/01/rdf-schema#label> "Zhu, Xiao-hong" .
+<http://risis.eu/wos/resource/Yuan_P2010J_HAZARD_MATERV173P614> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.jhazmat.2009.08.129> .
+<http://risis.eu/wos/resource/Gupta_S2009CHEM_ENG_JV150P352> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.cej.2009.01.013> .
+<http://risis.eu/wos/resource/Yuan_P2009J_HAZARD_MATERV166P821> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.jhazmat.2008.11.083> .
+<http://risis.eu/wos/resource/Sengil_IA2009J_HAZARD_MATERV166P1488> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.jhazmat.2008.12.071> .
+<http://risis.eu/wos/resource/Li_YJ2009WATER_RESV43P3067> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.watres.2009.04.008> .
+<http://risis.eu/wos/resource/Gupta_S2009J_ENVIRON_MANAGEV90P3013> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.jenvman.2009.04.006> .
+<http://risis.eu/wos/resource/Hu_J2009J_HAZARD_MATERV162P1542> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.jhazmat.2008.06.058> .
+<http://risis.eu/wos/resource/Levankumar_L2009J_HAZARD_MATERV161P709> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.jhazmat.2008.04.031> .
+<http://risis.eu/wos/resource/Singh_V2008IND_ENG_CHEM_RESV47P5267> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ie070467j> .
+<http://risis.eu/wos/resource/Krishnani_KK2008J_HAZARD_MATERV153P1222> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.jhazmat.2007.09.113> .
+<http://risis.eu/wos/resource/Park_HJ2008IND_ENG_CHEM_RESV47P3401> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ie7017096> .
+<http://risis.eu/wos/resource/Usman_ARA2008GEODERMAV144P334> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.geoderma.2007.12.004> .
+<http://risis.eu/wos/resource/Fang_J2007ENVIRON_SCI_TECHNOLV41P4748> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/es061969b> .
+<http://risis.eu/wos/resource/Manning_BA2007ENVIRON_SCI_TECHNOLV41P586> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/es061721m> .
+<http://risis.eu/wos/resource/Liu_Y2007SEPAR_SCI_TECHNOLV42P185> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1080/01496390600998045> .
+<http://risis.eu/wos/resource/Bhattacharyya_KG2006IND_ENG_CHEM_RESV45P7232> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ie060586j> .
+<http://risis.eu/wos/resource/Park_D2006IND_ENG_CHEM_RESV45P5059> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/ie060002d> .
+<http://risis.eu/wos/resource/Deng_SB2005ENVIRON_SCI_TECHNOLV39P8490> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/es050697u> .
+<http://risis.eu/wos/resource/Fathima_NN2005ENVIRON_SCI_TECHNOLV39P2804> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/es0499389> .
+<http://risis.eu/wos/resource/Sekar_M2004J_COLLOID_INTERF_SCIV279P307> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.jcis.2004.06.042> .
+<http://risis.eu/wos/resource/Ochola_CE2004ENVIRON_SCI_TECHNOLV38P6161> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/es0496701> .
+<http://risis.eu/wos/resource/Legrand_L2004ENVIRON_SCI_TECHNOLV38P4587> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1021/es035447x> .
+<http://risis.eu/wos/resource/Das_NN2004J_COLLOID_INTERF_SCIV270P1> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/S0021-9797(03)00400-4> .
+<http://risis.eu/wos/resource/Mathialagan_T2003SEPAR_SCI_TECHNOLV38P57> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1081/SS-120016698> .
+<http://risis.eu/wos/resource/Ho_YS2000WATER_RESV34P735> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/S0043-1354(99)00232-8> .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/AF> <http://risis.eu/wos/resource/Liu_Yong> .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/AF> <http://risis.eu/wos/resource/Li_Hui> .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/AF> <http://risis.eu/wos/resource/Tan_Guang-Qun> .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/AF> <http://risis.eu/wos/resource/Zhu_Xiao-hong> .
+<http://risis.eu/wos/resource/Liu_Yong> <http://www.w3.org/2004/02/skos/core#altLabel> "Liu, Y" .
+<http://risis.eu/wos/resource/Li_Hui> <http://www.w3.org/2004/02/skos/core#altLabel> "Li, H" .
+<http://risis.eu/wos/resource/Tan_Guang-Qun> <http://www.w3.org/2004/02/skos/core#altLabel> "Tan, GQ" .
+<http://risis.eu/wos/resource/Zhu_Xiao-hong> <http://www.w3.org/2004/02/skos/core#altLabel> "Zhu, XH" .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/WC> "Chemistry, Multidisciplinary" .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/WC> "Engineering, Chemical" .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/SC> "Chemistry" .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/SC> "Engineering" .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/DE> "adsorption" .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/DE> "Cr (VI) anion" .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/DE> "Fe2+-modified vermiculite" .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/DE> "mechanism" .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/ID> "ADSORPTION" .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/ID> "CR(VI)" .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/ID> "KINETICS" .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/ID> "EQUILIBRIUM" .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/ID> "BIOSORPTION" .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/ID> "MECHANISM" .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/ID> "SORPTION" .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/ID> "WASTE" .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/ID> "IONS" .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/ID> "IRON" .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/PT> "J" .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/TI> "Fe2+-modified Vermiculite for the Removal of Chromium (VI) from Aqueous Solution" .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/SO> "SEPARATION SCIENCE AND TECHNOLOGY" .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/LA> "English" .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/AB> "A novel adsorbent: Fe2+-modified vermiculite was prepared in a two-step reaction. Adsorption experiments were carried out as a function of pH, contact time, and concentration of Cr(VI). It was found that Fe2+-modified vermiculite was particularly effective for the removal of Cr(VI) at pH 1.0. The adsorption of Cr(VI) reached equilibrium within 60min, and the pseudo-second-order kinetic model best described the adsorption kinetics. The adsorption data follow the Langmuir model more than the Freundlich model. At pH 1.0, the maximum Cr(VI) sorption capacity (Qmax) was 87.72mg center dot g-1. Desorption of Cr(VI) from Fe2+-modified vermiculite using NaOH treatment exhibited a higher desorption efficiency by more than 80%. The sorption mechanisms including electrostatic interaction and reduction were involved in the Cr (VI) removal. The results showed that Fe2+-modified vermiculite can be used as a new adsorbent for Cr(VI) removal which has a higher adsorption capacity and a faster adsorption rate." .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/C1> "[Li, Hui; Tan, Guang-Qun] Sichuan Univ, Dept Chem Engn, Chengdu 610065, Sichuan, Peoples R China; [Liu, Yong; Zhu, Xiao-hong] Sichuan Univ, Anal & Testing Ctr, Chengdu 610065, Sichuan, Peoples R China" .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/RP> "Li, H (reprint author), Sichuan Univ, Dept Chem Engn, Chengdu 610065, Sichuan, Peoples R China" .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/EM> "lihuilab@sina.com" .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/NR> "38" .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/TC> "0" .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/Z9> "0" .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/PU> "TAYLOR & FRANCIS INC" .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/PI> "PHILADELPHIA" .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/PA> "325 CHESTNUT ST, SUITE 800, PHILADELPHIA, PA 19106 USA" .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/SN> "0149-6395" .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/J9> "SEP SCI TECHNOL" .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/JI> "Sep. Sci. Technol." .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/PY> "2011" .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/VL> "46" .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/IS> "2" .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/BP> "290" .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/EP> "299" .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/DI> "10.1080/01496395.2010.491493" .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/PG> "10" .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/GA> "714PY" .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/UT> "WOS:000286822700012" .
+
