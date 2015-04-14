@@ -7,4 +7,4 @@ To convert TSV files:
 
 To convert ISI files:
 
-`./isi_n3 [path to your tsv file]`
+`./isi_n3 [path to your isi file]`
