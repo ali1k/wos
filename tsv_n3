@@ -26,20 +26,30 @@ var source = process.argv[2],
         lineCount = 0,
         current_record={}, records = [];
 
-input = byline(fs.createReadStream(source)).on('data', function (line) {
-  lineCount++;
-  processor(line);
+// Open HTTP stream if the source is a URL
+if (source.match(/^https?:\/\//))
+    http.request(source, processStream).end();
+// Open a file stream otherwise
+else
+    processStream(fs.createReadStream(source));
 
-}).on('end', function () {
-  //addign the last record
-  records.push(current_record);
-  current_record={};
-  // console.log('Finished conversion');
-  // console.log(_.size(records)+ ' records were converted!');
-  //preparing records
-  var fixed_records=fix_records(records);
-  // console.log(fixed_records[0]);
-});
+/* Process the specified input stream */
+function processStream(inputStream) {
+  input = byline(inputStream).on('data', function (line) {
+    lineCount++;
+    processor(line);
+
+  }).on('end', function () {
+    //addign the last record
+    records.push(current_record);
+    current_record={};
+    // console.log('Finished conversion');
+    // console.log(_.size(records)+ ' records were converted!');
+    //preparing records
+    var fixed_records=fix_records(records);
+    // console.log(fixed_records[0]);
+  });
+}
 
 /* Process the header line of a TSV file. */
 function processHeader(line) {

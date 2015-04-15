@@ -16,21 +16,31 @@ var fs = require('fs'),
     http = require('http'),
     byline = require('byline');
 
+
 // console.log('Starting...');
 
 var source = process.argv[2],
 current_record={}, records = [], record_type, record_value;
 
-input = byline(fs.createReadStream(source)).on('data', function (line) {
-  processor(line);
+// Open HTTP stream if the source is a URL
+if (source.match(/^https?:\/\//))
+    http.request(source, processStream).end();
+// Open a file stream otherwise
+else
+    processStream(fs.createReadStream(source));
 
-}).on('end', function () {
-  // console.log('Finished conversion');
-  // console.log(_.size(records)+ ' records were converted!');
-  var fixed_records=fix_records(records);
-  //  console.log(fixed_records[1]);
-});
+/* Process the specified input stream */
+function processStream(inputStream) {
+  input = byline(inputStream).on('data', function (line) {
+    processor(line);
 
+  }).on('end', function () {
+    // console.log('Finished conversion');
+    // console.log(_.size(records)+ ' records were converted!');
+    var fixed_records=fix_records(records);
+    //  console.log(fixed_records[1]);
+  });
+}
 
 /* Process a record line */
 function processor(line) {
