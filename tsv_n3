@@ -88,16 +88,17 @@ function processRecord(line) {
   _.forEach(fields, function(field, k) {
     //remove redundant null chars
       cleanedFieldValue=_.trim(field).replace(/\0/g, '');
-      if(cleanedFieldValue){
-        if(cleanedFieldValue=='\r'){
-          records.push(current_record);
-          current_record={};
-          // console.log('------------------------------------------------------------------------');
-        }else{
-          current_record[fieldNames[k]]=cleanedFieldValue;
-          // console.log(fieldNames[k], '--> '+FieldTag[fieldNames[k]]);
-          // console.log(cleanedFieldValue);
-          // console.log('*******************************************');
+      if(k==fieldNames.length){
+        //end of record
+        records.push(current_record);
+        current_record={};
+        // console.log('------------------------------------------------------------------------');
+      }else{
+        if(cleanedFieldValue){
+            current_record[fieldNames[k]]=cleanedFieldValue;
+            // console.log(fieldNames[k], '--> '+FieldTag[fieldNames[k]]);
+            // console.log(cleanedFieldValue);
+            // console.log('*******************************************');
         }
       }
 
