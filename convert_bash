@@ -1,0 +1,14 @@
+#!/bin/bash
+source="./test/dump/1"
+dest="./test/dump/rdf"
+for dir in $source/*; do
+  for f in $dir/*.txt; do
+    echo " coverting \"$f\" to RDF...";
+    filename=$(basename "$f")
+    extension="${filename##*.}"
+    filename="${filename%.*}"
+    ./tsv_n3 "$f" > "$dest/$filename.n3";
+    #./isi_n3 "$f" > "../test/dump/rdf/$filename.n3";
+    echo " done... RDF available at $dest/$filename.n3";
+  done
+done
