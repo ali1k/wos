@@ -1,4 +1,5 @@
 <http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://risis.eu/wos/vocab/Article> .
+<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://www.w3.org/2002/07/owl#sameAs> <urn:WOS:000286822700008> .
 <http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1080/01496395.2010.509078> .
 <http://risis.eu/wos/resource/Popova_IE2008SEPAR_SCI_TECHNOLV43P778> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1080/01496390701870663> .
 <http://risis.eu/wos/resource/Popova_IE2008J_ENVIRON_SCI_HEAL_AV43P1132> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1080/10934520802171576> .
@@ -91,9 +92,9 @@
 <http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/EP> "264" .
 <http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/PG> "11" .
 <http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/GA> "714PY" .
-<http://risis.eu/wos/resource/BAGLAYEVA_G2011SEP_SCI_TECHNOLV46P254> <http://risis.eu/wos/vocab/UT> "WOS:000286822700008" .
 
 <http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://risis.eu/wos/vocab/Article> .
+<http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://www.w3.org/2002/07/owl#sameAs> <urn:WOS:000286822700009> .
 <http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1080/01496395.2010.506904> .
 <http://risis.eu/wos/resource/Prommuak_C2008SEP_PURIF_TECHNOLV62P444> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.seppur.2008.02.020> .
 <http://risis.eu/wos/resource/Sowbhagya_HB2004FOOD_REV_INTV20P33> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1081/FRI-120028829> .
@@ -166,9 +167,9 @@
 <http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://risis.eu/wos/vocab/EP> "271" .
 <http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://risis.eu/wos/vocab/PG> "7" .
 <http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://risis.eu/wos/vocab/GA> "714PY" .
-<http://risis.eu/wos/resource/VECHPANICH_J2011SEP_SCI_TECHNOLV46P265> <http://risis.eu/wos/vocab/UT> "WOS:000286822700009" .
 
 <http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://risis.eu/wos/vocab/Article> .
+<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://www.w3.org/2002/07/owl#sameAs> <urn:WOS:000286822700010> .
 <http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1080/01496395.2010.505224> .
 <http://risis.eu/wos/resource/Zhang_XD2009J_HAZARD_MATERV170P883> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.jhazmat.2009.05.050> .
 <http://risis.eu/wos/resource/Guven_G2009CHEM_ENG_JV151P149> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.cej.2009.02.008> .
@@ -351,9 +352,9 @@
 <http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/EP> "282" .
 <http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/PG> "11" .
 <http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/GA> "714PY" .
-<http://risis.eu/wos/resource/MUTHUKUMAR_M2011SEP_SCI_TECHNOLV46P272> <http://risis.eu/wos/vocab/UT> "WOS:000286822700010" .
 
 <http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://risis.eu/wos/vocab/Article> .
+<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://www.w3.org/2002/07/owl#sameAs> <urn:WOS:000286822700011> .
 <http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1080/01496395.2010.512029> .
 <http://risis.eu/wos/resource/Lee_K2009MINER_ENGV22P395> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.mineng.2008.11.005> .
 <http://risis.eu/wos/resource/Marabini_AM2007MINER_ENGV20P1014> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.mineng.2007.03.012> .
@@ -501,9 +502,9 @@
 <http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/EP> "289" .
 <http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/PG> "7" .
 <http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/GA> "714PY" .
-<http://risis.eu/wos/resource/ACARKAN_N2011SEP_SCI_TECHNOLV46P283> <http://risis.eu/wos/vocab/UT> "WOS:000286822700011" .
 
 <http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://risis.eu/wos/vocab/Article> .
+<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://www.w3.org/2002/07/owl#sameAs> <urn:WOS:000286822700012> .
 <http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1080/01496395.2010.491493> .
 <http://risis.eu/wos/resource/Yuan_P2010J_HAZARD_MATERV173P614> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.jhazmat.2009.08.129> .
 <http://risis.eu/wos/resource/Gupta_S2009CHEM_ENG_JV150P352> <http://www.w3.org/2002/07/owl#sameAs> <http://dx.doi.org/10.1016/j.cej.2009.01.013> .
@@ -660,5 +661,4 @@
 <http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/EP> "299" .
 <http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/PG> "10" .
 <http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/GA> "714PY" .
-<http://risis.eu/wos/resource/LIU_Y2011SEP_SCI_TECHNOLV46P290> <http://risis.eu/wos/vocab/UT> "WOS:000286822700012" .
 

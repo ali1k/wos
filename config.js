@@ -54,7 +54,7 @@ module.exports = {
     CP:'Cited patent',
     J9:'29-character source title abbreviation',
     PA:'Publisher address',
-    UT:'ISI unique article identifier',
+    UT:'Unique Tag (ISI unique article identifier)',
     DI:'Digital Object Identifier (DOI)',
     EM:'Email address',
     FU:'Funding Agency and Grant Number',
