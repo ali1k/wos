@@ -1,0 +1,125 @@
+<http://risis.eu/wos/vocab/FN> <http://www.w3.org/2000/01/rdf-schema#label> "FN" .
+<http://risis.eu/wos/vocab/VR> <http://www.w3.org/2000/01/rdf-schema#label> "VR" .
+<http://risis.eu/wos/vocab/PT> <http://www.w3.org/2000/01/rdf-schema#label> "PT" .
+<http://risis.eu/wos/vocab/AU> <http://www.w3.org/2000/01/rdf-schema#label> "AU" .
+<http://risis.eu/wos/vocab/AF> <http://www.w3.org/2000/01/rdf-schema#label> "AF" .
+<http://risis.eu/wos/vocab/AR> <http://www.w3.org/2000/01/rdf-schema#label> "AR" .
+<http://risis.eu/wos/vocab/BN> <http://www.w3.org/2000/01/rdf-schema#label> "BN" .
+<http://risis.eu/wos/vocab/CA> <http://www.w3.org/2000/01/rdf-schema#label> "CA" .
+<http://risis.eu/wos/vocab/TI> <http://www.w3.org/2000/01/rdf-schema#label> "TI" .
+<http://risis.eu/wos/vocab/ED> <http://www.w3.org/2000/01/rdf-schema#label> "ED" .
+<http://risis.eu/wos/vocab/SO> <http://www.w3.org/2000/01/rdf-schema#label> "SO" .
+<http://risis.eu/wos/vocab/HO> <http://www.w3.org/2000/01/rdf-schema#label> "HO" .
+<http://risis.eu/wos/vocab/LA> <http://www.w3.org/2000/01/rdf-schema#label> "LA" .
+<http://risis.eu/wos/vocab/DT> <http://www.w3.org/2000/01/rdf-schema#label> "DT" .
+<http://risis.eu/wos/vocab/NR> <http://www.w3.org/2000/01/rdf-schema#label> "NR" .
+<http://risis.eu/wos/vocab/SN> <http://www.w3.org/2000/01/rdf-schema#label> "SN" .
+<http://risis.eu/wos/vocab/SP> <http://www.w3.org/2000/01/rdf-schema#label> "SP" .
+<http://risis.eu/wos/vocab/PU> <http://www.w3.org/2000/01/rdf-schema#label> "PU" .
+<http://risis.eu/wos/vocab/C1> <http://www.w3.org/2000/01/rdf-schema#label> "C1" .
+<http://risis.eu/wos/vocab/CL> <http://www.w3.org/2000/01/rdf-schema#label> "CL" .
+<http://risis.eu/wos/vocab/CY> <http://www.w3.org/2000/01/rdf-schema#label> "CY" .
+<http://risis.eu/wos/vocab/CT> <http://www.w3.org/2000/01/rdf-schema#label> "CT" .
+<http://risis.eu/wos/vocab/D2> <http://www.w3.org/2000/01/rdf-schema#label> "D2" .
+<http://risis.eu/wos/vocab/DE> <http://www.w3.org/2000/01/rdf-schema#label> "DE" .
+<http://risis.eu/wos/vocab/ID> <http://www.w3.org/2000/01/rdf-schema#label> "ID" .
+<http://risis.eu/wos/vocab/AB> <http://www.w3.org/2000/01/rdf-schema#label> "AB" .
+<http://risis.eu/wos/vocab/CR> <http://www.w3.org/2000/01/rdf-schema#label> "CR" .
+<http://risis.eu/wos/vocab/TC> <http://www.w3.org/2000/01/rdf-schema#label> "TC" .
+<http://risis.eu/wos/vocab/BP> <http://www.w3.org/2000/01/rdf-schema#label> "BP" .
+<http://risis.eu/wos/vocab/BE> <http://www.w3.org/2000/01/rdf-schema#label> "BE" .
+<http://risis.eu/wos/vocab/BA> <http://www.w3.org/2000/01/rdf-schema#label> "BA" .
+<http://risis.eu/wos/vocab/EP> <http://www.w3.org/2000/01/rdf-schema#label> "EP" .
+<http://risis.eu/wos/vocab/PG> <http://www.w3.org/2000/01/rdf-schema#label> "PG" .
+<http://risis.eu/wos/vocab/JI> <http://www.w3.org/2000/01/rdf-schema#label> "JI" .
+<http://risis.eu/wos/vocab/SE> <http://www.w3.org/2000/01/rdf-schema#label> "SE" .
+<http://risis.eu/wos/vocab/BS> <http://www.w3.org/2000/01/rdf-schema#label> "BS" .
+<http://risis.eu/wos/vocab/PY> <http://www.w3.org/2000/01/rdf-schema#label> "PY" .
+<http://risis.eu/wos/vocab/P2> <http://www.w3.org/2000/01/rdf-schema#label> "P2" .
+<http://risis.eu/wos/vocab/PD> <http://www.w3.org/2000/01/rdf-schema#label> "PD" .
+<http://risis.eu/wos/vocab/VL> <http://www.w3.org/2000/01/rdf-schema#label> "VL" .
+<http://risis.eu/wos/vocab/IS> <http://www.w3.org/2000/01/rdf-schema#label> "IS" .
+<http://risis.eu/wos/vocab/PN> <http://www.w3.org/2000/01/rdf-schema#label> "PN" .
+<http://risis.eu/wos/vocab/SU> <http://www.w3.org/2000/01/rdf-schema#label> "SU" .
+<http://risis.eu/wos/vocab/SI> <http://www.w3.org/2000/01/rdf-schema#label> "SI" .
+<http://risis.eu/wos/vocab/GA> <http://www.w3.org/2000/01/rdf-schema#label> "GA" .
+<http://risis.eu/wos/vocab/GP> <http://www.w3.org/2000/01/rdf-schema#label> "GP" .
+<http://risis.eu/wos/vocab/PI> <http://www.w3.org/2000/01/rdf-schema#label> "PI" .
+<http://risis.eu/wos/vocab/WP> <http://www.w3.org/2000/01/rdf-schema#label> "WP" .
+<http://risis.eu/wos/vocab/RP> <http://www.w3.org/2000/01/rdf-schema#label> "RP" .
+<http://risis.eu/wos/vocab/CP> <http://www.w3.org/2000/01/rdf-schema#label> "CP" .
+<http://risis.eu/wos/vocab/J9> <http://www.w3.org/2000/01/rdf-schema#label> "J9" .
+<http://risis.eu/wos/vocab/PA> <http://www.w3.org/2000/01/rdf-schema#label> "PA" .
+<http://risis.eu/wos/vocab/UT> <http://www.w3.org/2000/01/rdf-schema#label> "UT" .
+<http://risis.eu/wos/vocab/DI> <http://www.w3.org/2000/01/rdf-schema#label> "DI" .
+<http://risis.eu/wos/vocab/EM> <http://www.w3.org/2000/01/rdf-schema#label> "EM" .
+<http://risis.eu/wos/vocab/FU> <http://www.w3.org/2000/01/rdf-schema#label> "FU" .
+<http://risis.eu/wos/vocab/SC> <http://www.w3.org/2000/01/rdf-schema#label> "SC" .
+<http://risis.eu/wos/vocab/FX> <http://www.w3.org/2000/01/rdf-schema#label> "FX" .
+<http://risis.eu/wos/vocab/WC> <http://www.w3.org/2000/01/rdf-schema#label> "WC" .
+<http://risis.eu/wos/vocab/Z9> <http://www.w3.org/2000/01/rdf-schema#label> "Z9" .
+<http://risis.eu/wos/vocab/ER> <http://www.w3.org/2000/01/rdf-schema#label> "ER" .
+<http://risis.eu/wos/vocab/EF> <http://www.w3.org/2000/01/rdf-schema#label> "EF" .
+<http://risis.eu/wos/vocab/FN> <http://www.w3.org/2000/01/rdf-schema#comment> "File type" .
+<http://risis.eu/wos/vocab/VR> <http://www.w3.org/2000/01/rdf-schema#comment> "File format version number" .
+<http://risis.eu/wos/vocab/PT> <http://www.w3.org/2000/01/rdf-schema#comment> "Publication type (e.g., book, journal, book in series)" .
+<http://risis.eu/wos/vocab/AU> <http://www.w3.org/2000/01/rdf-schema#comment> "Author(s)" .
+<http://risis.eu/wos/vocab/AF> <http://www.w3.org/2000/01/rdf-schema#comment> "Author Full Name" .
+<http://risis.eu/wos/vocab/AR> <http://www.w3.org/2000/01/rdf-schema#comment> "Article Number" .
+<http://risis.eu/wos/vocab/BN> <http://www.w3.org/2000/01/rdf-schema#comment> "International Standard Book Number (ISBN)" .
+<http://risis.eu/wos/vocab/CA> <http://www.w3.org/2000/01/rdf-schema#comment> "Group Authors" .
+<http://risis.eu/wos/vocab/TI> <http://www.w3.org/2000/01/rdf-schema#comment> "Article title" .
+<http://risis.eu/wos/vocab/ED> <http://www.w3.org/2000/01/rdf-schema#comment> "Editors" .
+<http://risis.eu/wos/vocab/SO> <http://www.w3.org/2000/01/rdf-schema#comment> "Full source title" .
+<http://risis.eu/wos/vocab/HO> <http://www.w3.org/2000/01/rdf-schema#comment> "International Standard Book Number (ISBN)" .
+<http://risis.eu/wos/vocab/LA> <http://www.w3.org/2000/01/rdf-schema#comment> "Language" .
+<http://risis.eu/wos/vocab/DT> <http://www.w3.org/2000/01/rdf-schema#comment> "Document type" .
+<http://risis.eu/wos/vocab/NR> <http://www.w3.org/2000/01/rdf-schema#comment> "Cited reference count" .
+<http://risis.eu/wos/vocab/SN> <http://www.w3.org/2000/01/rdf-schema#comment> "ISSN" .
+<http://risis.eu/wos/vocab/SP> <http://www.w3.org/2000/01/rdf-schema#comment> "Conference Sponsors" .
+<http://risis.eu/wos/vocab/PU> <http://www.w3.org/2000/01/rdf-schema#comment> "Publisher" .
+<http://risis.eu/wos/vocab/C1> <http://www.w3.org/2000/01/rdf-schema#comment> "Author address" .
+<http://risis.eu/wos/vocab/CL> <http://www.w3.org/2000/01/rdf-schema#comment> "Conference Location" .
+<http://risis.eu/wos/vocab/CY> <http://www.w3.org/2000/01/rdf-schema#comment> "Conference Date" .
+<http://risis.eu/wos/vocab/CT> <http://www.w3.org/2000/01/rdf-schema#comment> "Conference Title" .
+<http://risis.eu/wos/vocab/D2> <http://www.w3.org/2000/01/rdf-schema#comment> "Book Digital Object Identifier (DOI)" .
+<http://risis.eu/wos/vocab/DE> <http://www.w3.org/2000/01/rdf-schema#comment> "Author keywords" .
+<http://risis.eu/wos/vocab/ID> <http://www.w3.org/2000/01/rdf-schema#comment> "KeyWords Plus" .
+<http://risis.eu/wos/vocab/AB> <http://www.w3.org/2000/01/rdf-schema#comment> "Abstract" .
+<http://risis.eu/wos/vocab/CR> <http://www.w3.org/2000/01/rdf-schema#comment> "Cited references" .
+<http://risis.eu/wos/vocab/TC> <http://www.w3.org/2000/01/rdf-schema#comment> "Times cited" .
+<http://risis.eu/wos/vocab/BP> <http://www.w3.org/2000/01/rdf-schema#comment> "Beginning page" .
+<http://risis.eu/wos/vocab/BE> <http://www.w3.org/2000/01/rdf-schema#comment> "Editors" .
+<http://risis.eu/wos/vocab/BA> <http://www.w3.org/2000/01/rdf-schema#comment> "Book Authors" .
+<http://risis.eu/wos/vocab/EP> <http://www.w3.org/2000/01/rdf-schema#comment> "Ending page" .
+<http://risis.eu/wos/vocab/PG> <http://www.w3.org/2000/01/rdf-schema#comment> "Page count" .
+<http://risis.eu/wos/vocab/JI> <http://www.w3.org/2000/01/rdf-schema#comment> "ISO source title abbreviation" .
+<http://risis.eu/wos/vocab/SE> <http://www.w3.org/2000/01/rdf-schema#comment> "Book series title" .
+<http://risis.eu/wos/vocab/BS> <http://www.w3.org/2000/01/rdf-schema#comment> "Book series subtitle" .
+<http://risis.eu/wos/vocab/PY> <http://www.w3.org/2000/01/rdf-schema#comment> "Publication year" .
+<http://risis.eu/wos/vocab/P2> <http://www.w3.org/2000/01/rdf-schema#comment> "Chapter Count (Book Citation Index)" .
+<http://risis.eu/wos/vocab/PD> <http://www.w3.org/2000/01/rdf-schema#comment> "Publication date" .
+<http://risis.eu/wos/vocab/VL> <http://www.w3.org/2000/01/rdf-schema#comment> "Volume" .
+<http://risis.eu/wos/vocab/IS> <http://www.w3.org/2000/01/rdf-schema#comment> "Issue" .
+<http://risis.eu/wos/vocab/PN> <http://www.w3.org/2000/01/rdf-schema#comment> "Part number" .
+<http://risis.eu/wos/vocab/SU> <http://www.w3.org/2000/01/rdf-schema#comment> "Supplement" .
+<http://risis.eu/wos/vocab/SI> <http://www.w3.org/2000/01/rdf-schema#comment> "Special issue" .
+<http://risis.eu/wos/vocab/GA> <http://www.w3.org/2000/01/rdf-schema#comment> "ISI document delivery number" .
+<http://risis.eu/wos/vocab/GP> <http://www.w3.org/2000/01/rdf-schema#comment> "Book Group Authors" .
+<http://risis.eu/wos/vocab/PI> <http://www.w3.org/2000/01/rdf-schema#comment> "Publisher city" .
+<http://risis.eu/wos/vocab/WP> <http://www.w3.org/2000/01/rdf-schema#comment> "Publisher web address" .
+<http://risis.eu/wos/vocab/RP> <http://www.w3.org/2000/01/rdf-schema#comment> "Reprint address" .
+<http://risis.eu/wos/vocab/CP> <http://www.w3.org/2000/01/rdf-schema#comment> "Cited patent" .
+<http://risis.eu/wos/vocab/J9> <http://www.w3.org/2000/01/rdf-schema#comment> "29-character source title abbreviation" .
+<http://risis.eu/wos/vocab/PA> <http://www.w3.org/2000/01/rdf-schema#comment> "Publisher address" .
+<http://risis.eu/wos/vocab/UT> <http://www.w3.org/2000/01/rdf-schema#comment> "Unique Tag (ISI unique article identifier)" .
+<http://risis.eu/wos/vocab/DI> <http://www.w3.org/2000/01/rdf-schema#comment> "Digital Object Identifier (DOI)" .
+<http://risis.eu/wos/vocab/EM> <http://www.w3.org/2000/01/rdf-schema#comment> "Email address" .
+<http://risis.eu/wos/vocab/FU> <http://www.w3.org/2000/01/rdf-schema#comment> "Funding Agency and Grant Number" .
+<http://risis.eu/wos/vocab/SC> <http://www.w3.org/2000/01/rdf-schema#comment> "Subject Category" .
+<http://risis.eu/wos/vocab/FX> <http://www.w3.org/2000/01/rdf-schema#comment> "Funding Text" .
+<http://risis.eu/wos/vocab/WC> <http://www.w3.org/2000/01/rdf-schema#comment> "Web of Science Category" .
+<http://risis.eu/wos/vocab/Z9> <http://www.w3.org/2000/01/rdf-schema#comment> "Total Times Cited Count (WoS, BCI, and CSCD)" .
+<http://risis.eu/wos/vocab/ER> <http://www.w3.org/2000/01/rdf-schema#comment> "End of record" .
+<http://risis.eu/wos/vocab/EF> <http://www.w3.org/2000/01/rdf-schema#comment> "End of file" .
+
