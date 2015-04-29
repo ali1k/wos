@@ -1,17 +1,22 @@
 #!/bin/bash
 source="./test/dump/1"
 dest="./test/dump/rdf"
+# Define a timestamp function
+timestamp() {
+  date +"%d%m%y_%H-%M-%S"
+}
 for dir in "$source"/*; do
   if [ -d "$dir" ]; then
     for f in "$dir"/*.txt; do
+      dirname=$(basename "$dir")
       filename=$(basename "$f")
       extension="${filename##*.}"
       filename="${filename%.*}"
-      if [ ! -e "$dest/$filename.n3" ]; then
+      if [ ! -e "$dest/$dirname-$filename.n3" ]; then
         echo " coverting \"$f\" to RDF...";
-        ./tsv_n3 "$f" > "$dest/$filename.n3";
-        #./isi_n3 "$f" > "../test/dump/rdf/$filename.n3";
-        echo " done... RDF available at $dest/$filename.n3";
+        ./tsv_n3 "$f" > "$dest/$dirname-$filename.n3";
+        #./isi_n3 "$f" > "$dest/$dir_$filename.n3";
+        echo " done... RDF available at $dest/$dirname-$filename.n3";
       fi
     done
   fi
