@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "byline": "~2.0.3",
-    "lodash": "^3.7.0",
+    "lodash": "^3.8.0",
     "mkdirp": "~0.3.4",
     "rdf": "^3.0.1"
   },
