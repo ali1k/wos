@@ -32,7 +32,7 @@ module.exports = {
         g.add(env.createTriple(uri, 'wosV:CR', 'wosR:'+encodeURIComponent(citation['qname'])));
         g.add(env.createTriple('wosR:'+encodeURIComponent(citation['qname']), 'rdfs:label', citation['citation'].l()));
         if(citation['doi']){
-          g.add(env.createTriple('wosR:'+citation['qname'], 'owl:sameAs', 'doi:'+encodeURIComponent(citation['doi'])));
+          g.add(env.createTriple('wosR:'+encodeURIComponent(citation['qname']), 'owl:sameAs', 'doi:'+encodeURIComponent(citation['doi'])));
         }
       });
     }
