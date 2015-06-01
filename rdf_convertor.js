@@ -19,7 +19,7 @@ module.exports = {
     var uri= 'wosR:' + encodeURIComponent(record['qname']);
     //rdf:type
     if(record['DT']){
-        g.add(env.createTriple(uri, rdfns('type'), 'wosV:'+record['DT'][0].replace(' ','_')));
+        g.add(env.createTriple(uri, rdfns('type'), 'wosV:'+record['DT'][0].replace(/\s/g,'_')));
     }
     if(record['UT']){
         g.add(env.createTriple(uri, 'owl:sameAs', 'urn:'+encodeURIComponent(record['UT'][0])));
