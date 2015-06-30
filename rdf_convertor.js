@@ -19,7 +19,7 @@ module.exports = {
     var uri= 'wosR:' + encodeURIComponent(record['qname']);
     //rdf:type
     if(record['DT']){
-        g.add(env.createTriple(uri, rdfns('type'), 'wosV:'+record['DT'][0].replace(/\s/g,'_')));
+        g.add(env.createTriple(uri, rdfns('type'), 'wosV:'+encodeURIComponent(record['DT'][0].replace(/\s/g,'_'))));
     }
     if(record['UT']){
         g.add(env.createTriple(uri, 'owl:sameAs', 'urn:'+encodeURIComponent(record['UT'][0])));
@@ -43,6 +43,7 @@ module.exports = {
         author_id=author.replace(/\./g,'').replace(/,\s/g,' ').replace(/\s/g,'_');
         g.add(env.createTriple(uri, 'wosV:AF', 'wosR:'+encodeURIComponent(author_id)));
         g.add(env.createTriple('wosR:'+encodeURIComponent(author_id), 'rdfs:label', author.l()));
+        g.add(env.createTriple('wosR:'+encodeURIComponent(author_id), rdfns('type'), 'wosV:Author' ));
         //add skos lat label for short author names
         if(record['AU'] && record['AU'][k]){
           g.add(env.createTriple('wosR:'+encodeURIComponent(author_id), 'skos:altLabel', record['AU'][k].l()));
