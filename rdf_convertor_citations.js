@@ -18,7 +18,7 @@ module.exports = {
       if(record['DT'] && record['DT'][0] === 'Article'){
           var g= new Graph;
           var parsedCR;
-          var uri= 'wosR:' + encodeURIComponent(record['qname']);
+          var uri= 'wosR:' + encodeURIComponent(record['qname'].toLowerCase());
           //rdf:type
               g.add(env.createTriple(uri, rdfns('type'), 'wosV:'+encodeURIComponent(record['DT'][0].replace(/\s/g,'_'))));
           if(record['DI']){
@@ -26,19 +26,19 @@ module.exports = {
           }
           if(record['CR']){
             _.forEach(record['CR'], function(citation) {
-              g.add(env.createTriple(uri, 'wosV:CR', 'wosR:'+encodeURIComponent(citation['qname'])));
+              g.add(env.createTriple(uri, 'wosV:CR', 'wosR:'+encodeURIComponent(citation['qname'].toLowerCase())));
               parsedCR = parseCitation(citation['citation']);
               if(parsedCR[0]){
-                  g.add(env.createTriple('wosR:'+encodeURIComponent(citation['qname']) , 'wosV:PY', parsedCR[0].l()));
+                  g.add(env.createTriple('wosR:'+encodeURIComponent(citation['qname'].toLowerCase()) , 'wosV:PY', parsedCR[0].l()));
               }
               if(parsedCR[1]){
-                  g.add(env.createTriple('wosR:'+encodeURIComponent(citation['qname']) , 'wosV:source', parsedCR[2]));
+                  g.add(env.createTriple('wosR:'+encodeURIComponent(citation['qname'].toLowerCase()) , 'wosV:source', parsedCR[2]));
                   g.add(env.createTriple(parsedCR[2] , rdfns('type'), 'wosV:Source'));
                   g.add(env.createTriple(parsedCR[2] , 'wosV:J9', parsedCR[1].l()));
               }
-              //g.add(env.createTriple('wosR:'+encodeURIComponent(citation['qname']), 'rdfs:label', citation['citation'].l()));
+              //g.add(env.createTriple('wosR:'+encodeURIComponent(citation['qname'].toLowerCase()), 'rdfs:label', citation['citation'].l()));
               if(citation['doi']){
-                //g.add(env.createTriple('wosR:'+encodeURIComponent(citation['qname']), 'owl:sameAs', 'doi:'+encodeURIComponent(citation['doi'])));
+                //g.add(env.createTriple('wosR:'+encodeURIComponent(citation['qname'].toLowerCase()), 'owl:sameAs', 'doi:'+encodeURIComponent(citation['doi'])));
             }else{
                 if(parsedCR[3]){
                    // g.add(env.createTriple(parsedCR[2] , 'owl:sameAs', 'doi:'+encodeURIComponent(parsedCR[3])));

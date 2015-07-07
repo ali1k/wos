@@ -16,7 +16,7 @@ rdf.setBuiltins();
 module.exports = {
   convert: function(record){
     var g= new Graph;
-    var uri= 'wosR:' + encodeURIComponent(record['qname']);
+    var uri= 'wosR:' + encodeURIComponent(record['qname'].toLowerCase());
     //rdf:type
     if(record['DT']){
         g.add(env.createTriple(uri, rdfns('type'), 'wosV:'+encodeURIComponent(record['DT'][0].replace(/\s/g,'_'))));
@@ -29,10 +29,10 @@ module.exports = {
     }
     if(record['CR']){
       _.forEach(record['CR'], function(citation) {
-        g.add(env.createTriple(uri, 'wosV:CR', 'wosR:'+encodeURIComponent(citation['qname'])));
-        g.add(env.createTriple('wosR:'+encodeURIComponent(citation['qname']), 'rdfs:label', citation['citation'].l()));
+        g.add(env.createTriple(uri, 'wosV:CR', 'wosR:'+encodeURIComponent(citation['qname'].toLowerCase())));
+        g.add(env.createTriple('wosR:'+encodeURIComponent(citation['qname'].toLowerCase()), 'rdfs:label', citation['citation'].l()));
         if(citation['doi']){
-          g.add(env.createTriple('wosR:'+encodeURIComponent(citation['qname']), 'owl:sameAs', 'doi:'+encodeURIComponent(citation['doi'])));
+          g.add(env.createTriple('wosR:'+encodeURIComponent(citation['qname'].toLowerCase()), 'owl:sameAs', 'doi:'+encodeURIComponent(citation['doi'])));
         }
       });
     }
