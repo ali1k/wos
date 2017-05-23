@@ -27,7 +27,7 @@ if (source.match(/^https?:\/\//))
     http.request(source, processStream).end();
 // Open a file stream otherwise
 else
-    processStream(fs.createReadStream(source));
+    processStream(fs.createReadStream(source, { encoding: 'utf8' }));
 
 /* Process the specified input stream */
 function processStream(inputStream) {
