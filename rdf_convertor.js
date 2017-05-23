@@ -1,46 +1,62 @@
 'use strict';
 var _ = require('lodash');
 var rdf = require('rdf');
+console.log('');
 var env=rdf.environment;
 var Graph=rdf.Graph;
 var rdfns=rdf.rdfns;
 
-env.setPrefix("risis", "http://risis.eu/");
-env.setPrefix("doi", "http://dx.doi.org/");
-env.setPrefix("wosV", "http://risis.eu/wos/vocab/");
-env.setPrefix("wosR", "http://risis.eu/wos/resource/");
-env.setPrefix("skos", "http://www.w3.org/2004/02/skos/core#");
-
+rdf.environment.setPrefix("risis", "http://risis.eu/");
+rdf.environment.setPrefix("doi", "http://dx.doi.org/");
+rdf.environment.setPrefix("wosV", "http://wos.risis.eu/vocabulary/");
+rdf.environment.setPrefix("wosR", "http://wos.risis.eu/resource/");
+rdf.environment.setPrefix("skos", "http://www.w3.org/2004/02/skos/core#");
 rdf.setBuiltins();
 
 module.exports = {
   convert: function(record){
+    if(!record['UT'] && !record['qname']){
+        return '';
+    }
+    console.log('#--------------------------------------------');
     var g= new Graph;
-    var uri= 'wosR:' + encodeURIComponent(record['qname'].toLowerCase());
+    var uri= '';
+    var uniqueID= '';
+    if(record['UT']){
+        uniqueID = encodeURIComponent(record['UT'][0].replace(':', '_'));
+        uri= 'wosR:' + uniqueID;
+    }else{
+        uniqueID = encodeURIComponent(record['qname'].toLowerCase());
+        uri= 'wosR:' +uniqueID;
+        g.add(env.createTriple(uri, rdfns('type'), 'wosV:RecordWithoutUT'));
+    }
+    g.add(env.createTriple(uri, rdfns('type'), 'wosV:Publication'));
     //rdf:type
     if(record['DT']){
         g.add(env.createTriple(uri, rdfns('type'), 'wosV:'+encodeURIComponent(record['DT'][0].replace(/\s/g,'_'))));
     }
-    if(record['UT']){
-        g.add(env.createTriple(uri, 'owl:sameAs', 'urn:'+encodeURIComponent(record['UT'][0])));
-    }
     if(record['DI']){
-        g.add(env.createTriple(uri, 'owl:sameAs', 'doi:'+encodeURIComponent(record['DI'][0])));
+        g.add(env.createTriple(uri, 'wosV:DOI', 'doi:'+encodeURIComponent(record['DI'][0])));
     }
     if(record['CR']){
       _.forEach(record['CR'], function(citation) {
-        g.add(env.createTriple(uri, 'wosV:CR', 'wosR:'+encodeURIComponent(citation['qname'].toLowerCase())));
-        g.add(env.createTriple('wosR:'+encodeURIComponent(citation['qname'].toLowerCase()), 'rdfs:label', citation['citation'].l()));
+        let ctURI = '';
         if(citation['doi']){
-          g.add(env.createTriple('wosR:'+encodeURIComponent(citation['qname'].toLowerCase()), 'owl:sameAs', 'doi:'+encodeURIComponent(citation['doi'])));
+            ctURI = 'doi:'+encodeURIComponent(citation['doi']);
+            g.add(env.createTriple(ctURI, 'wosV:DOI', 'doi:'+encodeURIComponent(citation['doi'])));
+        }else{
+            ctURI = 'wosR:'+encodeURIComponent(citation['qname'].toLowerCase());
         }
+        g.add(env.createTriple(uri, 'wosV:CR', ctURI));
+        g.add(env.createTriple(ctURI, 'rdfs:label', citation['citation'].l()));
+        g.add(env.createTriple(ctURI, rdfns('type'), 'wosV:CitedPublication'));
       });
     }
     if(record['AF']){
         var author_id='';
       //do not disambiguate authors, not sure if it is good to have unique authors?!!
       _.forEach(record['AF'], function(author,k) {
-        author_id=author.replace(/\./g,'').replace(/,\s/g,' ').replace(/\s/g,'_');
+        author_id=uniqueID+'_'+author.replace(/\./g,'').replace(/,\s/g,' ').replace(/\s/g,'_');
         g.add(env.createTriple(uri, 'wosV:AF', 'wosR:'+encodeURIComponent(author_id)));
         g.add(env.createTriple('wosR:'+encodeURIComponent(author_id), 'rdfs:label', author.l()));
         g.add(env.createTriple('wosR:'+encodeURIComponent(author_id), rdfns('type'), 'wosV:Author' ));
