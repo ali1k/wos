@@ -72,7 +72,9 @@ function processor(line) {
       }else{
         if(_.trim(line)){
           //values realted to the previous filed
-          current_record[record_type].push(_.trim(line));
+          if(current_record[record_type]){
+                current_record[record_type].push(_.trim(line));
+          }
           // console.log(_.trim(line));
         }
       }
